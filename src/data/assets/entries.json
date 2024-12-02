@@ -467,15 +467,15 @@
           "explore": [
             {
               "id": "TH_VILLAGE_X1",
-              "text": "The one and only Hearthian village, as well as the main source of explosions on this planet."
+              "text": "TLa única y exclusiva aldea lumbreana, que también es la principal fuente de explosiones en en este planeta."
             },
             {
               "id": "TH_VILLAGE_X2",
-              "text": "The Nomai statue in the observatory opened its eyes and looked at me! I saw strange glowing lights and my own memories flashed before my eyes."
+              "text": "¡La estatua nomai del obsevatorio abrió los ojos y me miró! Vi unas luces extrañas y brillantes, y mis propios recuerdos se me aparecieron ante los ojos."
             },
             {
               "id": "TH_VILLAGE_X3",
-              "text": "Hal says the statue has never opened its eyes before (despite Hornfels' best efforts)."
+              "text": "Hali dice que la estatua nunca había abierto los ojos (pese a todos los esfuerzos de Corné)."
             }
           ],
           "rumor": []
@@ -490,11 +490,11 @@
           "explore": [
             {
               "id": "TH_ZERO_G_CAVE_X1",
-              "text": "A cave at the very center of Timber Hearth used by Outer Wilds Ventures to train new astronauts."
+              "text": "Una cueva que se encuentra en el mismísimo centro de Lumbre. Outer Wilds Ventures la usa para capacitar a los astronautas nuevos."
             },
             {
               "id": "TH_ZERO_G_CAVE_X2",
-              "text": "I successfully repaired another \"satellite\" for Gossan."
+              "text": "Pude reparar otro \"satélite\" a pedido de Gossan."
             }
           ],
           "rumor": [
@@ -527,7 +527,7 @@
           "rumor": [
             {
               "id": "TH_IMPACT_CRATER_R1",
-              "text": "Esker's signalscope log reports harmonica music coming from somewhere on Timber Hearth. They claim it sounds just like Feldspar's harmonica, but Feldspar disappeared in space ages ago.",
+              "text": "El registro del señaloscopio de Esker indica una música de armónica que proviene de alguna parte de Lumbre. Dice que suena como la armónica de Feldespato, pero Feldespato desapareció en el espacio hace muchísimo.",
               "sourceId": "TM_NORTH_POLE"
             }
           ]
@@ -619,7 +619,7 @@
           "explore": [
             {
               "id": "TM_ESKER_X1",
-              "text": "Esker is growing a crop of trees at their camp. They seemed to be doing ok, but they’ve probably been alone on the moon for too long."
+              "text": "Esker está plantando árboles en su campamento. Al parecer, está bien, pero es probable que lleve demasiado tiempo sin compañía en la Luna."
             }
           ],
           "rumor": [
@@ -639,7 +639,7 @@
           "explore": [
             {
               "id": "TM_NORTH_POLE_X1",
-              "text": "A lookout platform with a spectacular view of the solar system. Esker uses their signalscope here to keep tabs on the other travelers."
+              "text": "Una plataforma de observación con una vista espectacular del sistema solar. Esker usa su señaloscopio para averiguar cómo están los demás viajeros."
             }
           ],
           "rumor": [
@@ -660,11 +660,11 @@
           "explore": [
             {
               "id": "TM_EYE_LOCATOR_X1",
-              "text": "A Nomai device created to pinpoint the sources of distant signals."
+              "text": "Un dispositivo nomai creado para localizar el origen de señales distantes."
             },
             {
               "id": "TM_EYE_LOCATOR_X2",
-              "text": "The Nomai were disappointed by their failure to detect a signal from something called the Eye of the universe."
+              "text": "Los nomai estaban frustrados por no poder detectar una señal de algo llamado \"Ojo del universo\"."
             }
           ],
           "rumor": [
@@ -675,7 +675,7 @@
             },
             {
               "id": "TM_EYE_LOCATOR_R2",
-              "text": "The Nomai text in the observatory talks about calibrating some sort of device on the Attlerock.",
+              "text": "El texto nomai del observatorio mencionaba algo sobre la calibración de una suerte de dispositivo en Rocaterra.",
               "sourceId": "TH_VILLAGE"
             }
           ]
@@ -704,7 +704,7 @@
           "rumor": [
             {
               "id": "BH_RIEBECK_R1",
-              "text": "Riebeck headed to Brittle Hollow to investigate something the Nomai were doing at the south pole.",
+              "text": "Riebeck emprendió camino hacia Hondonada Frágil para investigar algo que los nomai estaban haciendo en el polo sur.",
               "sourceId": "TM_EYE_LOCATOR"
             },
             {
@@ -1070,7 +1070,7 @@
           "rumor": [
             {
               "id": "BH_OBSERVATORY_R1",
-              "text": "The Nomai decided to build a larger, more sophisticated Eye signal locator on Brittle Hollow's south pole.",
+              "text": "Los nomai decidieron construir un localizador de señal del Ojo más sofisticado en el polo sur de Hondonada Frágil.",
               "sourceId": "TM_EYE_LOCATOR"
             },
             {
@@ -1210,7 +1210,7 @@
           "rumor": [
             {
               "id": "GD_GABBRO_ISLAND_R1",
-              "text": "Hal says Gabbro went back to Giant’s Deep to try to learn more about the Nomai statue in the observatory.",
+              "text": "Hali dice que Gabro volvió al Abismo del Gigante para averiguar más información sobre la estatua nomai del observatorio.",
               "sourceId": "TH_VILLAGE"
             }
           ]
