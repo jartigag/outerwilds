@@ -2,12 +2,8 @@ import React from 'react';
 import { useCookies } from 'react-cookie';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import MappyBoi from './components/DetectiveMap/MappyBoi';
-import FirstRunModal, {
-  Props as FirstRunModalProps,
-} from './components/FirstRunModal';
 import Grid from './components/Grid';
 import Content from './components/layout/Content';
-import Sidebar from './components/layout/Sidebar';
 import List from './components/List';
 import universe from './data/universe';
 import { AllMapLayers, MapLayer } from './util/map-layer';
