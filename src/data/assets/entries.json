@@ -4,7 +4,7 @@
     "entries": [
       {
         "id": "S_SUNSTATION",
-        "name": "Sun Station",
+        "name": "Estación Solar",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "facts": {
@@ -461,7 +461,7 @@
     "entries": [
       {
         "id": "TH_VILLAGE",
-        "name": "Village",
+        "name": "Aldea",
         "isCuriousity": false,
         "facts": {
           "explore": [
@@ -483,7 +483,7 @@
       },
       {
         "id": "TH_ZERO_G_CAVE",
-        "name": "Zero-G Cave",
+        "name": "Cueva de gravedad cero",
         "isCuriousity": false,
         "parentId": "TH_VILLAGE",
         "facts": {
@@ -507,7 +507,7 @@
       },
       {
         "id": "TH_IMPACT_CRATER",
-        "name": "Dark Bramble Seed",
+        "name": "Señal de armónica",
         "isCuriousity": false,
         "facts": {
           "explore": [
@@ -613,7 +613,7 @@
     "entries": [
       {
         "id": "TM_ESKER",
-        "name": "Esker’s Camp",
+        "name": "Campamento de Esker",
         "isCuriousity": false,
         "facts": {
           "explore": [
@@ -633,7 +633,7 @@
       },
       {
         "id": "TM_NORTH_POLE",
-        "name": "Lunar Lookout",
+        "name": "Puesto de observación lunar",
         "isCuriousity": false,
         "facts": {
           "explore": [
@@ -653,7 +653,7 @@
       },
       {
         "id": "TM_EYE_LOCATOR",
-        "name": "Eye Signal Locator",
+        "name": "Localizador de señal del Ojo",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "facts": {
@@ -688,7 +688,7 @@
     "entries": [
       {
         "id": "BH_RIEBECK",
-        "name": "Riebeck’s Camp",
+        "name": "Riebeck",
         "isCuriousity": false,
         "facts": {
           "explore": [
@@ -1045,7 +1045,7 @@
       },
       {
         "id": "BH_OBSERVATORY",
-        "name": "Southern Observatory",
+        "name": "Observatorio Sur",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "facts": {
@@ -1186,7 +1186,7 @@
       },
       {
         "id": "GD_GABBRO_ISLAND",
-        "name": "Gabbro’s Island",
+        "name": "Gabro",
         "isCuriousity": false,
         "facts": {
           "explore": [

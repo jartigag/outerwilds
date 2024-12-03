@@ -31,12 +31,10 @@ const DefaultVisibleLayers: MapLayer[] = [
   MapLayer.OTHER,
 ];
 
-const DefaultShowLogCounts = true;
+const DefaultShowLogCounts = false;
 const DefaultSpoilerFreeMode = true;
 
-const HasAgreedToPopUpCookiesName = 'has-agreed-to-pop-up';
 const SpoilerFreeModeCookieName = 'spoiler-free-mode';
-const ShowLogCountsCookieName = 'show-log-counts';
 const VisibleLayersCookieName = 'visible-layers';
 
 const cookie2boolean = (s: unknown, defaultValue: boolean): boolean => {
@@ -76,10 +74,8 @@ const visibleLayers2string = (visibleLayers: MapLayer[]): string => {
 
 const App: React.FC<Props> = ({ className }) => {
   const [cookies, setCookie] = useCookies([
-    ShowLogCountsCookieName,
     SpoilerFreeModeCookieName,
     VisibleLayersCookieName,
-    HasAgreedToPopUpCookiesName,
   ]);
 
   const [sidebarState, setSidebarState] = React.useState<SidebarState>(
@@ -87,7 +83,7 @@ const App: React.FC<Props> = ({ className }) => {
   );
 
   const [showLogCounts, setShowLogCounts] = React.useState<boolean>(
-    cookie2boolean(cookies[ShowLogCountsCookieName], DefaultShowLogCounts)
+    DefaultShowLogCounts
   );
 
   const [spoilerFreeMode, setSpoilerFreeMode] = React.useState<boolean>(
@@ -96,10 +92,6 @@ const App: React.FC<Props> = ({ className }) => {
 
   const [visibleLayers, setVisibleLayers] = React.useState<MapLayer[]>(
     cookie2VisibleLayers(cookies[VisibleLayersCookieName], DefaultVisibleLayers)
-  );
-
-  const [hasAgreedToPopUp, setHasAgreedToPopUp] = React.useState<boolean>(
-    cookie2boolean(cookies[HasAgreedToPopUpCookiesName], false)
   );
 
   const [resetAt, setResetAt] = React.useState<number>();
@@ -128,20 +120,9 @@ const App: React.FC<Props> = ({ className }) => {
     [visibleLayers]
   );
 
-  const toggleShowLogCounts = React.useCallback(() => {
-    setShowLogCounts(!showLogCounts);
-  }, [showLogCounts]);
-
   const toggleSpoilerFreeMode = React.useCallback(() => {
     setSpoilerFreeMode(!spoilerFreeMode);
   }, [spoilerFreeMode]);
-
-  React.useEffect(() => {
-    setCookie(ShowLogCountsCookieName, boolean2string(showLogCounts), {
-      path: '/',
-      sameSite: 'lax',
-    });
-  }, [showLogCounts, setCookie]);
 
   React.useEffect(() => {
     setCookie(SpoilerFreeModeCookieName, boolean2string(spoilerFreeMode), {
@@ -157,37 +138,12 @@ const App: React.FC<Props> = ({ className }) => {
     });
   }, [visibleLayers, setCookie]);
 
-  React.useEffect(() => {
-    setCookie(HasAgreedToPopUpCookiesName, boolean2string(hasAgreedToPopUp), {
-      path: '/',
-      sameSite: 'lax',
-    });
-  }, [hasAgreedToPopUp, setCookie]);
-
   const reset = React.useCallback(() => {
     setVisibleLayers(DefaultVisibleLayers);
     setShowLogCounts(DefaultShowLogCounts);
     setSpoilerFreeMode(DefaultSpoilerFreeMode);
     setResetAt(new Date().getMilliseconds());
   }, []);
-
-  const agreeToPopUp: FirstRunModalProps['onComplete'] = React.useCallback(
-    (agreeMode) => {
-      switch (agreeMode) {
-        case 'full':
-          setSpoilerFreeMode(false);
-          setShowLogCounts(true);
-          break;
-        case 'hide-spoilers':
-          setSpoilerFreeMode(true);
-          setShowLogCounts(true);
-          break;
-      }
-
-      setHasAgreedToPopUp(true);
-    },
-    []
-  );
 
   return (
     <Router>
@@ -196,24 +152,6 @@ const App: React.FC<Props> = ({ className }) => {
           className ?? ''
         } flex flex-col md:flex-row w-full min-h-screen h-full md:max-h-screen md:h-auto`}
       >
-        <div
-          className={`flex ${
-            isSidebarOpen ? `md:w-80` : `md:w-20`
-          } flex-col w-full flex-shrink-0`}
-        >
-          <Sidebar
-            toggleSidebar={toggleSidebar}
-            toggleLayer={toggleLayer}
-            visibleLayers={visibleLayers}
-            toggleShowLogCounts={toggleShowLogCounts}
-            showLogCounts={showLogCounts}
-            toggleSpoilerFreeMode={toggleSpoilerFreeMode}
-            spoilerFreeMode={spoilerFreeMode}
-            reset={reset}
-            isOpen={isSidebarOpen}
-          />
-        </div>
-
         <div
           className="flex flex-col md:flex-1 overflow-scroll scrollbar-off"
           style={{
@@ -239,8 +177,6 @@ const App: React.FC<Props> = ({ className }) => {
             </Routes>
           </Content>
         </div>
-
-        {!hasAgreedToPopUp && <FirstRunModal onComplete={agreeToPopUp} />}
       </div>
     </Router>
   );
