@@ -58,11 +58,11 @@
           "explore": [
             {
               "id": "CT_CHERT_X1",
-              "text": "Chert has set up their astronomy gear on the north pole of Ember Twin."
+              "text": "Chert se estableció con su equipo de astronomía en el polo norte de Gemelo Brasa."
             },
             {
               "id": "CT_CHERT_X2",
-              "text": "Chert has spotted an unusually high number of supernovae recently."
+              "text": "No hace mucho, Chert detectó una cantidad inusual de supernovas."
             },
             {
               "id": "CT_CHERT_X3",
@@ -112,7 +112,7 @@
           "explore": [
             {
               "id": "CT_GRAVITY_CANNON_X1",
-              "text": "A huge cylindrical structure that generates a strong upward gravity field."
+              "text": "Una estructura cilíndrica enorme que genera un fuerte campo gravitatorio ascendente."
             },
             {
               "id": "CT_GRAVITY_CANNON_X2",
@@ -137,11 +137,11 @@
           "explore": [
             {
               "id": "CT_ESCAPE_POD_X1",
-              "text": "One of three Nomai escape pods that crashed in our solar system."
+              "text": "Una de las tres cápsulas de escape nomai que se estrellaron en nuestro sistema solar."
             },
             {
               "id": "CT_ESCAPE_POD_X2",
-              "text": "All three escape pods were launched from something called the Vessel, which was badly damaged."
+              "text": "Las tres cápsulas de escape se lanzaron desde algo llamado la Nave, que terminó seriamente dañada."
             }
           ],
           "rumor": [
@@ -152,7 +152,7 @@
             },
             {
               "id": "CT_ESCAPE_POD_R2",
-              "text": "Chert saw a Nomai shipwreck shooting a beam of light into the sky somewhere on Ember Twin's southern hemisphere.",
+              "text": "Chert vio una nave nomai en ruinas que despedía un haz de luz hacia el cielo, en algún lugar del hemisferio sur de Gemelo Brasa.",
               "sourceId": "CT_CHERT"
             }
           ]
@@ -251,17 +251,17 @@
           "rumor": [
             {
               "id": "CT_SUNLESS_CITY_R1",
-              "text": "The Nomai survivors who crashed on Ember Twin decided to seek shelter in the caves beneath their crashed escape pod.",
+              "text": "Los supervivientes nomai de la colisión en Gemelo Brasa decidieron buscar refugio en las cuevas debajo de la cápsula de escape estrellada.",
               "sourceId": "CT_ESCAPE_POD"
             },
             {
               "id": "CT_SUNLESS_CITY_R3",
-              "text": "The Nomai discovered a promising long-term shelter site at the end of one of the passages beneath the escape pod.",
+              "text": "Los nomai descubrieron un prometedor refugio permanente en el extremo de uno de los pasajes que se encontraban debajo de la cápsula de escape.",
               "sourceId": "CT_ESCAPE_POD"
             },
             {
               "id": "CT_SUNLESS_CITY_R4",
-              "text": "Chert thinks the lack of surface ruins means the Nomai must have lived somewhere underground.",
+              "text": "Chert piensa que el hecho de que no haya ruinas en la superficie significa que los nomai deben haber vivido bajo tierra.",
               "sourceId": "CT_CHERT"
             },
             {
@@ -270,7 +270,7 @@
             },
             {
               "id": "CT_SUNLESS_CITY_R2",
-              "text": "I found a trailmarker for the the Sunless City, but the path is blocked."
+              "text": "Encontré un marcasendas de la Ciudad Sin Sol, pero el camino está bloqueado."
             }
           ]
         }
@@ -731,7 +731,7 @@
           "explore": [
             {
               "id": "BH_GRAVITY_CANNON_X1",
-              "text": "A huge cylindrical structure that generates a strong upward gravity field."
+              "text": "Una estructura cilíndrica enorme que genera un fuerte campo gravitatorio ascendente."
             },
             {
               "id": "BH_GRAVITY_CANNON_X2",
@@ -830,11 +830,11 @@
           "explore": [
             {
               "id": "BH_ESCAPE_POD_X1",
-              "text": "One of three Nomai escape pods that crashed in our solar system."
+              "text": "Una de las tres cápsulas de escape nomai que se estrellaron en nuestro sistema solar."
             },
             {
               "id": "BH_ESCAPE_POD_X2",
-              "text": "All three escape pods were launched from something called the Vessel, which was badly damaged."
+              "text": "Las tres cápsulas de escape se lanzaron desde algo llamado la Nave, que terminó seriamente dañada."
             }
           ],
           "rumor": [
@@ -1598,11 +1598,11 @@
           "explore": [
             {
               "id": "DB_ESCAPE_POD_X1",
-              "text": "One of three Nomai escape pods that crashed in our solar system."
+              "text": "Una de las tres cápsulas de escape nomai que se estrellaron en nuestro sistema solar."
             },
             {
               "id": "DB_ESCAPE_POD_X2",
-              "text": "All three escape pods were launched from something called the Vessel, which was badly damaged."
+              "text": "Las tres cápsulas de escape se lanzaron desde algo llamado la Nave, que terminó seriamente dañada."
             },
             {
               "id": "DB_ESCAPE_POD_X3",
