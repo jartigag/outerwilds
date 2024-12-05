@@ -1239,7 +1239,7 @@
           "rumor": [
             {
               "id": "GD_CONSTRUCTION_YARD_R1",
-              "text": "The Nomai built the Orbital Probe Cannon at a Construction Yard on Giant’s Deep.",
+              "text": "Los nomai construyeron el Cañón de Sondas Orbital en un Sitio de Construcción de Abismo del Gigante.",
               "sourceId": "ORBITAL_PROBE_CANNON"
             }
           ]
@@ -1442,7 +1442,7 @@
             },
             {
               "id": "OPC_SUNKEN_MODULE_R5",
-              "text": "The Probe Tracking Module is receiving data from the launched probe."
+              "text": "El Módulo de Rastreo de Sondas está recibiendo datos de la sonda lanzada."
             },
             {
               "id": "OPC_SUNKEN_MODULE_R4",
@@ -1487,11 +1487,11 @@
             },
             {
               "id": "OPC_BROKEN_MODULE_R2",
-              "text": "The Launch Module looks heavily damaged. There’s a huge breach in the glass viewport."
+              "text": "El Módulo de Lanzamiento sufrió daños muy importantes. Hay una rajadura enorme en la portilla."
             },
             {
               "id": "OPC_BROKEN_MODULE_R3",
-              "text": "The Launch Module's viewport window is fractured, exposing it to the vacuum of space."
+              "text": "Con la portilla fracturada, el Módulo de Lanzamiento queda expuesto al vacío del espacio."
             }
           ]
         }
@@ -1506,11 +1506,11 @@
           "explore": [
             {
               "id": "OPC_INTACT_MODULE_X1",
-              "text": "The Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory."
+              "text": "El Módulo de Control recibió una solicitud reciente del Proyecto \"Gemelo Ceniza\" para lanzar la sonda. El cañón se alineó con una trayectoria de sonda seleccionada al azar."
             },
             {
               "id": "OPC_INTACT_MODULE_X2",
-              "text": "The probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules."
+              "text": "El lanzamiento de la sonda fue exitoso, pero la integridad estructural del cañón no soportó el proceso. Se detectaron daños en varios módulos."
             }
           ],
           "rumor": [
