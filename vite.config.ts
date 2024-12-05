@@ -5,7 +5,8 @@ import viteTsconfigPaths from 'vite-tsconfig-paths';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://javier.artiga.es/outer-wilds-ventures/',
+  //base: 'https://javier.artiga.es/outer-wilds-ventures/',
+  base: '/',
   plugins: [
     react(),
     viteTsconfigPaths(),
