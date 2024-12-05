@@ -24,7 +24,7 @@ jobs:
           git fetch origin aux-branch:aux-branch
           git merge --allow-unrelated-histories -s ours aux-branch
           git switch aux-branch
-          git merge --no-ff --no-commit master
+          git merge --no-ff --no-commit main
           git commit -m "Merge branch 'aux-branch'"
 
       - name: Run translator
