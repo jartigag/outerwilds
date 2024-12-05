@@ -1168,7 +1168,7 @@
           "rumor": [
             {
               "id": "GD_OCEAN_R1",
-              "text": "Gabbro says there’s a strong current beneath the surface of the ocean that prevents anything from sinking below it.",
+              "text": "Gabro dice que hay una fuerte corriente que pasa por debajo de la superficie del océano y no permite que nada se hunda.",
               "sourceId": "GD_GABBRO_ISLAND"
             },
             {
@@ -1192,19 +1192,19 @@
           "explore": [
             {
               "id": "GD_GABBRO_ISLAND_X0",
-              "text": "Gabbro is lounging in a hammock near the island’s shore."
+              "text": "Gabro está holgazaneando en una hamaca cerca de la costa de la isla."
             },
             {
               "id": "GD_GABBRO_ISLAND_X1",
-              "text": "Gabbro found a Nomai statue on another island. The statue's eyes started glowing and Gabbro saw their memories flash before their eyes."
+              "text": "Gabro encontró una estatua nomai en otra isla. Los ojos de la estatua comenzaron a brillar y Gabro vio cómo sus recuerdos se le aparecian ante los ojos."
             },
             {
               "id": "GD_GABBRO_ISLAND_X2",
-              "text": "Gabbro remembers dying. They saw their memories flash before their eyes, just like the time with the statue."
+              "text": "Gabro recuerda haber muerto. Vio cómo sus recuerdos se le aparecian ante los ojos, igual que con la estatua."
             },
             {
               "id": "GD_GABBRO_ISLAND_X3",
-              "text": "Gabbro and I seem to be the only ones aware that we're in a time loop."
+              "text": "Es posible que solo Gabro y yo nos percatemos de que estamos en un bucle temporal."
             }
           ],
           "rumor": [
@@ -1279,12 +1279,12 @@
           "rumor": [
             {
               "id": "GD_STATUE_ISLAND_R1",
-              "text": "One of the islands on Giant’s Deep has a Nomai statue on the beach just like the one Gabbro brought back to Timber Hearth.",
+              "text": "Una de las islas de Abismo del Gigante tiene una estatua nomai en la playa, que es igual a la que Gabro llevó a Lumbre.",
               "sourceId": "GD_GABBRO_ISLAND"
             },
             {
               "id": "GD_STATUE_ISLAND_R2",
-              "text": "Statue Island (as Gabbro calls it) is the one with two islands connected by a natural rock arch.",
+              "text": "La Isla de la Estatua (bautizada por Gabro) está conectada a otra isla por un arco rocoso natural.",
               "sourceId": "GD_GABBRO_ISLAND"
             }
           ]
