@@ -1,6 +1,8 @@
 name: Deploy
 
 on:
+  schedule:
+    - cron: '2 * * * *'
   push:
     branches:
       - main
@@ -13,10 +15,33 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          ref: 'main'
+      - name: Merge main on aux-branch
+        run: |-
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "gh-actions"
+          git fetch origin aux-branch:aux-branch
+          git merge --allow-unrelated-histories -s ours aux-branch
+          git switch aux-branch
+          git merge --no-ff --no-commit master
+          git commit -m "Merge branch 'aux-branch'"
 
       - name: Run translator
         run: |
           ./translator.py
+
+      - name: Commit, push and merge if changed
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "gh-actions"
+          git add -A
+          git commit -m "." || exit 0
+          git push origin aux-branch
+          git switch main
+          git merge aux-branch
+          git push
 
       - name: Setup Node
         uses: actions/setup-node@v4
