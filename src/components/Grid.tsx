@@ -32,14 +32,12 @@ const Grid: React.FC<Props> = ({ nodes }) => {
             node={node}
             onSelect={onSelect}
             isSelected={node.id === selected?.id}
-            showLogCount={true}
-            spoilerFreeMode={false}
           />
         </div>
       ))}
       {selected && (
         <div className="sticky bottom-0 w-full">
-          <Log logs={selected.logs} spoilerFreeMode={false} />
+          <Log logs={selected.logs} />
         </div>
       )}
     </div>
