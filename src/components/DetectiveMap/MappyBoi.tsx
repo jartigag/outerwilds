@@ -28,8 +28,6 @@ declare module 'react-svg-pan-zoom' {
 type Props = {
   nodes: MapNode[];
   visibleLayers: MapLayer[];
-  showLogCounts: boolean;
-  spoilerFreeMode: boolean;
   resetAt?: number;
 };
 
@@ -40,8 +38,6 @@ const scaleSteps = 20;
 const MappyBoi: React.FC<Props> = ({
   nodes,
   visibleLayers,
-  showLogCounts,
-  spoilerFreeMode,
   resetAt,
 }) => {
   const [selected, setSelected] = React.useState<{
@@ -224,8 +220,6 @@ const MappyBoi: React.FC<Props> = ({
                   onSelectConnection={onSelectConnection}
                   selected={selected}
                   visibleLayers={visibleLayers}
-                  showLogCounts={showLogCounts}
-                  spoilerFreeMode={spoilerFreeMode}
                 />
               </svg>
             </ReactSVGPanZoom>
@@ -233,7 +227,7 @@ const MappyBoi: React.FC<Props> = ({
         </div>
       </div>
       {(selected.node || selected.connection) && (
-        <Log logs={logs} spoilerFreeMode={spoilerFreeMode} />
+        <Log logs={logs}/>
       )}
     </>
   );

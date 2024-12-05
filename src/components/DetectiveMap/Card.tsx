@@ -12,8 +12,6 @@ export type Props = {
     id: MapNode['id'],
     size: { width: number; height: number }
   ) => void;
-  showLogCount: boolean;
-  spoilerFreeMode: boolean;
 };
 
 const BaseWidth = 110;
@@ -25,8 +23,6 @@ const Card: React.FC<Props> = ({
   onResize,
   node,
   isSelected = false,
-  showLogCount,
-  spoilerFreeMode,
 }) => {
   const { id, name, curiosity, logs } = node;
 
@@ -41,14 +37,12 @@ const Card: React.FC<Props> = ({
     },
   });
 
-  const theme = themeFrom(spoilerFreeMode ? undefined : curiosity, isSelected);
+  const theme = themeFrom(curiosity, isSelected);
 
   return (
     <div
       ref={observe}
-      className={`${theme.bg} ${theme.bghover} text-page-bg cursor-pointer ${
-        spoilerFreeMode ? 'font-flow-block' : 'font-space-mono'
-      } flex flex-col`}
+      className={`${theme.bg} ${theme.bghover} text-page-bg cursor-pointer font-space-mono flex flex-col`}
       style={{
         width: BaseWidth,
         maxWidth: BaseWidth,
@@ -88,16 +82,10 @@ const Card: React.FC<Props> = ({
           className={`h-full w-full flex items-center justify-center content-center text-6xl shadow-md bg-cover bg-page-bg font-space-mono text-white`}
           style={{
             imageRendering: 'pixelated',
-            backgroundImage: spoilerFreeMode ? undefined : `url(${node.image})`,
+            backgroundImage: `url(${node.image})`,
             WebkitTextStroke: '1px black',
           }}
         >
-          {showLogCount && (
-            <>
-              {spoilerFreeMode && '?'}
-              {!spoilerFreeMode && logs.length}
-            </>
-          )}
         </div>
       </div>
     </div>

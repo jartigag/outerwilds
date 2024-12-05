@@ -111,8 +111,6 @@ type Props = {
   onSelectConnection: (connection: Connection) => void;
   selected?: { node?: MapNode; connection?: Connection };
   visibleLayers: MapLayer[];
-  showLogCounts: boolean;
-  spoilerFreeMode: boolean;
 };
 
 const curiosityIsInVisibleLayer = (
@@ -147,8 +145,6 @@ const DetectiveMap: React.FC<Props> = ({
   onSelectNode,
   onSelectConnection,
   visibleLayers,
-  showLogCounts,
-  spoilerFreeMode,
 }) => {
   const [sizes, setSizes] = React.useState<Record<MapNode['id'], Size>>({});
 
@@ -396,8 +392,6 @@ const DetectiveMap: React.FC<Props> = ({
                   onSelect={onSelectNode}
                   onResize={onCardResize}
                   isSelected={node.id === selected?.node?.id}
-                  showLogCount={showLogCounts}
-                  spoilerFreeMode={spoilerFreeMode}
                 />
               </div>
             </foreignObject>
