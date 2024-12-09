@@ -69,10 +69,12 @@ if __name__ == "__main__":
 
   for entry in tagged_entries_from_videos:
     tag = entry["id"]
-    old_text = find_text_from_id(json_file, tag).replace('"','\\\\\\\\\\"')
+    old_text = find_text_from_id(json_file, tag)
     if old_text:
-      new_text = find_text_from_id(tagged_entries_from_videos, tag).replace('"','\\\\\\\\\\"')
+      new_text = find_text_from_id(tagged_entries_from_videos, tag)
       if new_text:
+        old_text = old_text.replace('"','\\\\\\\\\\"')
+        new_text = new_text.replace('"','\\\\\\\\\\"')
         command = f'sed -i "s/{old_text}/{new_text}/g" "{ENTRIES_FILE}"'
         print(command)
         os.system(command)
