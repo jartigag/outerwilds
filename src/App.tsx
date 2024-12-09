@@ -39,10 +39,10 @@ const App: React.FC<Props> = ({ className }) => {
         >
           <Content>
             <Routes>
-              <Route path="/list" element={<List nodes={universe.nodes} />} />
-              <Route path="/grid" element={<Grid nodes={universe.nodes} />} />
+              <Route path="/outerwilds/list" element={<List nodes={universe.nodes} />} />
+              <Route path="/outerwilds/grid" element={<Grid nodes={universe.nodes} />} />
               <Route
-                path="/"
+                path="/outerwilds/"
                 element={
                   <MappyBoi
                     nodes={universe.nodes}
