@@ -443,7 +443,7 @@
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_R3",
-              "text": "Every memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Ash Twin.",
+              "text": "Cada recuerdo grabado por una estatua se transmite a la unidad de almacenamiento correspondiente en Gemelo Ceniza.",
               "sourceId": "GD_STATUE_WORKSHOP"
             },
             {
@@ -1269,11 +1269,11 @@
           "explore": [
             {
               "id": "GD_STATUE_ISLAND_X1",
-              "text": "This island must be where the Nomai created statues like the one in our observatory."
+              "text": "Esta isla debe haber sido el lugar donde los nomai crearon las estatuas mnemónicas, como la que está en el observatorio."
             },
             {
               "id": "GD_STATUE_ISLAND_X2",
-              "text": "I found a Nomai statue lying on the beach. It looks just like the one in our observatory."
+              "text": "Encontré una estatua nomai tirada en la playa. Es igual a la de nuestro observatorio."
             }
           ],
           "rumor": [
@@ -1300,11 +1300,11 @@
           "explore": [
             {
               "id": "GD_STATUE_WORKSHOP_X1",
-              "text": "Nomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Ash Twin Project."
+              "text": "Las estatuas nomai estaban diseñadas para emparejarse con un usuario único, grabar sus recuerdos y enviar dichos recuerdos a una unidad de almacenamiento dentro del Proyecto \"Gemelo Ceniza\"."
             },
             {
               "id": "GD_STATUE_WORKSHOP_X2",
-              "text": "Each storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user."
+              "text": "Cada unidad de almacenamiento dentro del Proyecto \"Gemelo Ceniza\" estaba equipada con una máscara, el complemento de la estatua, la cual podría reenviar los recuerdos almacenados al usuario correspondiente."
             },
             {
               "id": "GD_STATUE_WORKSHOP_X3",
