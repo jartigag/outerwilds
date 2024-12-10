@@ -5,24 +5,24 @@ import Grid from './components/Grid';
 import Content from './components/layout/Content';
 import List from './components/List';
 import universe from './data/universe';
-import { AllMapLayers, MapLayer } from './util/map-layer';
+import MapLayer from './util/map-layer';
 
 type Props = {
   className?: React.HTMLAttributes<HTMLElement>['className'];
 };
 
 const visibleLayers: MapLayer[] = [
-  MapLayer.SUNKEN_MODULE,
-  MapLayer.VESSEL,
-  MapLayer.QUANTUM_MOON,
   MapLayer.TIME_LOOP,
-  MapLayer.INVISIBLE_PLANET,
+  MapLayer.SUNKEN_MODULE,
+  // MapLayer.VESSEL,
+  // MapLayer.QUANTUM_MOON,
+  // MapLayer.INVISIBLE_PLANET,
   MapLayer.OTHER,
 ];
 
 const App: React.FC<Props> = ({ className }) => {
 
-  const [resetAt, setResetAt] = React.useState<number>();
+  const [resetAt] = React.useState<number>();
 
   return (
     <Router>
