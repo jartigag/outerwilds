@@ -404,7 +404,7 @@
       },
       {
         "id": "TT_TIME_LOOP_DEVICE",
-        "name": "Proyecto Gemelo Ceniza",
+        "name": "Proyecto \"Gemelo Ceniza\"",
         "isCuriousity": {},
         "curiousity": "TIME_LOOP",
         "facts": {
@@ -965,7 +965,7 @@
       },
       {
         "id": "BH_BLACK_HOLE_FORGE",
-        "name": "Black Hole Forge",
+        "name": "Forja del Agujero Negro",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "facts": {
