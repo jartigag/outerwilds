@@ -160,7 +160,7 @@
       },
       {
         "id": "CT_HIGH_ENERGY_LAB",
-        "name": "High Energy Lab",
+        "name": "Laboratorio Ultraenergético",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "facts": {
@@ -385,7 +385,7 @@
     "entries": [
       {
         "id": "TT_WARP_TOWERS",
-        "name": "Ash Twin Towers",
+        "name": "Torres de Gemelo Ceniza",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "facts": {
@@ -404,7 +404,7 @@
       },
       {
         "id": "TT_TIME_LOOP_DEVICE",
-        "name": "Proyecto Gemelo Ceniza",
+        "name": "Proyecto \"Gemelo Ceniza\"",
         "isCuriousity": {},
         "curiousity": "TIME_LOOP",
         "facts": {
@@ -965,7 +965,7 @@
       },
       {
         "id": "BH_BLACK_HOLE_FORGE",
-        "name": "Black Hole Forge",
+        "name": "Forja del Agujero Negro",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "facts": {
@@ -1367,7 +1367,7 @@
     "entries": [
       {
         "id": "ORBITAL_PROBE_CANNON",
-        "name": "Orbital Probe Cannon",
+        "name": "Cañón de Sondas Orbital",
         "isCuriousity": {},
         "curiousity": "SUNKEN_MODULE",
         "facts": {
@@ -1718,7 +1718,7 @@
     "entries": [
       {
         "id": "WHITE_HOLE_STATION",
-        "name": "White Hole Station",
+        "name": "Estación Agujero Blanco",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "facts": {
