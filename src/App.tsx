@@ -14,7 +14,7 @@ type Props = {
 const visibleLayers: MapLayer[] = [
   MapLayer.TIME_LOOP,
   MapLayer.SUNKEN_MODULE,
-  // MapLayer.VESSEL,
+  MapLayer.VESSEL,
   // MapLayer.QUANTUM_MOON,
   // MapLayer.INVISIBLE_PLANET,
   MapLayer.OTHER,
