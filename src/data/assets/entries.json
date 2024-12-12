@@ -34,7 +34,7 @@
             },
             {
               "id": "S_SUNSTATION_R2",
-              "text": "The Nomai debated building a Sun Station in order to power the Ash Twin Project.",
+              "text": "Los nomai debatieron si debían construir una Estación Solar para poner en marcha el Proyecto \"Gemelo Ceniza\".",
               "sourceId": "CT_SUNLESS_CITY"
             },
             {
@@ -52,7 +52,7 @@
     "entries": [
       {
         "id": "CT_CHERT",
-        "name": "Chert’s Camp",
+        "name": "Campamento de Chert",
         "isCuriousity": false,
         "facts": {
           "explore": [
@@ -105,7 +105,7 @@
       },
       {
         "id": "CT_GRAVITY_CANNON",
-        "name": "Gravity Cannon",
+        "name": "Cañón Gravitatorio",
         "isCuriousity": false,
         "curiousity": "COMET_CORE",
         "facts": {
@@ -130,7 +130,7 @@
       },
       {
         "id": "CT_ESCAPE_POD",
-        "name": "Escape Pod 2",
+        "name": "Cápsula de Escape 2",
         "isCuriousity": false,
         "curiousity": "VESSEL",
         "facts": {
@@ -231,17 +231,17 @@
       },
       {
         "id": "CT_SUNLESS_CITY",
-        "name": "The Sunless City",
+        "name": "Ciudad Sin Sol",
         "isCuriousity": false,
         "facts": {
           "explore": [
             {
               "id": "CT_SUNLESS_CITY_X1",
-              "text": "A Nomai city built into the walls of a huge underground cavern. The city is divided vertically into four districts."
+              "text": "Una ciudad nomai construida en los muros de una enorme caverna subterránea. La ciudad se divide, en forma vertical, en cuatro distritos."
             },
             {
               "id": "CT_SUNLESS_CITY_X2",
-              "text": "The Nomai debated building a Sun Station in order to power the Ash Twin Project. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system."
+              "text": "Los nomai debatieron si debían construir una Estación Solar para poner en marcha el Proyecto \"Gemelo Ceniza\". Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system."
             },
             {
               "id": "CT_SUNLESS_CITY_X3",
@@ -277,7 +277,7 @@
       },
       {
         "id": "CT_ANGLERFISH_FOSSIL",
-        "name": "Anglerfish Fossil",
+        "name": "Cueva del Pez Fósil",
         "isCuriousity": false,
         "curiousity": "VESSEL",
         "facts": {
@@ -308,12 +308,12 @@
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_R3",
-              "text": "Nomai children used to play a game in Fossil Fish Cave. There is a way to enter Fossil Fish Cave from Stepping Stone Cave.",
+              "text": "Los niños nomai solían jugar a un juego en la Cueva del Pez Fósil. Se puede acceder a la Cueva del Pez Fósil desde la Cueva de los Peldaños.",
               "sourceId": "CT_SUNLESS_CITY"
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_R4",
-              "text": "The entrance from Stepping Stone Cave is hard to see unless the anglerfish is fed a light first.",
+              "text": "La entrada desde la Cueva de los Peldaños es difícil de ver, a menos que el rape se trague una linterna.",
               "sourceId": "CT_SUNLESS_CITY"
             }
           ]
@@ -404,7 +404,7 @@
       },
       {
         "id": "TT_TIME_LOOP_DEVICE",
-        "name": "Ash Twin Project",
+        "name": "Proyecto Gemelo Ceniza",
         "isCuriousity": {},
         "curiousity": "TIME_LOOP",
         "facts": {
@@ -443,7 +443,7 @@
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_R3",
-              "text": "Every memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Ash Twin.",
+              "text": "Cada recuerdo grabado por una estatua se transmite a la unidad de almacenamiento correspondiente en Gemelo Ceniza.",
               "sourceId": "GD_STATUE_WORKSHOP"
             },
             {
@@ -483,7 +483,7 @@
       },
       {
         "id": "TH_ZERO_G_CAVE",
-        "name": "Cueva de gravedad cero",
+        "name": "Cueva de Gravedad Cero",
         "isCuriousity": false,
         "parentId": "TH_VILLAGE",
         "facts": {
@@ -507,7 +507,7 @@
       },
       {
         "id": "TH_IMPACT_CRATER",
-        "name": "Señal de armónica",
+        "name": "Señal de Armónica",
         "isCuriousity": false,
         "facts": {
           "explore": [
@@ -633,7 +633,7 @@
       },
       {
         "id": "TM_NORTH_POLE",
-        "name": "Puesto de observación lunar",
+        "name": "Puesto de Observación Lunar",
         "isCuriousity": false,
         "facts": {
           "explore": [
@@ -653,7 +653,7 @@
       },
       {
         "id": "TM_EYE_LOCATOR",
-        "name": "Localizador de señal del Ojo",
+        "name": "Localizador de Señal del Ojo",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "facts": {
@@ -724,7 +724,7 @@
       },
       {
         "id": "BH_GRAVITY_CANNON",
-        "name": "Gravity Cannon",
+        "name": "Cañón Gravitatorio",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
@@ -823,7 +823,7 @@
       },
       {
         "id": "BH_ESCAPE_POD",
-        "name": "Escape Pod 1",
+        "name": "Cápsula de Escape 1",
         "isCuriousity": false,
         "curiousity": "VESSEL",
         "facts": {
@@ -1218,7 +1218,7 @@
       },
       {
         "id": "GD_CONSTRUCTION_YARD",
-        "name": "Construction Yard",
+        "name": "Sitio de Construcción",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "facts": {
@@ -1262,18 +1262,18 @@
       },
       {
         "id": "GD_STATUE_ISLAND",
-        "name": "Statue Island",
+        "name": "Isla de la Estatua",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "facts": {
           "explore": [
             {
               "id": "GD_STATUE_ISLAND_X1",
-              "text": "This island must be where the Nomai created statues like the one in our observatory."
+              "text": "Esta isla debe haber sido el lugar donde los nomai crearon las estatuas mnemónicas, como la que está en el observatorio."
             },
             {
               "id": "GD_STATUE_ISLAND_X2",
-              "text": "I found a Nomai statue lying on the beach. It looks just like the one in our observatory."
+              "text": "Encontré una estatua nomai tirada en la playa. Es igual a la de nuestro observatorio."
             }
           ],
           "rumor": [
@@ -1300,11 +1300,11 @@
           "explore": [
             {
               "id": "GD_STATUE_WORKSHOP_X1",
-              "text": "Nomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Ash Twin Project."
+              "text": "Las estatuas nomai estaban diseñadas para emparejarse con un usuario único, grabar sus recuerdos y enviar dichos recuerdos a una unidad de almacenamiento dentro del Proyecto \"Gemelo Ceniza\"."
             },
             {
               "id": "GD_STATUE_WORKSHOP_X2",
-              "text": "Each storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user."
+              "text": "Cada unidad de almacenamiento dentro del Proyecto \"Gemelo Ceniza\" estaba equipada con una máscara, el complemento de la estatua, la cual podría reenviar los recuerdos almacenados al usuario correspondiente."
             },
             {
               "id": "GD_STATUE_WORKSHOP_X3",
@@ -1411,7 +1411,7 @@
       },
       {
         "id": "OPC_SUNKEN_MODULE",
-        "name": "Probe Tracking Module",
+        "name": "Módulo de Rastreo de Sondas",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "altPhotoCondition": "OPC_EYE_COORDINATES_X1",
@@ -1461,7 +1461,7 @@
       },
       {
         "id": "OPC_BROKEN_MODULE",
-        "name": "Launch Module",
+        "name": "Módulo de Lanzamiento",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "parentId": "ORBITAL_PROBE_CANNON",
@@ -1498,7 +1498,7 @@
       },
       {
         "id": "OPC_INTACT_MODULE",
-        "name": "Control Module",
+        "name": "Módulo de Control",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "parentId": "ORBITAL_PROBE_CANNON",
@@ -1591,7 +1591,7 @@
       },
       {
         "id": "DB_ESCAPE_POD",
-        "name": "Escape Pod 3",
+        "name": "Cápsula de Escape 3",
         "isCuriousity": false,
         "curiousity": "VESSEL",
         "facts": {
