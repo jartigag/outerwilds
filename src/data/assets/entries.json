@@ -392,11 +392,11 @@
           "explore": [
             {
               "id": "TT_WARP_TOWERS_X1",
-              "text": "Several large Nomai towers form a ring around Ash Twin's equator."
+              "text": "En el ecuador de Gemelo Ceniza hay un anillo formado por varias torres nomai de gran tamaño."
             },
             {
               "id": "TT_WARP_TOWERS_X2",
-              "text": "The White Hole Station was used as a model for these towers, which were built for the Ash Twin Project."
+              "text": "La estación del Agujero Blanco se utilizó como modelo para estas torres, que se construyeron para el Proyecto \"Gemelo Ceniza\"."
             }
           ],
           "rumor": []
@@ -1009,7 +1009,7 @@
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_R4",
-              "text": "The Nomai crafted warp cores at the Black Hole Forge before delivering them to Ash Twin.",
+              "text": "Los nomai crearon núcleos de distorsión en la Forja del Agujero Negro antes de entregarlos en Gemelo Ceniza.",
               "sourceId": "TT_WARP_TOWERS"
             }
           ]
@@ -1758,7 +1758,7 @@
             },
             {
               "id": "WHS_R4",
-              "text": "The towers on Ash Twin were modeled after the White Hole Station.",
+              "text": "Las torres de Gemelo Ceniza se basaron en la Estación del Agujero Blanco.",
               "sourceId": "TT_WARP_TOWERS"
             }
           ]
