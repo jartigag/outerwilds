@@ -34,7 +34,7 @@
             },
             {
               "id": "S_SUNSTATION_R2",
-              "text": "The Nomai debated building a Sun Station in order to power the Ash Twin Project.",
+              "text": "Los nomai debatieron si debían construir una Estación Solar para poner en marcha el Proyecto \"Gemelo Ceniza\".",
               "sourceId": "CT_SUNLESS_CITY"
             },
             {
@@ -237,11 +237,11 @@
           "explore": [
             {
               "id": "CT_SUNLESS_CITY_X1",
-              "text": "A Nomai city built into the walls of a huge underground cavern. The city is divided vertically into four districts."
+              "text": "Una ciudad nomai construida en los muros de una enorme caverna subterránea. La ciudad se divide, en forma vertical, en cuatro distritos."
             },
             {
               "id": "CT_SUNLESS_CITY_X2",
-              "text": "The Nomai debated building a Sun Station in order to power the Ash Twin Project. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system."
+              "text": "Los nomai debatieron si debían construir una Estación Solar para poner en marcha el Proyecto \"Gemelo Ceniza\". Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system."
             },
             {
               "id": "CT_SUNLESS_CITY_X3",
@@ -308,12 +308,12 @@
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_R3",
-              "text": "Nomai children used to play a game in Fossil Fish Cave. There is a way to enter Fossil Fish Cave from Stepping Stone Cave.",
+              "text": "Los niños nomai solían jugar a un juego en la Cueva del Pez Fósil. Se puede acceder a la Cueva del Pez Fósil desde la Cueva de los Peldaños.",
               "sourceId": "CT_SUNLESS_CITY"
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_R4",
-              "text": "The entrance from Stepping Stone Cave is hard to see unless the anglerfish is fed a light first.",
+              "text": "La entrada desde la Cueva de los Peldaños es difícil de ver, a menos que el rape se trague una linterna.",
               "sourceId": "CT_SUNLESS_CITY"
             }
           ]
