@@ -312,7 +312,7 @@ const DetectiveMap: React.FC<Props> = ({
               strokeLinecap="square"
               className="fill-current text-page-bg"
               stroke={theme.colors['page-bg']}
-              style="visibility: hidden"
+              //style="visibility: hidden"
             />
             <line
               x1={`${line.from.x}`}
@@ -372,7 +372,7 @@ const DetectiveMap: React.FC<Props> = ({
           y={frame.topLeft.y}
           width={frame.size.width}
           height={frame.size.height}
-          style="visibility: hidden"
+          //style="visibility: hidden"
         >
           <g
             width={frame.size.width}
