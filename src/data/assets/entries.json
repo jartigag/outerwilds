@@ -1292,7 +1292,7 @@
       },
       {
         "id": "GD_STATUE_WORKSHOP",
-        "name": "Statue Workshop",
+        "name": "Taller de Estatuas",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "parentId": "GD_STATUE_ISLAND",
@@ -1562,7 +1562,7 @@
       },
       {
         "id": "DB_FROZEN_JELLYFISH",
-        "name": "Frozen Jellyfish",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "facts": {
