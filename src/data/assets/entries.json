@@ -1247,14 +1247,14 @@
       },
       {
         "id": "GD_BRAMBLE_ISLAND",
-        "name": "Bramble Island",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "facts": {
           "explore": [
             {
               "id": "GD_BRAMBLE_ISLAND_X1",
-              "text": "An island of thorny vines and what appears to be a frozen jellyfish. It looks like Feldspar camped here before heading off to Dark Bramble."
+              "text": ""
             }
           ],
           "rumor": []
