@@ -82,22 +82,22 @@
       },
       {
         "id": "CT_QUANTUM_MOON_LOCATOR",
-        "name": "Quantum Moon Locator",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
           "explore": [
             {
               "id": "CT_QUANTUM_MOON_LOCATOR_X1",
-              "text": "A Nomai device created to track the Quantum Moon's location."
+              "text": ""
             },
             {
               "id": "CT_QUANTUM_MOON_LOCATOR_X2",
-              "text": "The Nomai hypothesized that the Quantum Moon might be a form of macroscopic quantum mechanics."
+              "text": ""
             },
             {
               "id": "CT_QUANTUM_MOON_LOCATOR_X3",
-              "text": "The Quantum Moon travels to at least five locations, but sometimes the locator can't tell where the moon is."
+              "text": ""
             }
           ],
           "rumor": []
@@ -197,7 +197,7 @@
       },
       {
         "id": "CT_WARP_TOWER_MAP",
-        "name": "Ash Twin Tower Designs",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "parentId": "CT_HIGH_ENERGY_LAB",
@@ -205,25 +205,25 @@
           "explore": [
             {
               "id": "CT_WARP_TOWER_MAP_X1",
-              "text": "Designs for each of the towers on Ash Twin's equator."
+              "text": ""
             },
             {
               "id": "CT_WARP_TOWER_MAP_X4",
-              "text": "Each tower warps to a different planet (although many Nomai were quick to note that the sun is not actually a planet)."
+              "text": ""
             },
             {
               "id": "CT_WARP_TOWER_MAP_X3",
-              "text": "Each tower was designed to visually reflect its warp destination."
+              "text": ""
             },
             {
               "id": "CT_WARP_TOWER_MAP_X2",
-              "text": "The towers allowed the Nomai to quickly travel between Ash Twin and all other locations crucial to the Ash Twin Project."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "CT_WARP_TOWER_MAP_R1",
-              "text": "There are tower designs in the High Energy Lab that reveal each warp receiver's location.",
+              "text": "",
               "sourceId": "BH_BLACK_HOLE_FORGE"
             }
           ]
@@ -321,24 +321,24 @@
       },
       {
         "id": "CT_QUANTUM_CAVES",
-        "name": "Quantum Caves",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
           "explore": [
             {
               "id": "CT_QUANTUM_CAVES_X1",
-              "text": "The Nomai noticed a strange wandering rock that appeared in multiple caves on Ember Twin’s northern hemisphere."
+              "text": ""
             },
             {
               "id": "CT_QUANTUM_CAVES_X2",
-              "text": "I found a strange rock shard that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "CT_QUANTUM_CAVES_R1",
-              "text": "The Nomai detected a quantum signal coming from somewhere on the Hourglass Twins.",
+              "text": "",
               "sourceId": "BH_QUANTUM_SHARD"
             }
           ]
@@ -346,33 +346,33 @@
       },
       {
         "id": "CT_LAKEBED_CAVERN",
-        "name": "Lakebed Cave",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
           "explore": [
             {
               "id": "CT_LAKEBED_CAVERN_X1",
-              "text": "A Nomai named Coleus was standing on the wandering rock when another Nomai's lantern died. When they relit the lantern, Coleus and the rock were both gone."
+              "text": ""
             },
             {
               "id": "CT_LAKEBED_CAVERN_X2",
-              "text": "To travel with a quantum object, I must stand on the object and cease to observe my surroundings (meaning I must be in complete darkness). Coleus used this quantum rule to escape the cave he was trapped in."
+              "text": ""
             },
             {
               "id": "CT_LAKEBED_CAVERN_X3",
-              "text": "Coleus and Merolae returned to examine the rock. They theorized that when a conscious being is in contact with a quantum object and ceases to observe his or her surroundings, the being can become entangled with that quantum object, and they both move together."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "CT_LAKEBED_CAVERN_R1",
-              "text": "The wandering rock was first spotted in a cave at the bottom of the dry lakebed at Ember Twin’s north pole.",
+              "text": "",
               "sourceId": "CT_QUANTUM_CAVES"
             },
             {
               "id": "CT_LAKEBED_CAVERN_R2",
-              "text": "A Nomai named Coleus mysteriously vanished from a cave at the bottom of the dry lakebed at Ember Twin’s north pole.",
+              "text": "",
               "sourceId": "CT_QUANTUM_CAVES"
             }
           ]
@@ -411,34 +411,34 @@
           "explore": [
             {
               "id": "TT_TIME_LOOP_DEVICE_X1",
-              "text": "A hollowed-out chamber inside Ash Twin. The energy cables from the surface are plugged into a protective casing at the center of the planet."
+              "text": ""
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_X2",
-              "text": "There are eight monoliths with Nomai masks attached. Three of the masks are actively receiving data from the Probe Tracking Module, Giant's Deep, and Timber Hearth respectively."
+              "text": ""
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_X3",
-              "text": "The Ash Twin Project was designed to use the energy from a supernova (triggered by the Sun Station) to send probe data from the Orbital Probe Cannon 22 minutes into the past."
+              "text": ""
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_X4",
-              "text": "The Sun Station did not work. Although the Ash Twin Project was theoretically sound, the Nomai were unable to power it."
+              "text": ""
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_X5",
-              "text": "There is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Ash Twin Project."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "TT_TIME_LOOP_DEVICE_R1",
-              "text": "The central chamber inside Ash Twin was physically sealed off by an immensely thick protective shell.",
+              "text": "",
               "sourceId": "TH_NOMAI_MINE"
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_R2",
-              "text": "The Nomai planned to construct technology capable of producing a 22-minute negative time interval on Ash Twin.",
+              "text": "",
               "sourceId": "CT_HIGH_ENERGY_LAB"
             },
             {
@@ -448,7 +448,7 @@
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_R4",
-              "text": "An advanced warp core was approved for installation in the central chamber of Ash Twin.",
+              "text": "",
               "sourceId": "BH_BLACK_HOLE_FORGE"
             }
           ]
@@ -500,7 +500,7 @@
           "rumor": [
             {
               "id": "TH_ZERO_G_CAVE_R1",
-              "text": "I hear Gossan has the zero-g cave set up if I want a refresher before I launch."
+              "text": ""
             }
           ]
         }
@@ -513,15 +513,15 @@
           "explore": [
             {
               "id": "TH_IMPACT_CRATER_X1",
-              "text": "A seed from Dark Bramble crashed here and has already taken root. Tektite wants to use a scout launcher to get a look at what's inside."
+              "text": ""
             },
             {
               "id": "TH_IMPACT_CRATER_X2",
-              "text": "My signalscope picks up harmonica music when I aim it at the seed."
+              "text": ""
             },
             {
               "id": "TH_IMPACT_CRATER_X3",
-              "text": "I launched my Little Scout into the seed. Somehow the seed is much bigger on the inside."
+              "text": ""
             }
           ],
           "rumor": [
@@ -535,28 +535,28 @@
       },
       {
         "id": "TH_NOMAI_MINE",
-        "name": "Nomai Mines",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "facts": {
           "explore": [
             {
               "id": "TH_NOMAI_MINE_X1",
-              "text": "The Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin."
+              "text": ""
             },
             {
               "id": "TH_NOMAI_MINE_X2",
-              "text": "Once the shell was finished, the Nomai checked to ensure there were no longer any physical entrances or cracks."
+              "text": ""
             },
             {
               "id": "TH_NOMAI_MINE_X3",
-              "text": "The Nomai discovered a species of four-eyed, semi-aquatic lifeforms in the waterways near the mine."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "TH_NOMAI_MINE_R1",
-              "text": "The Nomai were mining ore somewhere on Timber Hearth.",
+              "text": "",
               "sourceId": "VM_VOLCANO"
             }
           ]
@@ -564,28 +564,28 @@
       },
       {
         "id": "TH_QUANTUM_SHARD",
-        "name": "Quantum Grove",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
           "explore": [
             {
               "id": "TH_QUANTUM_SHARD_X1",
-              "text": "There is a strange rock shard in this grove that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency."
+              "text": ""
             },
             {
               "id": "TH_QUANTUM_SHARD_X2",
-              "text": "I found a poem written on one of the trees in the grove."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "TH_QUANTUM_SHARD_R1",
-              "text": "Chert detected a strange signal coming from the crater at Timber Hearth's south pole. It's very similar to the signal emitted by the Quantum Moon."
+              "text": ""
             },
             {
               "id": "TH_QUANTUM_SHARD_R2",
-              "text": "The Nomai detected a quantum signal coming from somewhere on Timber Hearth.",
+              "text": "",
               "sourceId": "BH_QUANTUM_SHARD"
             }
           ]
@@ -593,14 +593,14 @@
       },
       {
         "id": "TH_RADIO_TOWER",
-        "name": "Radio Tower",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "TH_RADIO_TOWER_X1",
-              "text": "A radio tower designed to receive photos taken by the deep space satellite. There are several photos of the entire solar system hanging on the walls. Hornfels noticed something strange in one of the photos, but concluded equipment malfunction was the only sensible explanation."
+              "text": ""
             }
           ],
           "rumor": []
@@ -625,7 +625,7 @@
           "rumor": [
             {
               "id": "TM_ESKER_R1",
-              "text": "Sounds like Esker is still stationed on the Attlerock. They’ve been there by themself for a while.",
+              "text": "",
               "sourceId": "TH_VILLAGE"
             }
           ]
@@ -645,7 +645,7 @@
           "rumor": [
             {
               "id": "TM_NORTH_POLE_R1",
-              "text": "Esker says the Attlerock’s north pole (marked in red on my minimap) is a great spot to listen for the other travelers’ music with a signalscope.",
+              "text": "",
               "sourceId": "TM_ESKER"
             }
           ]
@@ -670,7 +670,7 @@
           "rumor": [
             {
               "id": "TM_EYE_LOCATOR_R1",
-              "text": "I hear there are Nomai ruins somewhere on the Attlerock. No one knows what they are or why they were built.",
+              "text": "",
               "sourceId": "TH_VILLAGE"
             },
             {
@@ -694,11 +694,11 @@
           "explore": [
             {
               "id": "BH_RIEBECK_X1",
-              "text": "Riebeck has set up camp at the bottom of the Crossroads. Their excitement at being surrounded by so much Nomai history is matched only by their terror of the black hole."
+              "text": ""
             },
             {
               "id": "BH_RIEBECK_X2",
-              "text": "Riebeck is Timber Hearth's only archaeologist. They overcame their fear of space to explore Brittle Hollow's treasure trove of Nomai culture."
+              "text": ""
             }
           ],
           "rumor": [
@@ -709,15 +709,15 @@
             },
             {
               "id": "BH_RIEBECK_R2",
-              "text": "Riebeck landed their ship near the big dome at the south pole. The door leading inside was broken, so they decided to head north to the ruins on the equator in search of a way beneath the surface."
+              "text": ""
             },
             {
               "id": "BH_RIEBECK_R3",
-              "text": "Riebeck discovered an old Nomai path near their campsite on the equator. The path starts inside the ruined building with trees growing out of it."
+              "text": ""
             },
             {
               "id": "BH_RIEBECK_R4",
-              "text": "Riebeck reached the Crossroads and continued downward in search of oxygen."
+              "text": ""
             }
           ]
         }
@@ -735,7 +735,7 @@
             },
             {
               "id": "BH_GRAVITY_CANNON_X2",
-              "text": "I recalled a Nomai shuttle from the Quantum Moon."
+              "text": ""
             }
           ],
           "rumor": []
@@ -743,32 +743,32 @@
       },
       {
         "id": "BH_QUANTUM_RESEARCH_TOWER",
-        "name": "Tower of Quantum Knowledge",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
           "explore": [
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_X1",
-              "text": "The Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location. \"Remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.\""
+              "text": ""
             },
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_X2",
-              "text": "The pilgrimage to the Quantum Moon was a deeply significant journey for the Nomai."
+              "text": ""
             },
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_X3",
-              "text": "After the two groups of Nomai stranded on Ember Twin and Brittle Hollow were reunited, it became their united goal to find and visit the Quantum Moon."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_R1",
-              "text": "This tower (located on Brittle Hollow's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon."
+              "text": ""
             },
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_R2",
-              "text": "A Nomai named Solanum was told to visit the Tower of Quantum Knowledge (on Brittle Hollow's equator) to learn one final rule before embarking on her pilgrimage to the Quantum Moon.",
+              "text": "",
               "sourceId": "BH_GRAVITY_CANNON"
             }
           ]
@@ -776,7 +776,7 @@
       },
       {
         "id": "BH_QUANTUM_SHARD",
-        "name": "Quantum Shard",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "parentId": "BH_QUANTUM_RESEARCH_TOWER",
@@ -784,38 +784,38 @@
           "explore": [
             {
               "id": "BH_QUANTUM_SHARD_X1",
-              "text": "A strange rock shard that wanders when no one is watching. The Nomai determined this shard is the reason objects in this grove behave in a quantum manner."
+              "text": ""
             },
             {
               "id": "BH_QUANTUM_SHARD_X2",
-              "text": "The Nomai hypothesized that this shard is actually a piece of the Quantum Moon."
+              "text": ""
             },
             {
               "id": "BH_QUANTUM_SHARD_X3",
-              "text": "This shard emits the same signal as the Quantum Moon."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "BH_QUANTUM_SHARD_R1",
-              "text": "The Nomai noticed a strange rock shard that appeared to wander when no one was watching."
+              "text": ""
             }
           ]
         }
       },
       {
         "id": "BH_WARP_RECEIVER",
-        "name": "Northern Glacier",
+        "name": "",
         "isCuriousity": false,
         "facts": {
           "explore": [
             {
               "id": "BH_WARP_RECEIVER_X1",
-              "text": "The north pole of Brittle Hollow is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface."
+              "text": ""
             },
             {
               "id": "BH_WARP_RECEIVER_X2",
-              "text": "The Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology."
+              "text": ""
             }
           ],
           "rumor": []
@@ -840,7 +840,7 @@
           "rumor": [
             {
               "id": "BH_ESCAPE_POD_R1",
-              "text": "One of the three Nomai escape pods landed somewhere on Brittle Hollow.",
+              "text": "",
               "sourceId": "BH_MURAL_3"
             }
           ]
@@ -848,32 +848,32 @@
       },
       {
         "id": "BH_OLD_SETTLEMENT",
-        "name": "Old Settlement",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "VESSEL",
         "facts": {
           "explore": [
             {
               "id": "BH_OLD_SETTLEMENT_X1",
-              "text": "The Nomai constructed a temporary settlement beneath their crashed escape pod."
+              "text": ""
             },
             {
               "id": "BH_OLD_SETTLEMENT_X2",
-              "text": "The Nomai worked together to recall an eye-shaped signal they encountered while aboard the Vessel."
+              "text": ""
             },
             {
               "id": "BH_OLD_SETTLEMENT_X3",
-              "text": "The signal was somehow older than the universe itself. The Nomai decided to call it the \"Eye of the universe.\""
+              "text": ""
             },
             {
               "id": "BH_OLD_SETTLEMENT_X4",
-              "text": "The Nomai abandoned this settlement over growing concerns about its stability."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "BH_OLD_SETTLEMENT_R1",
-              "text": "The Nomai survivors who crashed on Brittle Hollow climbed down the cliff to a shelter site below the surface.",
+              "text": "",
               "sourceId": "BH_ESCAPE_POD"
             }
           ]
@@ -881,7 +881,7 @@
       },
       {
         "id": "BH_MURAL_3",
-        "name": "Mural (Panel 3)",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "VESSEL",
         "parentId": "BH_OLD_SETTLEMENT",
@@ -889,7 +889,7 @@
           "explore": [
             {
               "id": "BH_MURAL_3_X1",
-              "text": "A mural of three escape pods evacuating the Nomai vessel."
+              "text": ""
             }
           ],
           "rumor": []
@@ -897,7 +897,7 @@
       },
       {
         "id": "BH_MURAL_2",
-        "name": "Mural (Panel 2)",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "VESSEL",
         "parentId": "BH_OLD_SETTLEMENT",
@@ -905,7 +905,7 @@
           "explore": [
             {
               "id": "BH_MURAL_2_X1",
-              "text": "A mural of Dark Bramble ensnaring the Nomai vessel."
+              "text": ""
             }
           ],
           "rumor": []
@@ -913,7 +913,7 @@
       },
       {
         "id": "BH_MURAL_1",
-        "name": "Mural (Panel 1)",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "VESSEL",
         "parentId": "BH_OLD_SETTLEMENT",
@@ -921,7 +921,7 @@
           "explore": [
             {
               "id": "BH_MURAL_1_X1",
-              "text": "A mural of a Nomai vessel encountering a signal."
+              "text": ""
             }
           ],
           "rumor": []
@@ -929,36 +929,36 @@
       },
       {
         "id": "BH_HANGING_CITY",
-        "name": "The Hanging City",
+        "name": "",
         "isCuriousity": false,
         "facts": {
           "explore": [
             {
               "id": "BH_HANGING_CITY_X1",
-              "text": "A Nomai city suspended beneath Brittle Hollow's northern glacier. The city is divided vertically into four districts."
+              "text": ""
             },
             {
               "id": "BH_HANGING_CITY_X2",
-              "text": "I found a switch in the Meltwater District that raises and lowers the Black Hole Forge."
+              "text": ""
             },
             {
               "id": "BH_HANGING_CITY_X3",
-              "text": "The Nomai debated how to obtain the powerful, highly advanced warp core required for the Ash Twin Project."
+              "text": ""
             },
             {
               "id": "BH_HANGING_CITY_X4",
-              "text": "The Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the \"Eye of the universe.\""
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "BH_HANGING_CITY_R1",
-              "text": "The Nomai decided to migrate from the Old Settlement to the northern glacier. They used gravity crystals to craft a stable path beneath the surface.",
+              "text": "",
               "sourceId": "BH_OLD_SETTLEMENT"
             },
             {
               "id": "BH_HANGING_CITY_R2",
-              "text": "There's a huge Nomai city just to the north of Riebeck's campsite."
+              "text": ""
             }
           ]
         }
@@ -972,39 +972,39 @@
           "explore": [
             {
               "id": "BH_BLACK_HOLE_FORGE_X4",
-              "text": "A warp tower's alignment point is not its warp receiver. Rather, a warp tower always aligns with the center of its corresponding astral body."
+              "text": ""
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_X5",
-              "text": "The warp receiver must be located on (or in close orbit around) the relevant astral body."
+              "text": ""
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_X6",
-              "text": "The Hourglass Twins are so close together they function as a single astral body, with a shared alignment point in between them."
+              "text": ""
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_X1",
-              "text": "All of the warp towers were being constructed on Ash Twin, while the six warp receivers were being constructed at different locations."
+              "text": ""
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_X3",
-              "text": "A Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "BH_BLACK_HOLE_FORGE_R1",
-              "text": "The Black Hole Forge is suspended below the Hanging City. I found a switch in the Meltwater District that raises and lowers the forge.",
+              "text": "",
               "sourceId": "BH_HANGING_CITY"
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_R2",
-              "text": "The Black Hole Forge District is the highest district in the Hanging City.",
+              "text": "",
               "sourceId": "BH_HANGING_CITY"
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_R3",
-              "text": "A Nomai named Poke planned to create a new advanced warp core in the Black Hole Forge.",
+              "text": "",
               "sourceId": "BH_HANGING_CITY"
             },
             {
@@ -1017,7 +1017,7 @@
       },
       {
         "id": "BH_WARP_ALIGNMENT_MAP",
-        "name": "Alignment Angle Diagram",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "parentId": "BH_BLACK_HOLE_FORGE",
@@ -1025,19 +1025,19 @@
           "explore": [
             {
               "id": "BH_WARP_ALIGNMENT_MAP_X1",
-              "text": "A diagram depicting the alignment angle between a warp tower and its corresponding astral body."
+              "text": ""
             },
             {
               "id": "BH_WARP_ALIGNMENT_MAP_X2",
-              "text": "Warp tower alignment angles are not exact. They only need to be within five degrees of the astral body's center."
+              "text": ""
             },
             {
               "id": "BH_WARP_ALIGNMENT_MAP_X3",
-              "text": "This results in slightly longer warp windows that last roughly several seconds."
+              "text": ""
             },
             {
               "id": "BH_WARP_ALIGNMENT_MAP_X4",
-              "text": "Anyone stepping onto the warp platform during the active window will be immediately warped."
+              "text": ""
             }
           ],
           "rumor": []
@@ -1052,19 +1052,19 @@
           "explore": [
             {
               "id": "BH_OBSERVATORY_X1",
-              "text": "The new, more sensitive locator the Nomai built in this observatory was unable to detect any trace of the Eye's signal."
+              "text": ""
             },
             {
               "id": "BH_OBSERVATORY_X2",
-              "text": "Based on their knowledge of the Quantum Moon, the Nomai believed the Eye was in a distant orbit around the sun."
+              "text": ""
             },
             {
               "id": "BH_OBSERVATORY_X3",
-              "text": "The Nomai decided to stop searching for the Eye's signal and instead look for it visually by sending out a deep space probe."
+              "text": ""
             },
             {
               "id": "BH_OBSERVATORY_X4",
-              "text": "There were concerns that the probability of launching a probe in the correct direction would be absurdly small."
+              "text": ""
             }
           ],
           "rumor": [
@@ -1075,12 +1075,12 @@
             },
             {
               "id": "BH_OBSERVATORY_R2",
-              "text": "There are two paths beneath Brittle Hollow's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge.",
+              "text": "",
               "sourceId": "GD_CONSTRUCTION_YARD"
             },
             {
               "id": "BH_OBSERVATORY_R3",
-              "text": "Riebeck says you can't get into the observatory from the surface (they tried), but there's probably a path to it beneath the crust somewhere.",
+              "text": "",
               "sourceId": "BH_RIEBECK"
             },
             {
@@ -1092,7 +1092,7 @@
       },
       {
         "id": "BH_TORNADO_SIMULATION",
-        "name": "Tornado Simulation",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "parentId": "BH_OBSERVATORY",
@@ -1100,17 +1100,17 @@
           "explore": [
             {
               "id": "BH_TORNADO_SIMULATION_X1",
-              "text": "Most cyclones on Giant's Deep rotate clockwise. These are the cyclones the Nomai used to send components into orbit."
+              "text": ""
             },
             {
               "id": "BH_TORNADO_SIMULATION_X2",
-              "text": "There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "BH_TORNADO_SIMULATION_R1",
-              "text": "The Nomai at the Southern Observatory constructed a model of Giant's Deep that revealed how an object might sink below the strong ocean current.",
+              "text": "",
               "sourceId": "GD_CONSTRUCTION_YARD"
             }
           ]
@@ -1123,22 +1123,22 @@
     "entries": [
       {
         "id": "VM_VOLCANO",
-        "name": "Volcanic Testing Site",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "facts": {
           "explore": [
             {
               "id": "VM_VOLCANO_X1",
-              "text": "Ore samples from the Nomai Mines on Timber Hearth were sent to this volcano for durability testing."
+              "text": ""
             },
             {
               "id": "VM_VOLCANO_X2",
-              "text": "The Nomai were trying to craft a (briefly) supernova-proof shell to encase the Ash Twin Project."
+              "text": ""
             },
             {
               "id": "VM_VOLCANO_X3",
-              "text": "Even the smallest crack or opening in the protective shell would destroy everything."
+              "text": ""
             }
           ],
           "rumor": []
@@ -1151,18 +1151,18 @@
     "entries": [
       {
         "id": "GD_OCEAN",
-        "name": "Ocean Depths",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "facts": {
           "explore": [
             {
               "id": "GD_OCEAN_X1",
-              "text": "The ocean is surprisingly calm beneath the current. Some sort of electrical field surrounds the planet's core."
+              "text": ""
             },
             {
               "id": "GD_OCEAN_X2",
-              "text": "I passed through the electric barrier and reached the coral forest at the planet's core."
+              "text": ""
             }
           ],
           "rumor": [
@@ -1173,12 +1173,12 @@
             },
             {
               "id": "GD_OCEAN_R2",
-              "text": "The Nomai on the Construction Yard saw something sink beneath the underwater current, which they'd previously thought was impossible.",
+              "text": "",
               "sourceId": "GD_CONSTRUCTION_YARD"
             },
             {
               "id": "GD_OCEAN_R3",
-              "text": "Feldspar found a way to reach the core of Giant’s Deep.",
+              "text": "",
               "sourceId": "GD_BRAMBLE_ISLAND"
             }
           ]
@@ -1225,15 +1225,15 @@
           "explore": [
             {
               "id": "GD_CONSTRUCTION_YARD_X1",
-              "text": "This island is where the Nomai built the Orbital Probe Cannon."
+              "text": ""
             },
             {
               "id": "GD_CONSTRUCTION_YARD_X2",
-              "text": "For some reason, the Nomai put the Orbital Probe Cannon on indefinite hiatus. The cannon was not asked to fire."
+              "text": ""
             },
             {
               "id": "GD_CONSTRUCTION_YARD_X3",
-              "text": "According to a Nomai computer, a long-range probe was recently launched from the Orbital Probe Cannon."
+              "text": ""
             }
           ],
           "rumor": [
@@ -1314,47 +1314,47 @@
           "rumor": [
             {
               "id": "GD_STATUE_WORKSHOP_R1",
-              "text": "I found a sign for a \"Statue Workshop\" next to a broken door that used to lead inside the island."
+              "text": ""
             },
             {
               "id": "GD_STATUE_WORKSHOP_R2",
-              "text": "Some Nomai children debated bypassing the Statue Workshop's door and sneaking inside via an alternate (more dangerous) route."
+              "text": ""
             },
             {
               "id": "GD_STATUE_WORKSHOP_R3",
-              "text": "I can see into a large cave from one of the ruins on top of the island. The bottom of the cave is filled with water."
+              "text": ""
             }
           ]
         }
       },
       {
         "id": "GD_QUANTUM_TOWER",
-        "name": "Tower of Quantum Trials",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
           "explore": [
             {
               "id": "GD_QUANTUM_TOWER_X1",
-              "text": "This tower held knowledge a Nomai needed to make his or her first quantum journey."
+              "text": ""
             },
             {
               "id": "GD_QUANTUM_TOWER_X2",
-              "text": "\"Observing a quantum object; observing an image of a quantum object. These are the same.\""
+              "text": ""
             },
             {
               "id": "GD_QUANTUM_TOWER_X3",
-              "text": "The Nomai called this the \"Rule of Quantum Imaging.\""
+              "text": ""
             },
             {
               "id": "GD_QUANTUM_TOWER_X4",
-              "text": "\"Remember, the other quantum shards have other lessons to teach.\""
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "GD_QUANTUM_TOWER_R1",
-              "text": "The Nomai detected a Quantum signal coming from somewhere on Giant’s Deep.",
+              "text": "",
               "sourceId": "BH_QUANTUM_SHARD"
             }
           ]
@@ -1374,36 +1374,36 @@
           "explore": [
             {
               "id": "ORBITAL_PROBE_CANNON_X1",
-              "text": "The broken remains of a Nomai space station in orbit around Giant's Deep. There are three accessways branching off from the central hub area."
+              "text": ""
             },
             {
               "id": "ORBITAL_PROBE_CANNON_X2",
-              "text": "The Orbital Probe Cannon was created to find the precise location of the Eye of the universe."
+              "text": ""
             },
             {
               "id": "ORBITAL_PROBE_CANNON_X3",
-              "text": "The Nomai pushed the Orbital Probe Cannon above its maximum power setting to create the greatest chance of finding the Eye of the universe."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "ORBITAL_PROBE_CANNON_R1",
-              "text": "The Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Giant’s Deep.",
+              "text": "",
               "sourceId": "GD_CONSTRUCTION_YARD"
             },
             {
               "id": "ORBITAL_PROBE_CANNON_R2",
-              "text": "I used a Nomai projection pool and saw the interior of a space station in orbit around Giant's Deep.",
+              "text": "",
               "sourceId": "GD_CONSTRUCTION_YARD"
             },
             {
               "id": "ORBITAL_PROBE_CANNON_R4",
-              "text": "The Nomai decided to construct a probe cannon in orbit around Giant’s Deep.",
+              "text": "",
               "sourceId": "BH_OBSERVATORY"
             },
             {
               "id": "ORBITAL_PROBE_CANNON_R3",
-              "text": "Gabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Giant’s Deep.",
+              "text": "",
               "sourceId": "GD_GABBRO_ISLAND"
             }
           ]
@@ -1420,25 +1420,25 @@
           "explore": [
             {
               "id": "OPC_SUNKEN_MODULE_X1",
-              "text": "The Orbital Probe Cannon has launched millions of probes."
+              "text": ""
             },
             {
               "id": "OPC_SUNKEN_MODULE_X2",
-              "text": "The 9,318,054th probe located a deep space anomaly matching all known criteria for the Eye of the universe."
+              "text": ""
             },
             {
               "id": "OPC_SUNKEN_MODULE_X3",
-              "text": "The statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Ash Twin Project."
+              "text": ""
             },
             {
               "id": "OPC_EYE_COORDINATES_X1",
-              "text": "I found Nomai coordinates marking the location of the Eye of the universe."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "OPC_SUNKEN_MODULE_R1",
-              "text": "One of the Orbital Probe Cannon’s three modules."
+              "text": ""
             },
             {
               "id": "OPC_SUNKEN_MODULE_R5",
@@ -1446,15 +1446,15 @@
             },
             {
               "id": "OPC_SUNKEN_MODULE_R4",
-              "text": "Any Nomai aboard the Probe Tracking Module would be the first to see the coordinates of the Eye of the universe."
+              "text": ""
             },
             {
               "id": "OPC_SUNKEN_MODULE_R2",
-              "text": "A Nomai computer reports the Probe Tracking Module as \"missing.\""
+              "text": ""
             },
             {
               "id": "OPC_SUNKEN_MODULE_R3",
-              "text": "I saw the Probe Tracking Module through a Nomai projection pool. It looks like the module is underwater. I could see purple electricity outside the viewport."
+              "text": ""
             }
           ]
         }
@@ -1469,21 +1469,21 @@
           "explore": [
             {
               "id": "OPC_BROKEN_MODULE_X1",
-              "text": "The Launch Module is badly damaged, but its projection pool is still intact."
+              "text": ""
             },
             {
               "id": "OPC_BROKEN_MODULE_X2",
-              "text": "A Nomai named Mallow argued that it wouldn't matter if the cannon's structural integrity was compromised, since they only needed to fire the probe once."
+              "text": ""
             },
             {
               "id": "OPC_BROKEN_MODULE_X3",
-              "text": "A Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "OPC_BROKEN_MODULE_R1",
-              "text": "One of the Orbital Probe Cannon’s three modules."
+              "text": ""
             },
             {
               "id": "OPC_BROKEN_MODULE_R2",
@@ -1516,7 +1516,7 @@
           "rumor": [
             {
               "id": "OPC_INTACT_MODULE_R1",
-              "text": "One of the Orbital Probe Cannon’s three modules."
+              "text": ""
             }
           ]
         }
@@ -1528,22 +1528,22 @@
     "entries": [
       {
         "id": "DB_FELDSPAR",
-        "name": "Feldspar’s Camp",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "facts": {
           "explore": [
             {
               "id": "DB_FELDSPAR_X1",
-              "text": "Feldspar is alive! They crashed their ship and is now camping inside a huge anglerfish skeleton."
+              "text": ""
             },
             {
               "id": "DB_FELDSPAR_X2",
-              "text": "Feldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble."
+              "text": ""
             },
             {
               "id": "DB_FELDSPAR_X3",
-              "text": "Feldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet."
+              "text": ""
             }
           ],
           "rumor": [
@@ -1569,21 +1569,21 @@
           "explore": [
             {
               "id": "DB_FROZEN_JELLYFISH_X1",
-              "text": "Feldspar documented their attempts to eat this enormous jellyfish frozen in the ice. The outside was all rubbery and tough, possibly because it insulates the jellyfish’s insides from getting zapped by electricity."
+              "text": ""
             },
             {
               "id": "DB_FROZEN_JELLYFISH_X2",
-              "text": "Feldspar decided to venture into the jellyfish’s interior cavity to see if it tasted any better on the inside."
+              "text": ""
             },
             {
               "id": "DB_FROZEN_JELLYFISH_X3",
-              "text": "After tasting the inside of the jellyfish, Feldspar concluded that these jellyfish are only useful for insulation from electricity."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "DB_FROZEN_JELLYFISH_R1",
-              "text": "Feldspar hinted that a secret to reaching the core of Giant's Deep lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog.",
+              "text": "",
               "sourceId": "DB_FELDSPAR"
             }
           ]
@@ -1606,13 +1606,13 @@
             },
             {
               "id": "DB_ESCAPE_POD_X3",
-              "text": "The survivors from Escape Pod 3 detected two distinct beacons from the Vessel, as if it was in two locations at once."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "DB_ESCAPE_POD_R1",
-              "text": "One of the three Nomai escape pods never made it out of Dark Bramble.",
+              "text": "",
               "sourceId": "BH_MURAL_3"
             }
           ]
@@ -1620,37 +1620,37 @@
       },
       {
         "id": "DB_NOMAI_GRAVE",
-        "name": "Nomai Grave",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "VESSEL",
         "facts": {
           "explore": [
             {
               "id": "DB_NOMAI_GRAVE_X1",
-              "text": "The survivors from Escape Pod 3 followed one of the two Vessel beacons to a small Dark Bramble seed, where they could go no further."
+              "text": ""
             },
             {
               "id": "DB_NOMAI_GRAVE_X2",
-              "text": "The Nomai could faintly hear the Vessel's beacon from within the seed, but the opening was too small for a single Nomai to fit through, much less an escape pod."
+              "text": ""
             },
             {
               "id": "DB_NOMAI_GRAVE_X3",
-              "text": "The Vessel's beacon was dying, and would soon be gone completely."
+              "text": ""
             },
             {
               "id": "DB_NOMAI_GRAVE_X4",
-              "text": "If I launch my scout into the seed, I can take photos of an enormous derelict Nomai ship."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "DB_NOMAI_GRAVE_R1",
-              "text": "The survivors from Escape Pod 3 abandoned the wreckage and attempted to return to the Vessel.",
+              "text": "",
               "sourceId": "DB_ESCAPE_POD"
             },
             {
               "id": "DB_NOMAI_GRAVE_R2",
-              "text": "The survivors decided to follow the closer of the two Vessel beacons due to their limited air supply. They planned to leave a trail of lights behind them in case someone heard their distress signal.",
+              "text": "",
               "sourceId": "DB_ESCAPE_POD"
             }
           ]
@@ -1658,54 +1658,54 @@
       },
       {
         "id": "DB_VESSEL",
-        "name": "The Vessel",
+        "name": "",
         "isCuriousity": {},
         "curiousity": "VESSEL",
         "facts": {
           "explore": [
             {
               "id": "DB_VESSEL_X1",
-              "text": "I found the derelict Nomai Vessel deep within Dark Bramble."
+              "text": ""
             },
             {
               "id": "DB_VESSEL_X2",
-              "text": "The Vessel's warp core is long dead."
+              "text": ""
             },
             {
               "id": "DB_VESSEL_X3",
-              "text": "I activated a three-sided pillar on the Vessel's bridge that appears to be some sort of input device."
+              "text": ""
             },
             {
               "id": "DB_VESSEL_X4",
-              "text": "The Nomai tried to call for help, but the Vessel's outgoing message system broke during the crash."
+              "text": ""
             },
             {
               "id": "DB_VESSEL_X5",
-              "text": "The Vessel can still hear incoming messages from other Nomai vessels. The remaining Nomai clans are regrouping in response to the impending death of the universe."
+              "text": ""
             },
             {
               "id": "DB_VESSEL_X6",
-              "text": "I found a recording of the original signal the Nomai encountered from the Eye of the universe. The Nomai were worried the signal might disappear, so they warped before they could tell another clan where they were going."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "DB_VESSEL_R1",
-              "text": "The Nomai warped to this solar system in a spaceship called the Vessel. They were attempting to follow a signal from the Eye of the universe."
+              "text": ""
             },
             {
               "id": "DB_VESSEL_R2",
-              "text": "The Vessel crashed somewhere in Dark Bramble.",
+              "text": "",
               "sourceId": "BH_MURAL_3"
             },
             {
               "id": "DB_VESSEL_R3",
-              "text": "The Vessel's warp core broke when the ship crashed in Dark Bramble.",
+              "text": "",
               "sourceId": "BH_HANGING_CITY"
             },
             {
               "id": "DB_VESSEL_R4",
-              "text": "I launched my scout into the seed at the Nomai Grave and took photos of an enormous derelict Nomai ship.",
+              "text": "",
               "sourceId": "DB_NOMAI_GRAVE"
             }
           ]
@@ -1725,35 +1725,35 @@
           "explore": [
             {
               "id": "WHS_X4",
-              "text": "Every Nomai warp tower is tuned to a specific astral body."
+              "text": ""
             },
             {
               "id": "WHS_X1",
-              "text": "To use a tower, you must be standing on the warp platform during the tower's alignment with its corresponding astral body (the alignment happens when the astral body is directly overhead)."
+              "text": ""
             },
             {
               "id": "WHS_X2",
-              "text": "The Nomai noticed something strange: Warped objects appeared to arrive at the receiver on Brittle Hollow slightly before they departed the White Hole Station."
+              "text": ""
             },
             {
               "id": "WHS_X3",
-              "text": "This negative time interval between an object arriving and departing was incredibly miniscule (roughly one hundred-thousandth of a second). The Nomai were skeptical if their equipment could even measure time to such a small degree."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "WHS_R1",
-              "text": "There is a White Hole Station on the other side of Brittle Hollow's black hole.",
+              "text": "",
               "sourceId": "BH_WARP_RECEIVER"
             },
             {
               "id": "WHS_R2",
-              "text": "Several Nomai returned to the station to investigate an equipment reading that appeared to violate causality.",
+              "text": "",
               "sourceId": "BH_WARP_RECEIVER"
             },
             {
               "id": "WHS_R3",
-              "text": "The experiments at the High Energy Lab were based on extraordinary findings from the White Hole Station.",
+              "text": "",
               "sourceId": "CT_HIGH_ENERGY_LAB"
             },
             {
@@ -1771,7 +1771,7 @@
     "entries": [
       {
         "id": "COMET_SHUTTLE",
-        "name": "Frozen Nomai Shuttle",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "COMET_CORE",
         "altPhotoCondition": "COMET_SHUTTLE_X1",
@@ -1779,19 +1779,19 @@
           "explore": [
             {
               "id": "COMET_SHUTTLE_X1",
-              "text": "I found a Nomai shuttle almost completely encased in ice."
+              "text": ""
             },
             {
               "id": "COMET_SHUTTLE_X2",
-              "text": "The Nomai landed on the Interloper not long after its arrival in the solar system. The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface."
+              "text": ""
             },
             {
               "id": "COMET_SHUTTLE_X3",
-              "text": "There were three Nomai aboard the shuttle. One of them stayed behind to keep the shuttle warm while the other two explored the Interloper."
+              "text": ""
             },
             {
               "id": "COMET_SHUTTLE_X4",
-              "text": "Clary, the Nomai who stayed behind, lost contact with the other two after they descended below the Interloper's surface."
+              "text": ""
             }
           ],
           "rumor": []
@@ -1799,37 +1799,37 @@
       },
       {
         "id": "COMET_INTERIOR",
-        "name": "Ruptured Core",
+        "name": "",
         "isCuriousity": {},
         "curiousity": "COMET_CORE",
         "facts": {
           "explore": [
             {
               "id": "COMET_INTERIOR_X1",
-              "text": "I found the two missing members of the Nomai shuttle crew near a large ruptured stone that looks like it exploded from the inside."
+              "text": ""
             },
             {
               "id": "COMET_INTERIOR_X2",
-              "text": "The Nomai traced the strange energy readings to a spherical stone casing filled with some form of exotic matter."
+              "text": ""
             },
             {
               "id": "COMET_INTERIOR_X3",
-              "text": "They determined the exotic matter was both lethal and under extreme pressure. If the stone were to rupture, the exotic matter within would rapidly expand, completely blanketing the solar system almost instantaneously."
+              "text": ""
             },
             {
               "id": "COMET_INTERIOR_X4",
-              "text": "One of the Nomai stayed behind to examine the alien matter while the other rushed back to the surface to warn the rest of the Nomai."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "COMET_INTERIOR_R1",
-              "text": "The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.",
+              "text": "",
               "sourceId": "COMET_SHUTTLE"
             },
             {
               "id": "COMET_INTERIOR_R2",
-              "text": "Two of the Nomai located a fissure in the ice on the Interloper’s sunward side. They descended inside to investigate.",
+              "text": "",
               "sourceId": "COMET_SHUTTLE"
             }
           ]
@@ -1842,45 +1842,45 @@
     "entries": [
       {
         "id": "QUANTUM_MOON",
-        "name": "Quantum Moon",
+        "name": "",
         "isCuriousity": {},
         "curiousity": "QUANTUM_MOON",
         "facts": {
           "explore": [
             {
               "id": "QUANTUM_MOON_X1",
-              "text": "I was able to land on the surface of the Quantum Moon."
+              "text": ""
             },
             {
               "id": "QUANTUM_MOON_X2",
-              "text": "I found a dead Nomai in a space suit near the south pole."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "QUANTUM_MOON_R1",
-              "text": "The Nomai on Brittle Hollow observed a phantom moon that would sometimes appear in the sky.",
+              "text": "",
               "sourceId": "BH_WARP_RECEIVER"
             },
             {
               "id": "QUANTUM_MOON_R2",
-              "text": "The Nomai on Ember Twin observed a moon that would disappear when no one was watching.",
+              "text": "",
               "sourceId": "CT_QUANTUM_MOON_LOCATOR"
             },
             {
               "id": "QUANTUM_MOON_R3",
-              "text": "A Nomai named Solanum landed a shuttle on the Quantum Moon."
+              "text": ""
             },
             {
               "id": "QUANTUM_MOON_R4",
-              "text": "Chert’s research notes mention a Quantum Moon that no Hearthian has been able to land on."
+              "text": ""
             }
           ]
         }
       },
       {
         "id": "QM_SHUTTLE",
-        "name": "Solanum's Shuttle",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "altPhotoCondition": "QUANTUM_MOON_X1",
@@ -1889,11 +1889,11 @@
           "explore": [
             {
               "id": "QM_SHUTTLE_X1",
-              "text": "A Nomai named Solanum landed her shuttle at the Quantum Moon's south pole and prepared to make the rest of the journey on foot."
+              "text": ""
             },
             {
               "id": "QM_SHUTTLE_X2",
-              "text": "Visitors to the Quantum Moon always arrive at the south pole (for reasons unknown to the Nomai)."
+              "text": ""
             }
           ],
           "rumor": []
@@ -1901,7 +1901,7 @@
       },
       {
         "id": "QM_SHRINE",
-        "name": "Quantum Shrine",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "parentId": "QUANTUM_MOON",
@@ -1909,25 +1909,25 @@
           "explore": [
             {
               "id": "QM_SHRINE_X1",
-              "text": "A Nomai shrine that wanders about the Quantum Moon."
+              "text": ""
             },
             {
               "id": "QM_SHRINE_X2",
-              "text": "\"You have recalled the rule of quantum imaging\" is inscribed next to a mural of a tower on an island."
+              "text": ""
             },
             {
               "id": "QM_SHRINE_X3",
-              "text": "\"Recall the rule of quantum entanglement\" is inscribed next to a mural of a quantum shard in a cave."
+              "text": ""
             },
             {
               "id": "QM_SHRINE_X4",
-              "text": "\"Recall the rule of the sixth location\" is inscribed next to a mural of a tower hanging above a black hole."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "QM_SHRINE_R1",
-              "text": "The Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location.",
+              "text": "",
               "sourceId": "BH_QUANTUM_RESEARCH_TOWER"
             }
           ]
@@ -1935,7 +1935,7 @@
       },
       {
         "id": "QM_SIXTH_LOCATION",
-        "name": "Sixth Location",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "parentId": "QUANTUM_MOON",
@@ -1943,43 +1943,43 @@
           "explore": [
             {
               "id": "QM_SIXTH_LOCATION_X1",
-              "text": "I met a living Nomai named Solanum at the south pole!"
+              "text": ""
             },
             {
               "id": "QM_SIXTH_LOCATION_X3",
-              "text": "The Quantum Moon is the Eye of the universe's moon."
+              "text": ""
             },
             {
               "id": "QM_SIXTH_LOCATION_X5",
-              "text": "At this location, the Quantum Moon becomes a reflection of the Eye itself."
+              "text": ""
             },
             {
               "id": "QM_SIXTH_LOCATION_X4",
-              "text": "The Eye is likely the source of all macroscopic quantum phenomena in the solar system."
+              "text": ""
             },
             {
               "id": "QM_SIXTH_LOCATION_X2",
-              "text": "Solanum wonders what would happen if a concious observer were to enter the Eye."
+              "text": ""
             },
             {
               "id": "QM_SIXTH_LOCATION_X6",
-              "text": "Solanum has a hypothesis that she may not be entirely alive."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "QM_SIXTH_LOCATION_R1",
-              "text": "The Quantum Moon sometimes disappears, possibly to an unknown sixth location.",
+              "text": "",
               "sourceId": "CT_QUANTUM_MOON_LOCATOR"
             },
             {
               "id": "QM_SIXTH_LOCATION_R2",
-              "text": "Many Nomai went on a pilgrimage during which the Quantum Moon carried them to its sixth and most secret location.",
+              "text": "",
               "sourceId": "BH_QUANTUM_RESEARCH_TOWER"
             },
             {
               "id": "QM_SIXTH_LOCATION_R3",
-              "text": "To explore the sixth location, the shrine on the Quantum Moon must be on the moon’s north pole.",
+              "text": "",
               "sourceId": "BH_QUANTUM_RESEARCH_TOWER"
             }
           ]
@@ -1992,14 +1992,14 @@
     "entries": [
       {
         "id": "IP_RING_WORLD",
-        "name": "The Stranger",
+        "name": "",
         "isCuriousity": {},
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "IP_RING_WORLD_X1",
-              "text": "A massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2007,18 +2007,18 @@
       },
       {
         "id": "IP_ZONE_1",
-        "name": "River Lowlands",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "IP_ZONE_1_X1",
-              "text": "A low-lying region near the entrance to the Stranger. There are wooden buildings along the banks of the river."
+              "text": ""
             },
             {
               "id": "IP_ZONE_1_X2",
-              "text": "I found several ornate metal artifacts inside a workshop surrounded by ghost matter."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2026,7 +2026,7 @@
       },
       {
         "id": "IP_ZONE_1_STORY",
-        "name": "Burned Slide Reel",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_ZONE_1",
@@ -2034,11 +2034,11 @@
           "explore": [
             {
               "id": "IP_ZONE_1_STORY_X1",
-              "text": "A slide reel that shows the origin of the Stranger and its inhabitants."
+              "text": ""
             },
             {
               "id": "IP_ZONE_1_STORY_X2",
-              "text": "Several slides have been burned and cannot be viewed."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2046,7 +2046,7 @@
       },
       {
         "id": "IP_ZONE_1_SECRET",
-        "name": "Slide Burning Room",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_ZONE_1",
@@ -2054,17 +2054,17 @@
           "explore": [
             {
               "id": "IP_ZONE_1_SECRET_X2",
-              "text": "A room full of burned slide reels piled next to a strange device."
+              "text": ""
             },
             {
               "id": "IP_ZONE_1_SECRET_X1",
-              "text": "I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of green lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_ZONE_1_SECRET_R1",
-              "text": "A map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger.",
+              "text": "",
               "sourceId": "IP_MAP_PROJECTION_1"
             }
           ]
@@ -2072,18 +2072,18 @@
       },
       {
         "id": "IP_ZONE_2",
-        "name": "Cinder Isles",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "IP_ZONE_2_X1",
-              "text": "A pair of small rocky islands connected by a village of stilt houses."
+              "text": ""
             },
             {
               "id": "IP_ZONE_2_X2",
-              "text": "I found a large metal symbol inside a burned-out building that closely resembles the Nomai symbol for the Eye of the universe."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2091,7 +2091,7 @@
       },
       {
         "id": "IP_ZONE_2_STORY",
-        "name": "Burned Slide Reel",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_ZONE_2",
@@ -2099,11 +2099,11 @@
           "explore": [
             {
               "id": "IP_ZONE_2_STORY_X1",
-              "text": "A slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe."
+              "text": ""
             },
             {
               "id": "IP_ZONE_2_STORY_X2",
-              "text": "Several slides have been burned and cannot be viewed."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2111,7 +2111,7 @@
       },
       {
         "id": "IP_ZONE_2_SECRET",
-        "name": "Slide Burning Room",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_ZONE_2",
@@ -2119,17 +2119,17 @@
           "explore": [
             {
               "id": "IP_ZONE_2_SECRET_X2",
-              "text": "A room full of burned slide reels piled next to a strange device."
+              "text": ""
             },
             {
               "id": "IP_ZONE_2_SECRET_X1",
-              "text": "I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_ZONE_2_SECRET_R1",
-              "text": "A map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger.",
+              "text": "",
               "sourceId": "IP_MAP_PROJECTION_2"
             }
           ]
@@ -2137,24 +2137,24 @@
       },
       {
         "id": "IP_ZONE_2_LIGHTHOUSE",
-        "name": "Island Tower",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "IP_ZONE_2_LIGHTHOUSE_X2",
-              "text": "A tower that sits atop one of the Cinder Isles. The upper floors can only be reached from a second entrance at the back of the tower."
+              "text": ""
             },
             {
               "id": "IP_ZONE_2_LIGHTHOUSE_X1",
-              "text": "I found a slide reel that shows the Stranger's inhabitants opening a secret passage in a round room filled with lanterns and murals. The inhabitants are shown filing into three of these rooms throughout the Stranger."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_ZONE_2_LIGHTHOUSE_R1",
-              "text": "I found a projection that reveals a cave entrance at the base of a rocky island with a tall tower.",
+              "text": "",
               "sourceId": "IP_ZONE_2"
             }
           ]
@@ -2162,7 +2162,7 @@
       },
       {
         "id": "IP_ZONE_2_CODE",
-        "name": "Symbol Room",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "altPhotoCondition": "IP_ZONE_2_CODE_X3",
@@ -2171,26 +2171,26 @@
           "explore": [
             {
               "id": "IP_ZONE_2_CODE_X1",
-              "text": "A secret room filled with wooden containers marked with different symbols."
+              "text": ""
             },
             {
               "id": "IP_ZONE_2_CODE_X2",
-              "text": "Three of the containers are marked with glowing vault seals, but their contents have been burned away."
+              "text": ""
             },
             {
               "id": "IP_ZONE_2_CODE_X3",
-              "text": "I opened the container marked with the symbol of a burning slide reel and found a vertical sequence of symbols inside."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_ZONE_2_CODE_R1",
-              "text": "The light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, two of the lamps in the mural room turned off, plunging the mural into darkness and revealing a secret passage.",
+              "text": "",
               "sourceId": "IP_DREAM_LAKE"
             },
             {
               "id": "IP_ZONE_2_CODE_R2",
-              "text": "The passage lead to three wooden containers, each marked with a glowing vault seal.",
+              "text": "",
               "sourceId": "IP_DREAM_LAKE"
             }
           ]
@@ -2198,14 +2198,14 @@
       },
       {
         "id": "IP_ZONE_3",
-        "name": "Hidden Gorge",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "IP_ZONE_3_X1",
-              "text": "A narrow gorge along the rightmost branch of the river. There are dwellings built into both cliff faces high above."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2213,7 +2213,7 @@
       },
       {
         "id": "IP_ZONE_3_SECRET",
-        "name": "Slide Burning Room",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_ZONE_3",
@@ -2221,17 +2221,17 @@
           "explore": [
             {
               "id": "IP_ZONE_3_SECRET_X2",
-              "text": "A room full of burned slide reels piled next to a strange device."
+              "text": ""
             },
             {
               "id": "IP_ZONE_3_SECRET_X1",
-              "text": "I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_ZONE_3_SECRET_R1",
-              "text": "A map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger.",
+              "text": "",
               "sourceId": "IP_MAP_PROJECTION_3"
             }
           ]
@@ -2239,7 +2239,7 @@
       },
       {
         "id": "IP_ZONE_3_STORY",
-        "name": "Burned Slide Reel",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_ZONE_3",
@@ -2247,11 +2247,11 @@
           "explore": [
             {
               "id": "IP_ZONE_3_STORY_X1",
-              "text": "A slide reel that shows the Stranger's inhabitants congregating around a strange green fire."
+              "text": ""
             },
             {
               "id": "IP_ZONE_3_STORY_X2",
-              "text": "Several slides have been burned and cannot be viewed."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2259,7 +2259,7 @@
       },
       {
         "id": "IP_ZONE_3_ENTRANCE",
-        "name": "Damaged Laboratory",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_ZONE_3",
@@ -2267,60 +2267,60 @@
           "explore": [
             {
               "id": "IP_ZONE_3_ENTRANCE_X1",
-              "text": "A laboratory with three test chambers. The second chamber is badly damaged and can be entered through a hull breach in the side of the Stranger."
+              "text": ""
             },
             {
               "id": "IP_ZONE_3_ENTRANCE_X2",
-              "text": "I saw a vision-like recording of someone picking up an artifact and going to sleep in front of a green fire. The rest of the vision was distorted and difficult to make out, but a flame seemed to appear inside the artifact."
+              "text": ""
             },
             {
               "id": "IP_ZONE_3_ENTRANCE_X3",
-              "text": "I found a slide reel that shows three experiments conducted with three different artifacts. The third experiment appears to have been a success."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_ZONE_3_ENTRANCE_R1",
-              "text": "I found a slide reel in the Hidden Gorge that shows an explosion blowing a hole in the side of the Stranger."
+              "text": ""
             }
           ]
         }
       },
       {
         "id": "IP_ZONE_3_LAB",
-        "name": "Abandoned Temple",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "IP_ZONE_3_LAB_X1",
-              "text": "An abandoned temple marked with the symbol of a burning slide reel. It can be accessed from a passage in the Hidden Gorge."
+              "text": ""
             },
             {
               "id": "IP_ZONE_3_LAB_X3",
-              "text": "There is an interface upstairs that can be used to line up symbols in a vertical sequence."
+              "text": ""
             },
             {
               "id": "IP_ZONE_3_LAB_X4",
-              "text": "Entering the correct sequence opens the path to a secret room beneath the temple."
+              "text": ""
             },
             {
               "id": "IP_ZONE_3_LAB_X2",
-              "text": "I found a slide reel that shows the Stranger's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_ZONE_3_LAB_R1",
-              "text": "I saw a building marked with a unique symbol recessed into one of the canyon walls, but the bridge that used to lead to it has rotted away."
+              "text": ""
             }
           ]
         }
       },
       {
         "id": "IP_MAP_PROJECTION_1",
-        "name": "Map Projection 1",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_ZONE_3_LAB",
@@ -2328,7 +2328,7 @@
           "explore": [
             {
               "id": "IP_MAP_PROJECTION_1_X1",
-              "text": "A projection that seems to reveal a secret location somewhere within the Stranger."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2336,7 +2336,7 @@
       },
       {
         "id": "IP_MAP_PROJECTION_2",
-        "name": "Map Projection 2",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_ZONE_3_LAB",
@@ -2344,7 +2344,7 @@
           "explore": [
             {
               "id": "IP_MAP_PROJECTION_2_X1",
-              "text": "A projection that seems to reveal a secret location somewhere within the Stranger."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2352,7 +2352,7 @@
       },
       {
         "id": "IP_MAP_PROJECTION_3",
-        "name": "Map Projection 3",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_ZONE_3_LAB",
@@ -2360,7 +2360,7 @@
           "explore": [
             {
               "id": "IP_MAP_PROJECTION_3_X1",
-              "text": "A projection that seems to reveal a secret location somewhere within the Stranger."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2368,22 +2368,22 @@
       },
       {
         "id": "IP_ZONE_4",
-        "name": "Reservoir",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "IP_ZONE_4_X2",
-              "text": "An enormous reservoir with wooden piers and buildings on both shores."
+              "text": ""
             },
             {
               "id": "IP_ZONE_4_X3",
-              "text": "I found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft."
+              "text": ""
             },
             {
               "id": "IP_ZONE_4_X4",
-              "text": "I found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2391,7 +2391,7 @@
       },
       {
         "id": "IP_ZONE_4_STORY",
-        "name": "Burned Slide Reel",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_ZONE_4",
@@ -2399,11 +2399,11 @@
           "explore": [
             {
               "id": "IP_ZONE_4_STORY_X1",
-              "text": "A slide reel that shows a strange vault being encased in a large metal structure and lowered underwater."
+              "text": ""
             },
             {
               "id": "IP_ZONE_4_STORY_X2",
-              "text": "Nearly all of the slides have been burned and cannot be viewed."
+              "text": ""
             }
           ],
           "rumor": []
@@ -2411,29 +2411,29 @@
       },
       {
         "id": "IP_PRISON",
-        "name": "Submerged Structure",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "IP_PRISON_X1",
-              "text": "A large metal structure suspended by chains. It can be entered by swimming from below."
+              "text": ""
             },
             {
               "id": "IP_PRISON_X2",
-              "text": "There is a sealed vault illuminated by a green fire inside the structure."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_PRISON_R1",
-              "text": "According to a slide reel, a strange vault was encased in a large metal structure and lowered underwater.",
+              "text": "",
               "sourceId": "IP_ZONE_4_STORY"
             },
             {
               "id": "IP_PRISON_R2",
-              "text": "I found a diagram of a hollow metal structure suspended by chains. There is a round hole underneath that appears to be the only entrance.",
+              "text": "",
               "sourceId": "IP_ZONE_4"
             }
           ]
@@ -2441,7 +2441,7 @@
       },
       {
         "id": "IP_DREAM_LAKE",
-        "name": "Subterranean Lake",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "altPhotoCondition": "IP_DREAM_LAKE_X2",
@@ -2450,28 +2450,28 @@
           "explore": [
             {
               "id": "IP_DREAM_LAKE_X1",
-              "text": "I discovered a vast subterranean lake beneath the submerged structure. The sealed vault is resting on the shore of the lake. There are three interfaces, each marked with one of the three symbols from the vault."
+              "text": ""
             },
             {
               "id": "IP_DREAM_LAKE_X2",
-              "text": "I rotated the mechanism in front of the vault, causing it to strain against the chains holding it shut. Moments later rays of green light spilled out of the vault."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_DREAM_LAKE_R1",
-              "text": "I looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below."
+              "text": ""
             },
             {
               "id": "IP_DREAM_LAKE_R2",
-              "text": "I saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below."
+              "text": ""
             }
           ]
         }
       },
       {
         "id": "IP_SARCOPHAGUS",
-        "name": "Sealed Vault",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_PRISON",
@@ -2479,39 +2479,39 @@
           "explore": [
             {
               "id": "IP_SARCOPHAGUS_X2",
-              "text": "I met one of the Stranger's inhabitants who was imprisoned within the vault!"
+              "text": ""
             },
             {
               "id": "IP_SARCOPHAGUS_X3",
-              "text": "The Prisoner showed me a vision revealing the actions they took that resulted in their eternal confinement."
+              "text": ""
             },
             {
               "id": "IP_SARCOPHAGUS_X4",
-              "text": "I used the vision torch to share my knowledge of the solar system's history with the Prisoner."
+              "text": ""
             },
             {
               "id": "IP_SARCOPHAGUS_X5",
-              "text": "The Prisoner left one final vision for me by the water's edge as a farewell."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_SARCOPHAGUS_R4",
-              "text": "I found a strange vault wrapped in chains and marked with three glowing symbols."
+              "text": ""
             },
             {
               "id": "IP_SARCOPHAGUS_R1",
-              "text": "A slide reel from the River Lowlands showed a strange vault being closed and sealed with chains and a glowing symbol.",
+              "text": "",
               "sourceId": "IP_ZONE_1"
             },
             {
               "id": "IP_SARCOPHAGUS_R2",
-              "text": "A slide reel from the Cinder Isles showed a glowing symbol and chains appear around a strange vault.",
+              "text": "",
               "sourceId": "IP_ZONE_2"
             },
             {
               "id": "IP_SARCOPHAGUS_R3",
-              "text": "A slide reel from the Hidden Gorge showed a glowing symbol and chains appear around a strange vault.",
+              "text": "",
               "sourceId": "IP_ZONE_3"
             }
           ]
@@ -2519,35 +2519,35 @@
       },
       {
         "id": "IP_DREAM_ZONE_1",
-        "name": "Shrouded Woodlands",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "IP_DREAM_ZONE_1_X1",
-              "text": "A dense forest along the banks of a river."
+              "text": ""
             },
             {
               "id": "IP_DREAM_ZONE_1_X2",
-              "text": "I heard music coming from a candlelit building across the water."
+              "text": ""
             },
             {
               "id": "IP_DREAM_ZONE_1_X3",
-              "text": "I found a covered bridge leading into the darkest part of the forest."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_DREAM_ZONE_1_R1",
-              "text": "I rode a raft through a densely wooded stretch of river. I can see buildings along the banks of the river."
+              "text": ""
             }
           ]
         }
       },
       {
         "id": "IP_DREAM_LIBRARY_1",
-        "name": "Forbidden Archive",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_DREAM_ZONE_1",
@@ -2555,29 +2555,29 @@
           "explore": [
             {
               "id": "IP_DREAM_LIBRARY_1_X1",
-              "text": "A library full of intact slide reels hidden deep underground."
+              "text": ""
             },
             {
               "id": "IP_DREAM_LIBRARY_1_X2",
-              "text": "There is a container marked with one of the vault seals, but its contents have been destroyed."
+              "text": ""
             },
             {
               "id": "IP_DREAM_1_STORY_X1",
-              "text": "I found a slide reel that shows the origin of the Stranger and its inhabitants."
+              "text": ""
             },
             {
               "id": "IP_DREAM_1_STORY_X2",
-              "text": "Intact slides reveal the sacrifice that was made to build the Stranger."
+              "text": ""
             },
             {
               "id": "IP_DREAM_1_RULE_X1",
-              "text": "I found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants jumping off a raft during a transition between areas and falling below the world."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_DREAM_LIBRARY_1_R1",
-              "text": "I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.",
+              "text": "",
               "sourceId": "IP_ZONE_1_SECRET"
             }
           ]
@@ -2585,39 +2585,39 @@
       },
       {
         "id": "IP_DREAM_ZONE_2",
-        "name": "Starlit Cove",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "IP_DREAM_ZONE_2_X1",
-              "text": "A secluded village nestled within a cove. A candlelit tower sits atop a nearby island."
+              "text": ""
             },
             {
               "id": "IP_DREAM_ZONE_2_X2",
-              "text": "The well at the bottom of the village is guarded by a statue that activates an alarm bell when it sees me."
+              "text": ""
             },
             {
               "id": "IP_DREAM_ZONE_2_X3",
-              "text": "I found the remains of a burned-out building on the outskirts of the village."
+              "text": ""
             },
             {
               "id": "IP_DREAM_ZONE_2_X4",
-              "text": "I reached the tower's upper floors by projecting a path to a second entrance at the back of the tower."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_DREAM_ZONE_2_R1",
-              "text": "I rode a raft past an island with a tall candlelit tower."
+              "text": ""
             }
           ]
         }
       },
       {
         "id": "IP_DREAM_LIBRARY_2",
-        "name": "Forbidden Archive",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_DREAM_ZONE_2",
@@ -2625,33 +2625,33 @@
           "explore": [
             {
               "id": "IP_DREAM_LIBRARY_2_X1",
-              "text": "A library full of intact slide reels hidden deep underground."
+              "text": ""
             },
             {
               "id": "IP_DREAM_LIBRARY_2_X2",
-              "text": "There is a container marked with one of the vault seals, but its contents have been destroyed."
+              "text": ""
             },
             {
               "id": "IP_DREAM_2_STORY_X1",
-              "text": "I found a slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe."
+              "text": ""
             },
             {
               "id": "IP_DREAM_2_STORY_X2",
-              "text": "Intact slides reveal the construction and launch of a spacecraft designed to block the Eye's signal."
+              "text": ""
             },
             {
               "id": "IP_DREAM_2_RULE_X1",
-              "text": "I found a slide reel that shows two artifacts being lit near a green fire. The first artifact lights after its bearer falls asleep, and the second artifact lights after its bearer dies."
+              "text": ""
             },
             {
               "id": "IP_DREAM_2_RULE_X2",
-              "text": "I found a slide reel that appears to be some sort of error report. It shows an alarm bell failing to wake up one of the Stranger's inhabitants."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_DREAM_LIBRARY_2_R1",
-              "text": "The reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.",
+              "text": "",
               "sourceId": "IP_ZONE_2_SECRET"
             }
           ]
@@ -2659,31 +2659,31 @@
       },
       {
         "id": "IP_DREAM_ZONE_3",
-        "name": "Endless Canyon",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "facts": {
           "explore": [
             {
               "id": "IP_DREAM_ZONE_3_X1",
-              "text": "A massive canyon that stretches into the distance. A candlelit lodge is built into the far cliff face."
+              "text": ""
             },
             {
               "id": "IP_DREAM_ZONE_3_X2",
-              "text": "I found a mural of a large tree on the bottom floor of the lodge."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_DREAM_ZONE_3_R1",
-              "text": "I rode a raft through the bottom of a massive canyon. It looks like there are buildings set into the cliff face high above."
+              "text": ""
             }
           ]
         }
       },
       {
         "id": "IP_DREAM_LIBRARY_3",
-        "name": "Forbidden Archive",
+        "name": "",
         "isCuriousity": false,
         "curiousity": "INVISIBLE_PLANET",
         "parentId": "IP_DREAM_ZONE_3",
@@ -2691,29 +2691,29 @@
           "explore": [
             {
               "id": "IP_DREAM_LIBRARY_3_X1",
-              "text": "A library full of intact slide reels hidden deep underground."
+              "text": ""
             },
             {
               "id": "IP_DREAM_LIBRARY_3_X2",
-              "text": "There is a container marked with one of the vault seals, but its contents have been destroyed."
+              "text": ""
             },
             {
               "id": "IP_DREAM_3_STORY_X1",
-              "text": "I found a slide reel that shows the Stranger's inhabitants congregating around a strange green fire."
+              "text": ""
             },
             {
               "id": "IP_DREAM_3_STORY_X2",
-              "text": "Intact slides reveal the creation of a simulated reality modeled after their home moon."
+              "text": ""
             },
             {
               "id": "IP_DREAM_3_RULE_X1",
-              "text": "I found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants dropping their artifact on the ground and walking beyond its projection radius."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "IP_DREAM_LIBRARY_3_R1",
-              "text": "The reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.",
+              "text": "",
               "sourceId": "IP_ZONE_3_SECRET"
             }
           ]
