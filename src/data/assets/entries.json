@@ -11,25 +11,25 @@
           "explore": [
             {
               "id": "S_SUNSTATION_X1",
-              "text": "The Sun Station was designed to make the sun go supernova."
+              "text": ""
             },
             {
               "id": "S_SUNSTATION_X2",
-              "text": "The Nomai fired the Sun Station but it had no effect on the sun. They concluded that the Sun Station could never cause the sun to go supernova."
+              "text": ""
             },
             {
               "id": "S_SUNSTATION_X3",
-              "text": "After the failure of the Sun Station, the Nomai took a break to investigate the newly arrived comet."
+              "text": ""
             },
             {
               "id": "S_SUNSTATION_X4",
-              "text": "According to a Nomai computer, our sun has reached the end of its natural life cycle."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "S_SUNSTATION_R1",
-              "text": "There is a way to safely travel to the Sun Station from Ash Twin.",
+              "text": "",
               "sourceId": "CT_SUNLESS_CITY"
             },
             {
@@ -39,7 +39,7 @@
             },
             {
               "id": "S_SUNSTATION_R3",
-              "text": "The Nomai built something called the Sun Station, but not everyone supported its construction.",
+              "text": "",
               "sourceId": "TT_WARP_TOWERS"
             }
           ]
@@ -66,15 +66,15 @@
             },
             {
               "id": "CT_CHERT_X3",
-              "text": "All of the stars in the universe are dying, including our sun."
+              "text": ""
             },
             {
               "id": "CT_CHERT_X4",
-              "text": "The stars are simply dying from old age. Apparently they're much older than we realized."
+              "text": ""
             },
             {
               "id": "CT_CHERT_X5",
-              "text": "Chert has become catatonic in response to our sun's imminent death."
+              "text": ""
             }
           ],
           "rumor": []
@@ -116,13 +116,13 @@
             },
             {
               "id": "CT_GRAVITY_CANNON_X2",
-              "text": "I recalled a Nomai shuttle from the Interloper."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "CT_GRAVITY_CANNON_R1",
-              "text": "The Nomai shuttle that's frozen on the Interloper can be called home to the gravity cannon on Ember Twin.",
+              "text": "",
               "sourceId": "COMET_SHUTTLE"
             }
           ]
@@ -147,7 +147,7 @@
           "rumor": [
             {
               "id": "CT_ESCAPE_POD_R1",
-              "text": "One of the three Nomai escape pods landed somewhere on the Hourglass Twins.",
+              "text": "",
               "sourceId": "BH_MURAL_3"
             },
             {
@@ -167,30 +167,30 @@
           "explore": [
             {
               "id": "CT_HIGH_ENERGY_LAB_X1",
-              "text": "The Nomai successfully reproduced the temporal anomaly first observed at the White Hole Station (warped objects appear to arrive before they depart)."
+              "text": ""
             },
             {
               "id": "CT_HIGH_ENERGY_LAB_X2",
-              "text": "The Nomai discovered they could increase the negative time interval between arrival and departure by adding energy to the warp cores."
+              "text": ""
             },
             {
               "id": "CT_HIGH_ENERGY_LAB_X3",
-              "text": "The Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well an advanced warp core to handle those energies. Ash Twin was proposed as a location for the project."
+              "text": ""
             }
           ],
           "rumor": [
             {
               "id": "CT_HIGH_ENERGY_LAB_R1",
-              "text": "The negative time interval measured at the White Hole Station was further investigated at the High Energy Lab (in the canyon at Ember Twin’s equator).",
+              "text": "",
               "sourceId": "WHITE_HOLE_STATION"
             },
             {
               "id": "CT_HIGH_ENERGY_LAB_R2",
-              "text": "The Ash Twin Project was planned at the High Energy Lab, a building with large solar panels on Ember Twin’s equator."
+              "text": ""
             },
             {
               "id": "CT_HIGH_ENERGY_LAB_R3",
-              "text": "The High Energy Lab can only be accessed by a path from the Sunless City."
+              "text": ""
             }
           ]
         }
@@ -245,7 +245,7 @@
             },
             {
               "id": "CT_SUNLESS_CITY_X3",
-              "text": "The Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the \"Eye of the universe.\""
+              "text": ""
             }
           ],
           "rumor": [
@@ -266,7 +266,7 @@
             },
             {
               "id": "CT_SUNLESS_CITY_R5",
-              "text": "There is a path leading to the High Energy Lab from the Sunless City."
+              "text": ""
             },
             {
               "id": "CT_SUNLESS_CITY_R2",
@@ -284,15 +284,15 @@
           "explore": [
             {
               "id": "CT_ANGLERFISH_FOSSIL_X1",
-              "text": "Nomai children used to play a game here. One player was the anglerfish and wore a blindfold. The rest of the children (the littlefish) lined up against one wall. When the anglerfish said go, the littlefish had to sneak across to the other side."
+              "text": ""
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_X2",
-              "text": "The blindfold rule was added because real anglerfish are blind."
+              "text": ""
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_X3",
-              "text": "The adult Nomai were delighted to see the children incorporate their research into the game's rules."
+              "text": ""
             }
           ],
           "rumor": [
@@ -303,7 +303,7 @@
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_R2",
-              "text": "The Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Ember Twin.",
+              "text": "",
               "sourceId": "BH_HANGING_CITY"
             },
             {
@@ -1085,7 +1085,7 @@
             },
             {
               "id": "BH_OBSERVATORY_R4",
-              "text": "There's a door to the observatory on the surface, but it's broken."
+              "text": ""
             }
           ]
         }
@@ -1308,7 +1308,7 @@
             },
             {
               "id": "GD_STATUE_WORKSHOP_X3",
-              "text": "The statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed."
+              "text": ""
             }
           ],
           "rumor": [
