@@ -1,5 +1,5 @@
 # Outer Wilds Ventures
 
-An interactive Ship Log based on the 2019 videogame _Outer Wilds_, by Mobius Digital.
+Un Cuaderno de Bitácora interactivo basado en el juego de 2019 _Outer Wilds_, de Mobius Digital.
 
 🏕 🚀
