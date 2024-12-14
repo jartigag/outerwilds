@@ -564,7 +564,7 @@
       },
       {
         "id": "TH_QUANTUM_SHARD",
-        "name": "",
+        "name": "Fragmento Cuántico",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
@@ -743,7 +743,7 @@
       },
       {
         "id": "BH_QUANTUM_RESEARCH_TOWER",
-        "name": "",
+        "name": "Torre del Conocimiento Cuántico",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
