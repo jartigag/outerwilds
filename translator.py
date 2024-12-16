@@ -59,7 +59,7 @@ if __name__ == "__main__":
   tagged_entries_from_videos = []
   for item in json_url["items"]:
     if CONTENT_FILTER in item["title"]:
-      content_html = find_key(json_url, "content_html")
+      content_html = find_key(item, "content_html")
       parser = ShiplogEntriesParser()
       parser.feed(content_html)
       tagged_entries_from_videos += parser.tagged_entries
@@ -70,7 +70,7 @@ if __name__ == "__main__":
   for entry in tagged_entries_from_videos:
     tag = entry["id"]
     old_text = find_text_from_id(json_file, tag)
-    if old_text is not None:
+    if old_text:
       new_text = find_text_from_id(tagged_entries_from_videos, tag)
       if new_text is not None:
         old_text = old_text.replace('"','\\\\\\\\\\"')
