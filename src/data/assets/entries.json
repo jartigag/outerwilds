@@ -338,7 +338,7 @@
           "rumor": [
             {
               "id": "CT_QUANTUM_CAVES_R1",
-              "text": "",
+              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de los Gemelos Reloj de Arena.",
               "sourceId": "BH_QUANTUM_SHARD"
             }
           ]
@@ -571,21 +571,21 @@
           "explore": [
             {
               "id": "TH_QUANTUM_SHARD_X1",
-              "text": ""
+              "text": "Un extraño fragmento de roca que deambula cuando nadie lo observa. Los nomai determinaron que el fragmento es la razón por la que los objetos del bosque se comportan de manera cuántica."
             },
             {
               "id": "TH_QUANTUM_SHARD_X2",
-              "text": ""
+              "text": "Según la hipótesis de los nomai, este fragmento es, en realidad, un trozo de la Luna Cuántica."
             }
           ],
           "rumor": [
             {
               "id": "TH_QUANTUM_SHARD_R1",
-              "text": ""
+              "text": "Este fragmento emite la misma señal que la Luna Cuántica."
             },
             {
               "id": "TH_QUANTUM_SHARD_R2",
-              "text": "",
+              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de Lumbre.",
               "sourceId": "BH_QUANTUM_SHARD"
             }
           ]
@@ -694,11 +694,11 @@
           "explore": [
             {
               "id": "BH_RIEBECK_X1",
-              "text": ""
+              "text": "Riebeck estableció su campamento en la parte baja del Cruce. La emoción que sentía por estar en un entorno rodeado de tanta historia nomai solo podía equipararse con el terror que sentía por el agujero negro."
             },
             {
               "id": "BH_RIEBECK_X2",
-              "text": ""
+              "text": "La única persona encargada de la arqueología en Lumbre es Riebeck. SuperÓ el miedo que le producía aventurarse al espacio exterior para explorar el tesoro cultural nomai que alberga Hondonada Frágil."
             }
           ],
           "rumor": [
@@ -750,7 +750,7 @@
           "explore": [
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_X1",
-              "text": ""
+              "text": "Esta torre (ubicada en el ecuador de Hondonada Frágil) contenía información útil sobre el primer peregrinaje de los nomai a la Luna Cuántica."
             },
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_X2",
@@ -1354,7 +1354,7 @@
           "rumor": [
             {
               "id": "GD_QUANTUM_TOWER_R1",
-              "text": "",
+              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de Abismo del Gigante.",
               "sourceId": "BH_QUANTUM_SHARD"
             }
           ]
@@ -1378,11 +1378,11 @@
             },
             {
               "id": "ORBITAL_PROBE_CANNON_X2",
-              "text": ""
+              "text": "El Cañón de Sondas Orbital se creó para encontrar la ubicación precisa del Ojo del universo."
             },
             {
               "id": "ORBITAL_PROBE_CANNON_X3",
-              "text": ""
+              "text": "Los nomai potenciaron el Cañón de Sondas Orbital mas allá de su capacidad máxima para crear la mejor oportunidad de hallar el Ojo del universo."
             }
           ],
           "rumor": [
@@ -1729,7 +1729,7 @@
             },
             {
               "id": "WHS_X1",
-              "text": ""
+              "text": "Para utilizar una torre, párate en la plataforma de distorsión mientras la torre se alinea con el cuerpo astral correspondiente (la alineación se produce cuando el cuerpo astral está directamente encima)."
             },
             {
               "id": "WHS_X2",
