@@ -1549,12 +1549,12 @@
           "rumor": [
             {
               "id": "DB_FELDSPAR_R1",
-              "text": "Feldspar headed off to Dark Bramble after reaching the core of Giant's Deep.",
+              "text": "",
               "sourceId": "GD_BRAMBLE_ISLAND"
             },
             {
               "id": "DB_FELDSPAR_R2",
-              "text": "When I launch my scout into the seed that crashed on Timber Hearth, it ends up in a much bigger space filled with fog and thorny vines.",
+              "text": "",
               "sourceId": "TH_IMPACT_CRATER"
             }
           ]
@@ -1606,7 +1606,7 @@
             },
             {
               "id": "DB_ESCAPE_POD_X3",
-              "text": ""
+              "text": "Los supervivientes de la cápsula de escape 3 detectaron dos balizas de la Nave, como si estuviera en dos lugares a la vez."
             }
           ],
           "rumor": [
@@ -1645,12 +1645,12 @@
           "rumor": [
             {
               "id": "DB_NOMAI_GRAVE_R1",
-              "text": "",
+              "text": "Los supervivientes de la cápsula de escape 3 abandonaron el sitio de la colisión e intentaron regresar a la Nave.",
               "sourceId": "DB_ESCAPE_POD"
             },
             {
               "id": "DB_NOMAI_GRAVE_R2",
-              "text": "",
+              "text": "Los supervivientes decidieron seguir la baliza más cercana de la Nave porque tenían un suministro de aire limitado. El plan era dejar un rastro de luces en caso de que alguien escuchara la señal de auxilio.",
               "sourceId": "DB_ESCAPE_POD"
             }
           ]
