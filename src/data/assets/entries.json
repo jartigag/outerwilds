@@ -288,7 +288,7 @@
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_X2",
-              "text": "La regla de los ojos vendados se agregó porque los rapes son ciegos."
+              "text": "La regla de los ojos vendados se agregó porque los rapes son ciegos"
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_X3",
@@ -392,7 +392,7 @@
           "explore": [
             {
               "id": "TT_WARP_TOWERS_X1",
-              "text": "En el ecuador de Gemelo Ceniza, hay un anillo formado por varias torres nomai de gran tamaño."
+              "text": "En el ecuador de Gemelo Ceniza hay un anillo formado por varias torres nomai de gran tamaño."
             },
             {
               "id": "TT_WARP_TOWERS_X2",
@@ -571,11 +571,11 @@
           "explore": [
             {
               "id": "TH_QUANTUM_SHARD_X1",
-              "text": "Hay un extraño fragmento de roca en este bosque, que se mueve cuando no lo observo. Emite una señal en la frecuencia de fluctuacinoes cuánticas."
+              "text": "Un extraño fragmento de roca que deambula cuando nadie lo observa. Los nomai determinaron que el fragmento es la razón por la que los objetos del bosque se comportan de manera cuántica."
             },
             {
               "id": "TH_QUANTUM_SHARD_X2",
-              "text": "Encontré un poema escrito en uno de los árboles del bosque."
+              "text": "Según la hipótesis de los nomai, este fragmento es, en realidad, un trozo de la Luna Cuántica."
             }
           ],
           "rumor": [
