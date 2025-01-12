@@ -122,7 +122,7 @@
           "rumor": [
             {
               "id": "CT_GRAVITY_CANNON_R1",
-              "text": "",
+              "text": "Es posible llamar al transbordador nomai que está congelado en el Intruso al cañón gravitatorio en Gemelo Brasa.",
               "sourceId": "COMET_SHUTTLE"
             }
           ]
@@ -181,7 +181,7 @@
           "rumor": [
             {
               "id": "CT_HIGH_ENERGY_LAB_R1",
-              "text": "",
+              "text": "El intervalo de tiempo negativo que se midió en la Estación del Agujero Blanco fue investigado con más detalle en el Laboratorio Ultraenergético (en el despeñadero, en el ecuador de Gemelo Brasa).",
               "sourceId": "WHITE_HOLE_STATION"
             },
             {
@@ -284,11 +284,11 @@
           "explore": [
             {
               "id": "CT_ANGLERFISH_FOSSIL_X1",
-              "text": ""
+              "text": "Los niños nomai solían jugar a un juego aquí. Un jugador asumía el rol del rape y usaba una venda. Los demás niños (los pececitos) se ponían en fila contra una pared. Cuando el rape decía \"ahora\", los pececitos tenían que escabullirse y llegar al otro lado."
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_X2",
-              "text": ""
+              "text": "La regla de los ojos vendados se agregó porque los rapes son ciegos."
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_X3",
@@ -392,7 +392,7 @@
           "explore": [
             {
               "id": "TT_WARP_TOWERS_X1",
-              "text": "En el ecuador de Gemelo Ceniza hay un anillo formado por varias torres nomai de gran tamaño."
+              "text": "En el ecuador de Gemelo Ceniza, hay un anillo formado por varias torres nomai de gran tamaño."
             },
             {
               "id": "TT_WARP_TOWERS_X2",
@@ -513,15 +513,15 @@
           "explore": [
             {
               "id": "TH_IMPACT_CRATER_X1",
-              "text": ""
+              "text": "Una semilla de Espinoscuro se estrelló aquí y ya echó raíces. Tectita quiere usar un lanzaexploradores para ver qué hay dentro."
             },
             {
               "id": "TH_IMPACT_CRATER_X2",
-              "text": ""
+              "text": "Cuando apunto el señaloscopio a la semilla, detecto música de armónica."
             },
             {
               "id": "TH_IMPACT_CRATER_X3",
-              "text": ""
+              "text": "Lancé mi Miniexplorador adentro de la semilla. No sé cómo, pero la semilla es mucho más grande por dentro."
             }
           ],
           "rumor": [
@@ -564,24 +564,24 @@
       },
       {
         "id": "TH_QUANTUM_SHARD",
-        "name": "Fragmento Cuántico",
+        "name": "Bosque cuántico",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
           "explore": [
             {
               "id": "TH_QUANTUM_SHARD_X1",
-              "text": "Un extraño fragmento de roca que deambula cuando nadie lo observa. Los nomai determinaron que el fragmento es la razón por la que los objetos del bosque se comportan de manera cuántica."
+              "text": "Hay un extraño fragmento de roca en este bosque, que se mueve cuando no lo observo. Emite una señal en la frecuencia de fluctuacinoes cuánticas."
             },
             {
               "id": "TH_QUANTUM_SHARD_X2",
-              "text": "Según la hipótesis de los nomai, este fragmento es, en realidad, un trozo de la Luna Cuántica."
+              "text": "Encontré un poema escrito en uno de los árboles del bosque."
             }
           ],
           "rumor": [
             {
               "id": "TH_QUANTUM_SHARD_R1",
-              "text": "Este fragmento emite la misma señal que la Luna Cuántica."
+              "text": ""
             },
             {
               "id": "TH_QUANTUM_SHARD_R2",
@@ -776,7 +776,7 @@
       },
       {
         "id": "BH_QUANTUM_SHARD",
-        "name": "",
+        "name": "Fragmento cuántico",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "parentId": "BH_QUANTUM_RESEARCH_TOWER",
@@ -784,38 +784,39 @@
           "explore": [
             {
               "id": "BH_QUANTUM_SHARD_X1",
-              "text": ""
+              "text": "Un extraño fragmento de roca que deambula cuando nadie lo observa. Los nomai determinaron que el fragmento es la razón por la que los objetos del bosque se comportan de manera cuántica."
             },
             {
               "id": "BH_QUANTUM_SHARD_X2",
-              "text": ""
-            },
+              "text": "Según la hipótesis de los nomai, este fragmento es, en realidad, un trozo de la Luna Cuántica."
+            }
+
             {
               "id": "BH_QUANTUM_SHARD_X3",
-              "text": ""
+              "text": "Este fragmento emite la misma señal que la Luna Cuántica."
             }
           ],
           "rumor": [
             {
               "id": "BH_QUANTUM_SHARD_R1",
-              "text": ""
+              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de Lumbre."
             }
           ]
         }
       },
       {
         "id": "BH_WARP_RECEIVER",
-        "name": "",
+        "name": "Glaciar septentrional",
         "isCuriousity": false,
         "facts": {
           "explore": [
             {
               "id": "BH_WARP_RECEIVER_X1",
-              "text": ""
+              "text": "El polo norte de Hondonada Frágil está cubierto de nieve y hielo. En la superficie, se encuentra una ruina nomai con una forma única."
             },
             {
               "id": "BH_WARP_RECEIVER_X2",
-              "text": ""
+              "text": "Los nomai fueron capaces de usar la distorsión para llegar hasta aquí desde la Estación del Agujero Blanco. Fue allí donde recrearon por primera vez la tecnología de distorsión."
             }
           ],
           "rumor": []
@@ -848,14 +849,14 @@
       },
       {
         "id": "BH_OLD_SETTLEMENT",
-        "name": "",
+        "name": "Antiguo asentamiento",
         "isCuriousity": false,
         "curiousity": "VESSEL",
         "facts": {
           "explore": [
             {
               "id": "BH_OLD_SETTLEMENT_X1",
-              "text": ""
+              "text": "Los nomai construyeron un asentamiento temporal debajo de la cápsula de escape estrellada."
             },
             {
               "id": "BH_OLD_SETTLEMENT_X2",
@@ -867,13 +868,13 @@
             },
             {
               "id": "BH_OLD_SETTLEMENT_X4",
-              "text": ""
+              "text": "Los nomai abandonaron su asentamiento porque temían que no fuera estable."
             }
           ],
           "rumor": [
             {
               "id": "BH_OLD_SETTLEMENT_R1",
-              "text": "",
+              "text": "Los supervivientes nomai que se estrellaron en Hondonada Frágil bajaron del acantilado y llegaron a un refugio debajo de la superficie.",
               "sourceId": "BH_ESCAPE_POD"
             }
           ]
@@ -929,13 +930,13 @@
       },
       {
         "id": "BH_HANGING_CITY",
-        "name": "",
+        "name": "La Ciudad Suspendida",
         "isCuriousity": false,
         "facts": {
           "explore": [
             {
               "id": "BH_HANGING_CITY_X1",
-              "text": ""
+              "text": "Una ciudad nomai suspendida debajo del glaciar septentrional de Hondonada Frágil. La ciudad se divide, en forma vertical, en cuatro distritos."
             },
             {
               "id": "BH_HANGING_CITY_X2",
@@ -947,13 +948,13 @@
             },
             {
               "id": "BH_HANGING_CITY_X4",
-              "text": ""
+              "text": "Los nomai viajaron a este sistema solar en busca de una señal que tenía su origen en algo más antiguo que el mismísimo universo. A la fuente de esta señal la llamaron el \"Ojo del universo\"."
             }
           ],
           "rumor": [
             {
               "id": "BH_HANGING_CITY_R1",
-              "text": "",
+              "text": "Los nomai decidieron migrar del antiguo asentamiento hacia el glaciar septentrional. Utilizaron cristales grativatorios para lograr un camino estable debajo de la superficie.",
               "sourceId": "BH_OLD_SETTLEMENT"
             },
             {
@@ -999,7 +1000,7 @@
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_R2",
-              "text": "",
+              "text": "El Distrito Forja del Agujeron Negro es el más alto de la Ciudad Suspendida.",
               "sourceId": "BH_HANGING_CITY"
             },
             {
@@ -1080,12 +1081,12 @@
             },
             {
               "id": "BH_OBSERVATORY_R3",
-              "text": "",
+              "text": "Riebeck dice que no es posible ingresar al observatorio desde la superficie (lo intentó), pero posiblemente exista una entrada debajo de la corteza.",
               "sourceId": "BH_RIEBECK"
             },
             {
               "id": "BH_OBSERVATORY_R4",
-              "text": ""
+              "text": "Hay una puerta al observatorio en la superficie, pero está rota."
             }
           ]
         }
@@ -1308,7 +1309,7 @@
             },
             {
               "id": "GD_STATUE_WORKSHOP_X3",
-              "text": ""
+              "text": "Las estatuas estaban diseñadas para activarse únicamente una vez que el Proyecto \"Gemelo Ceniza\" tuviera éxito, o en el caso de que fracasara."
             }
           ],
           "rumor": [
@@ -1554,7 +1555,7 @@
             },
             {
               "id": "DB_FELDSPAR_R2",
-              "text": "",
+              "text": "Cuando lanzo mi explorador hacia la semilla que se estrelló en Lumbre, acaba en un espacio mucho más grande repleto de niebla y hiedras espinosas.",
               "sourceId": "TH_IMPACT_CRATER"
             }
           ]
@@ -1725,7 +1726,7 @@
           "explore": [
             {
               "id": "WHS_X4",
-              "text": ""
+              "text": "Cada torre de distorsión nomai está conectada a un cuerpo astral."
             },
             {
               "id": "WHS_X1",
@@ -1733,11 +1734,11 @@
             },
             {
               "id": "WHS_X2",
-              "text": ""
+              "text": "Los nomai notaron algo extraño: los objetos transportados mediante distorsión parecían llegar al receptor en Hondonada Frágil momentos antes de partir de la Estación del Agujero Blanco."
             },
             {
               "id": "WHS_X3",
-              "text": ""
+              "text": "Este intervalo negativo entre la llegada y la partida de un objeto era realmente minúsculo (aproximadamente 0,00001 segundos). Los nomai no estaban seguros de que sus instrumentos fueran capaces de medir una fracción de tiempo tan pequeña."
             }
           ],
           "rumor": [
@@ -1779,7 +1780,7 @@
           "explore": [
             {
               "id": "COMET_SHUTTLE_X1",
-              "text": ""
+              "text": "Encontré un transbordador nomai prácticamente recubierto de hielo."
             },
             {
               "id": "COMET_SHUTTLE_X2",
@@ -1787,7 +1788,7 @@
             },
             {
               "id": "COMET_SHUTTLE_X3",
-              "text": ""
+              "text": "Había tres nomai a bordo del transbordador. Una de ellas se quedó para mantener los motores del transbordador calientes, mientras las demás exploraban el Intruso."
             },
             {
               "id": "COMET_SHUTTLE_X4",
