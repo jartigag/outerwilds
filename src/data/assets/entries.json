@@ -859,11 +859,11 @@
             },
             {
               "id": "BH_OLD_SETTLEMENT_X2",
-              "text": ""
+              "text": "Los nomai trabajaron juntos para recordar la señal con forma de ojo con la que se habían topado mientras estaban en la nave."
             },
             {
               "id": "BH_OLD_SETTLEMENT_X3",
-              "text": ""
+              "text": "La señal era más antigua que el mismísimo universo. Y los nomai decidieron llamarla el \"Ojo del universo\"."
             },
             {
               "id": "BH_OLD_SETTLEMENT_X4",
@@ -939,11 +939,11 @@
             },
             {
               "id": "BH_HANGING_CITY_X2",
-              "text": ""
+              "text": "Encontré un interruptor en el Distrito Aguanieve con el que se puede subir y bajar la Forja."
             },
             {
               "id": "BH_HANGING_CITY_X3",
-              "text": ""
+              "text": "Los nomai debatieron cómo podían obtener el potente y muy avanzado núcleo de distorsión, necesario para el Proyecto \"Gemelo Ceniza\"."
             },
             {
               "id": "BH_HANGING_CITY_X4",
@@ -994,7 +994,7 @@
           "rumor": [
             {
               "id": "BH_BLACK_HOLE_FORGE_R1",
-              "text": "",
+              "text": "La Forja del Agujero Negro se encuentra colgada debajo de la Ciudad Suspendida. Encontré un interruptor en el Distrito Aguanieve con el que se puede subir y bajar la Forja.",
               "sourceId": "BH_HANGING_CITY"
             },
             {
@@ -1004,7 +1004,7 @@
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_R3",
-              "text": "",
+              "text": "Una nomai llamada Poke planeaba crear un núcleo de distorsión avanzado en la Forja del Agujero Negro.",
               "sourceId": "BH_HANGING_CITY"
             },
             {
@@ -1700,7 +1700,7 @@
             },
             {
               "id": "DB_VESSEL_R3",
-              "text": "",
+              "text": "El núcleo de distorsión de la Nave se averió durante la colisión en Espinoscuro.",
               "sourceId": "BH_HANGING_CITY"
             },
             {
