@@ -750,21 +750,21 @@
           "explore": [
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_X1",
-              "text": "Esta torre (ubicada en el ecuador de Hondonada Frágil) contenía información útil sobre el primer peregrinaje de los nomai a la Luna Cuántica."
+              "text": "Los nomai construyeron un santuario en la Luna Cuántica para brindar ayuda durante el peregrinaje a su sexta ubicación. \"Recuerda esta regla final: Para explorar la sexta ubicación, el santuario debe estar en el polo norte de la luna\"."
             },
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_X2",
-              "text": ""
+              "text": "El peregrinaje a la Luna Cuántica fue un viaje sumamente importante para los nomai."
             },
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_X3",
-              "text": ""
+              "text": "Después de que los dos grupos de nomai varados en Gemelo Brasa y Hondonada Frágil se reunieran, acordaron como objetivo conjunto encontrar la Luna Cuántica y visitarla."
             }
           ],
           "rumor": [
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_R1",
-              "text": ""
+              "text": "Esta torre (ubicada en el ecuador de Hondonada Frágil) contenía información útil sobre el primer peregrinaje de los nomai a la Luna Cuántica."
             },
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_R2",
@@ -1873,7 +1873,7 @@
             },
             {
               "id": "QUANTUM_MOON_R4",
-              "text": ""
+              "text": "En las notas de investigación de Chert, se menciona una Luna Cuántica en la que los lumbreanos jamás han podido aterrizar."
             }
           ]
         }
@@ -1927,7 +1927,7 @@
           "rumor": [
             {
               "id": "QM_SHRINE_R1",
-              "text": "",
+              "text": "Los nomai construyeron un santuario en la Luna Cuántica para brindar ayuda durante el peregrinaje a su sexta ubicación.",
               "sourceId": "BH_QUANTUM_RESEARCH_TOWER"
             }
           ]
@@ -1974,12 +1974,12 @@
             },
             {
               "id": "QM_SIXTH_LOCATION_R2",
-              "text": "",
+              "text": "Muchos nomai realizaban un peregrinaje durante el cual la Luna Cuántica los llevaba a la sexta ubicación, la más secreta.",
               "sourceId": "BH_QUANTUM_RESEARCH_TOWER"
             },
             {
               "id": "QM_SIXTH_LOCATION_R3",
-              "text": "",
+              "text": "Para explorar la sexta ubicación, el santuario de la Luna Cuántica debe estar en el polo norte de la Luna.",
               "sourceId": "BH_QUANTUM_RESEARCH_TOWER"
             }
           ]
