@@ -750,7 +750,7 @@
           "explore": [
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_X1",
-              "text": "Esta torre (ubicada en el ecuador de Hondonada Frágil) contenía información útil sobre el primer peregrinaje de los nomai a la Luna Cuántica."
+              "text": "Los nomai construyeron un santuario en la Luna Cuántica para brindar ayuda durante el peregrinaje a su sexta ubicación. \"Recuerda esta regla final: Para explorar la sexta ubicación, el santuario debe estar en el polo norte de la luna\"."
             },
             {
               "id": "BH_QUANTUM_RESEARCH_TOWER_X2",
@@ -1842,7 +1842,7 @@
     "entries": [
       {
         "id": "QUANTUM_MOON",
-        "name": "",
+        "name": "Luna Cuántica",
         "isCuriousity": {},
         "curiousity": "QUANTUM_MOON",
         "facts": {
@@ -1901,7 +1901,7 @@
       },
       {
         "id": "QM_SHRINE",
-        "name": "",
+        "name": "Santuario cuántico",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "parentId": "QUANTUM_MOON",
@@ -1935,7 +1935,7 @@
       },
       {
         "id": "QM_SIXTH_LOCATION",
-        "name": "",
+        "name": "Sexta ubicación",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "parentId": "QUANTUM_MOON",
