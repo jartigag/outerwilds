@@ -81,29 +81,6 @@
         }
       },
       {
-        "id": "CT_QUANTUM_MOON_LOCATOR",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "QUANTUM_MOON",
-        "facts": {
-          "explore": [
-            {
-              "id": "CT_QUANTUM_MOON_LOCATOR_X1",
-              "text": ""
-            },
-            {
-              "id": "CT_QUANTUM_MOON_LOCATOR_X2",
-              "text": ""
-            },
-            {
-              "id": "CT_QUANTUM_MOON_LOCATOR_X3",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
         "id": "CT_GRAVITY_CANNON",
         "name": "Cañón Gravitatorio",
         "isCuriousity": false,
@@ -196,40 +173,6 @@
         }
       },
       {
-        "id": "CT_WARP_TOWER_MAP",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "TIME_LOOP",
-        "parentId": "CT_HIGH_ENERGY_LAB",
-        "facts": {
-          "explore": [
-            {
-              "id": "CT_WARP_TOWER_MAP_X1",
-              "text": ""
-            },
-            {
-              "id": "CT_WARP_TOWER_MAP_X4",
-              "text": ""
-            },
-            {
-              "id": "CT_WARP_TOWER_MAP_X3",
-              "text": ""
-            },
-            {
-              "id": "CT_WARP_TOWER_MAP_X2",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "CT_WARP_TOWER_MAP_R1",
-              "text": "",
-              "sourceId": "BH_BLACK_HOLE_FORGE"
-            }
-          ]
-        }
-      },
-      {
         "id": "CT_SUNLESS_CITY",
         "name": "Ciudad Sin Sol",
         "isCuriousity": false,
@@ -315,65 +258,6 @@
               "id": "CT_ANGLERFISH_FOSSIL_R4",
               "text": "La entrada desde la Cueva de los Peldaños es difícil de ver, a menos que el rape se trague una linterna.",
               "sourceId": "CT_SUNLESS_CITY"
-            }
-          ]
-        }
-      },
-      {
-        "id": "CT_QUANTUM_CAVES",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "QUANTUM_MOON",
-        "facts": {
-          "explore": [
-            {
-              "id": "CT_QUANTUM_CAVES_X1",
-              "text": ""
-            },
-            {
-              "id": "CT_QUANTUM_CAVES_X2",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "CT_QUANTUM_CAVES_R1",
-              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de los Gemelos Reloj de Arena.",
-              "sourceId": "BH_QUANTUM_SHARD"
-            }
-          ]
-        }
-      },
-      {
-        "id": "CT_LAKEBED_CAVERN",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "QUANTUM_MOON",
-        "facts": {
-          "explore": [
-            {
-              "id": "CT_LAKEBED_CAVERN_X1",
-              "text": ""
-            },
-            {
-              "id": "CT_LAKEBED_CAVERN_X2",
-              "text": ""
-            },
-            {
-              "id": "CT_LAKEBED_CAVERN_X3",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "CT_LAKEBED_CAVERN_R1",
-              "text": "",
-              "sourceId": "CT_QUANTUM_CAVES"
-            },
-            {
-              "id": "CT_LAKEBED_CAVERN_R2",
-              "text": "",
-              "sourceId": "CT_QUANTUM_CAVES"
             }
           ]
         }
@@ -534,35 +418,6 @@
         }
       },
       {
-        "id": "TH_NOMAI_MINE",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "TIME_LOOP",
-        "facts": {
-          "explore": [
-            {
-              "id": "TH_NOMAI_MINE_X1",
-              "text": ""
-            },
-            {
-              "id": "TH_NOMAI_MINE_X2",
-              "text": ""
-            },
-            {
-              "id": "TH_NOMAI_MINE_X3",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "TH_NOMAI_MINE_R1",
-              "text": "",
-              "sourceId": "VM_VOLCANO"
-            }
-          ]
-        }
-      },
-      {
         "id": "TH_QUANTUM_SHARD",
         "name": "Bosque cuántico",
         "isCuriousity": false,
@@ -589,21 +444,6 @@
               "sourceId": "BH_QUANTUM_SHARD"
             }
           ]
-        }
-      },
-      {
-        "id": "TH_RADIO_TOWER",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "TH_RADIO_TOWER_X1",
-              "text": ""
-            }
-          ],
-          "rumor": []
         }
       }
     ]
@@ -680,9 +520,9 @@
             }
           ]
         }
-      }
-    ]
-  },
+       }
+     ]
+   },
   {
     "id": "BRITTLE_HOLLOW",
     "entries": [
@@ -880,54 +720,6 @@
         }
       },
       {
-        "id": "BH_MURAL_3",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "VESSEL",
-        "parentId": "BH_OLD_SETTLEMENT",
-        "facts": {
-          "explore": [
-            {
-              "id": "BH_MURAL_3_X1",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "BH_MURAL_2",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "VESSEL",
-        "parentId": "BH_OLD_SETTLEMENT",
-        "facts": {
-          "explore": [
-            {
-              "id": "BH_MURAL_2_X1",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "BH_MURAL_1",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "VESSEL",
-        "parentId": "BH_OLD_SETTLEMENT",
-        "facts": {
-          "explore": [
-            {
-              "id": "BH_MURAL_1_X1",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
         "id": "BH_HANGING_CITY",
         "name": "La Ciudad Suspendida",
         "isCuriousity": false,
@@ -1016,34 +808,6 @@
         }
       },
       {
-        "id": "BH_WARP_ALIGNMENT_MAP",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "TIME_LOOP",
-        "parentId": "BH_BLACK_HOLE_FORGE",
-        "facts": {
-          "explore": [
-            {
-              "id": "BH_WARP_ALIGNMENT_MAP_X1",
-              "text": ""
-            },
-            {
-              "id": "BH_WARP_ALIGNMENT_MAP_X2",
-              "text": ""
-            },
-            {
-              "id": "BH_WARP_ALIGNMENT_MAP_X3",
-              "text": ""
-            },
-            {
-              "id": "BH_WARP_ALIGNMENT_MAP_X4",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
         "id": "BH_OBSERVATORY",
         "name": "Observatorio Sur",
         "isCuriousity": false,
@@ -1114,34 +878,6 @@
               "sourceId": "GD_CONSTRUCTION_YARD"
             }
           ]
-        }
-      }
-    ]
-  },
-  {
-    "id": "VOLCANIC_MOON",
-    "entries": [
-      {
-        "id": "VM_VOLCANO",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "TIME_LOOP",
-        "facts": {
-          "explore": [
-            {
-              "id": "VM_VOLCANO_X1",
-              "text": ""
-            },
-            {
-              "id": "VM_VOLCANO_X2",
-              "text": ""
-            },
-            {
-              "id": "VM_VOLCANO_X3",
-              "text": ""
-            }
-          ],
-          "rumor": []
         }
       }
     ]
@@ -1246,21 +982,6 @@
         }
       },
       {
-        "id": "GD_BRAMBLE_ISLAND",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "SUNKEN_MODULE",
-        "facts": {
-          "explore": [
-            {
-              "id": "GD_BRAMBLE_ISLAND_X1",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
         "id": "GD_STATUE_ISLAND",
         "name": "Isla de la Estatua",
         "isCuriousity": false,
@@ -1328,40 +1049,42 @@
         }
       },
       {
-        "id": "GD_QUANTUM_TOWER",
-        "name": "",
+        "id": "OPC_BROKEN_MODULE",
+        "name": "Módulo de Lanzamiento",
         "isCuriousity": false,
-        "curiousity": "QUANTUM_MOON",
+        "curiousity": "SUNKEN_MODULE",
+        "parentId": "ORBITAL_PROBE_CANNON",
         "facts": {
           "explore": [
             {
-              "id": "GD_QUANTUM_TOWER_X1",
+              "id": "OPC_BROKEN_MODULE_X1",
               "text": ""
             },
             {
-              "id": "GD_QUANTUM_TOWER_X2",
+              "id": "OPC_BROKEN_MODULE_X2",
               "text": ""
             },
             {
-              "id": "GD_QUANTUM_TOWER_X3",
-              "text": ""
-            },
-            {
-              "id": "GD_QUANTUM_TOWER_X4",
+              "id": "OPC_BROKEN_MODULE_X3",
               "text": ""
             }
           ],
           "rumor": [
             {
-              "id": "GD_QUANTUM_TOWER_R1",
-              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de Abismo del Gigante.",
-              "sourceId": "BH_QUANTUM_SHARD"
+              "id": "OPC_BROKEN_MODULE_R1",
+              "text": ""
+            },
+            {
+              "id": "OPC_BROKEN_MODULE_R2",
+              "text": "El Módulo de Lanzamiento sufrió daños muy importantes. Hay una rajadura enorme en la portilla."
+            },
+            {
+              "id": "OPC_BROKEN_MODULE_R3",
+              "text": "Con la portilla fracturada, el Módulo de Lanzamiento queda expuesto al vacío del espacio."
             }
           ]
         }
-      }
-    ]
-  },
+      },
   {
     "id": "ORBITAL_PROBE_CANNON",
     "entries": [
@@ -1527,69 +1250,6 @@
     "id": "DARK_BRAMBLE",
     "entries": [
       {
-        "id": "DB_FELDSPAR",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "SUNKEN_MODULE",
-        "facts": {
-          "explore": [
-            {
-              "id": "DB_FELDSPAR_X1",
-              "text": ""
-            },
-            {
-              "id": "DB_FELDSPAR_X2",
-              "text": ""
-            },
-            {
-              "id": "DB_FELDSPAR_X3",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "DB_FELDSPAR_R1",
-              "text": "",
-              "sourceId": "GD_BRAMBLE_ISLAND"
-            },
-            {
-              "id": "DB_FELDSPAR_R2",
-              "text": "Cuando lanzo mi explorador hacia la semilla que se estrelló en Lumbre, acaba en un espacio mucho más grande repleto de niebla y hiedras espinosas.",
-              "sourceId": "TH_IMPACT_CRATER"
-            }
-          ]
-        }
-      },
-      {
-        "id": "DB_FROZEN_JELLYFISH",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "SUNKEN_MODULE",
-        "facts": {
-          "explore": [
-            {
-              "id": "DB_FROZEN_JELLYFISH_X1",
-              "text": ""
-            },
-            {
-              "id": "DB_FROZEN_JELLYFISH_X2",
-              "text": ""
-            },
-            {
-              "id": "DB_FROZEN_JELLYFISH_X3",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "DB_FROZEN_JELLYFISH_R1",
-              "text": "",
-              "sourceId": "DB_FELDSPAR"
-            }
-          ]
-        }
-      },
-      {
         "id": "DB_ESCAPE_POD",
         "name": "Cápsula de Escape 3",
         "isCuriousity": false,
@@ -1617,45 +1277,7 @@
             }
           ]
         }
-      },
-      {
-        "id": "DB_NOMAI_GRAVE",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "VESSEL",
-        "facts": {
-          "explore": [
-            {
-              "id": "DB_NOMAI_GRAVE_X1",
-              "text": ""
-            },
-            {
-              "id": "DB_NOMAI_GRAVE_X2",
-              "text": ""
-            },
-            {
-              "id": "DB_NOMAI_GRAVE_X3",
-              "text": ""
-            },
-            {
-              "id": "DB_NOMAI_GRAVE_X4",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "DB_NOMAI_GRAVE_R1",
-              "text": "Los supervivientes de la cápsula de escape 3 abandonaron el sitio de la colisión e intentaron regresar a la Nave.",
-              "sourceId": "DB_ESCAPE_POD"
-            },
-            {
-              "id": "DB_NOMAI_GRAVE_R2",
-              "text": "Los supervivientes decidieron seguir la baliza más cercana de la Nave porque tenían un suministro de aire limitado. El plan era dejar un rastro de luces en caso de que alguien escuchara la señal de auxilio.",
-              "sourceId": "DB_ESCAPE_POD"
-            }
-          ]
-        }
-      },
+      }
       {
         "id": "DB_VESSEL",
         "name": "La Nave",
@@ -1796,47 +1418,9 @@
           ],
           "rumor": []
         }
-      },
-      {
-        "id": "COMET_INTERIOR",
-        "name": "",
-        "isCuriousity": {},
-        "curiousity": "COMET_CORE",
-        "facts": {
-          "explore": [
-            {
-              "id": "COMET_INTERIOR_X1",
-              "text": ""
-            },
-            {
-              "id": "COMET_INTERIOR_X2",
-              "text": ""
-            },
-            {
-              "id": "COMET_INTERIOR_X3",
-              "text": ""
-            },
-            {
-              "id": "COMET_INTERIOR_X4",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "COMET_INTERIOR_R1",
-              "text": "",
-              "sourceId": "COMET_SHUTTLE"
-            },
-            {
-              "id": "COMET_INTERIOR_R2",
-              "text": "",
-              "sourceId": "COMET_SHUTTLE"
-            }
-          ]
-        }
       }
     ]
-  },
+  }
   {
     "id": "QUANTUM_MOON",
     "entries": [
@@ -1876,27 +1460,6 @@
               "text": "En las notas de investigación de Chert, se menciona una Luna Cuántica en la que los lumbreanos jamás han podido aterrizar."
             }
           ]
-        }
-      },
-      {
-        "id": "QM_SHUTTLE",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "QUANTUM_MOON",
-        "altPhotoCondition": "QUANTUM_MOON_X1",
-        "parentId": "QUANTUM_MOON",
-        "facts": {
-          "explore": [
-            {
-              "id": "QM_SHUTTLE_X1",
-              "text": ""
-            },
-            {
-              "id": "QM_SHUTTLE_X2",
-              "text": ""
-            }
-          ],
-          "rumor": []
         }
       },
       {
@@ -1981,740 +1544,6 @@
               "id": "QM_SIXTH_LOCATION_R3",
               "text": "Para explorar la sexta ubicación, el santuario de la Luna Cuántica debe estar en el polo norte de la Luna.",
               "sourceId": "BH_QUANTUM_RESEARCH_TOWER"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "id": "INVISIBLE_PLANET",
-    "entries": [
-      {
-        "id": "IP_RING_WORLD",
-        "name": "",
-        "isCuriousity": {},
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_RING_WORLD_X1",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_ZONE_1",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_1_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_1_X2",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_ZONE_1_STORY",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_ZONE_1",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_1_STORY_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_1_STORY_X2",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_ZONE_1_SECRET",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_ZONE_1",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_1_SECRET_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_1_SECRET_X1",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_ZONE_1_SECRET_R1",
-              "text": "",
-              "sourceId": "IP_MAP_PROJECTION_1"
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_ZONE_2",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_2_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_2_X2",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_ZONE_2_STORY",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_ZONE_2",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_2_STORY_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_2_STORY_X2",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_ZONE_2_SECRET",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_ZONE_2",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_2_SECRET_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_2_SECRET_X1",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_ZONE_2_SECRET_R1",
-              "text": "",
-              "sourceId": "IP_MAP_PROJECTION_2"
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_ZONE_2_LIGHTHOUSE",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_2_LIGHTHOUSE_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_2_LIGHTHOUSE_X1",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_ZONE_2_LIGHTHOUSE_R1",
-              "text": "",
-              "sourceId": "IP_ZONE_2"
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_ZONE_2_CODE",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "altPhotoCondition": "IP_ZONE_2_CODE_X3",
-        "parentId": "IP_ZONE_2_LIGHTHOUSE",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_2_CODE_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_2_CODE_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_2_CODE_X3",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_ZONE_2_CODE_R1",
-              "text": "",
-              "sourceId": "IP_DREAM_LAKE"
-            },
-            {
-              "id": "IP_ZONE_2_CODE_R2",
-              "text": "",
-              "sourceId": "IP_DREAM_LAKE"
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_ZONE_3",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_3_X1",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_ZONE_3_SECRET",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_ZONE_3",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_3_SECRET_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_3_SECRET_X1",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_ZONE_3_SECRET_R1",
-              "text": "",
-              "sourceId": "IP_MAP_PROJECTION_3"
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_ZONE_3_STORY",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_ZONE_3",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_3_STORY_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_3_STORY_X2",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_ZONE_3_ENTRANCE",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_ZONE_3",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_3_ENTRANCE_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_3_ENTRANCE_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_3_ENTRANCE_X3",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_ZONE_3_ENTRANCE_R1",
-              "text": ""
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_ZONE_3_LAB",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_3_LAB_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_3_LAB_X3",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_3_LAB_X4",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_3_LAB_X2",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_ZONE_3_LAB_R1",
-              "text": ""
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_MAP_PROJECTION_1",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_ZONE_3_LAB",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_MAP_PROJECTION_1_X1",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_MAP_PROJECTION_2",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_ZONE_3_LAB",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_MAP_PROJECTION_2_X1",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_MAP_PROJECTION_3",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_ZONE_3_LAB",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_MAP_PROJECTION_3_X1",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_ZONE_4",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_4_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_4_X3",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_4_X4",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_ZONE_4_STORY",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_ZONE_4",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_ZONE_4_STORY_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_ZONE_4_STORY_X2",
-              "text": ""
-            }
-          ],
-          "rumor": []
-        }
-      },
-      {
-        "id": "IP_PRISON",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_PRISON_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_PRISON_X2",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_PRISON_R1",
-              "text": "",
-              "sourceId": "IP_ZONE_4_STORY"
-            },
-            {
-              "id": "IP_PRISON_R2",
-              "text": "",
-              "sourceId": "IP_ZONE_4"
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_DREAM_LAKE",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "altPhotoCondition": "IP_DREAM_LAKE_X2",
-        "parentId": "IP_PRISON",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_DREAM_LAKE_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_LAKE_X2",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_DREAM_LAKE_R1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_LAKE_R2",
-              "text": ""
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_SARCOPHAGUS",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_PRISON",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_SARCOPHAGUS_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_SARCOPHAGUS_X3",
-              "text": ""
-            },
-            {
-              "id": "IP_SARCOPHAGUS_X4",
-              "text": ""
-            },
-            {
-              "id": "IP_SARCOPHAGUS_X5",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_SARCOPHAGUS_R4",
-              "text": ""
-            },
-            {
-              "id": "IP_SARCOPHAGUS_R1",
-              "text": "",
-              "sourceId": "IP_ZONE_1"
-            },
-            {
-              "id": "IP_SARCOPHAGUS_R2",
-              "text": "",
-              "sourceId": "IP_ZONE_2"
-            },
-            {
-              "id": "IP_SARCOPHAGUS_R3",
-              "text": "",
-              "sourceId": "IP_ZONE_3"
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_DREAM_ZONE_1",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_DREAM_ZONE_1_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_ZONE_1_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_ZONE_1_X3",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_DREAM_ZONE_1_R1",
-              "text": ""
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_DREAM_LIBRARY_1",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_DREAM_ZONE_1",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_DREAM_LIBRARY_1_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_LIBRARY_1_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_1_STORY_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_1_STORY_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_1_RULE_X1",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_DREAM_LIBRARY_1_R1",
-              "text": "",
-              "sourceId": "IP_ZONE_1_SECRET"
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_DREAM_ZONE_2",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_DREAM_ZONE_2_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_ZONE_2_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_ZONE_2_X3",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_ZONE_2_X4",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_DREAM_ZONE_2_R1",
-              "text": ""
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_DREAM_LIBRARY_2",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_DREAM_ZONE_2",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_DREAM_LIBRARY_2_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_LIBRARY_2_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_2_STORY_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_2_STORY_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_2_RULE_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_2_RULE_X2",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_DREAM_LIBRARY_2_R1",
-              "text": "",
-              "sourceId": "IP_ZONE_2_SECRET"
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_DREAM_ZONE_3",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_DREAM_ZONE_3_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_ZONE_3_X2",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_DREAM_ZONE_3_R1",
-              "text": ""
-            }
-          ]
-        }
-      },
-      {
-        "id": "IP_DREAM_LIBRARY_3",
-        "name": "",
-        "isCuriousity": false,
-        "curiousity": "INVISIBLE_PLANET",
-        "parentId": "IP_DREAM_ZONE_3",
-        "facts": {
-          "explore": [
-            {
-              "id": "IP_DREAM_LIBRARY_3_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_LIBRARY_3_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_3_STORY_X1",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_3_STORY_X2",
-              "text": ""
-            },
-            {
-              "id": "IP_DREAM_3_RULE_X1",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "IP_DREAM_LIBRARY_3_R1",
-              "text": "",
-              "sourceId": "IP_ZONE_3_SECRET"
             }
           ]
         }
