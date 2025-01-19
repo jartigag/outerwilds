@@ -1084,7 +1084,9 @@
             }
           ]
         }
-      },
+      }
+    ]
+  },
   {
     "id": "ORBITAL_PROBE_CANNON",
     "entries": [
