@@ -304,7 +304,7 @@
           "rumor": [
             {
               "id": "CT_QUANTUM_CAVES_R1",
-              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de los Gemelos Reloj de Arena.",
+              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de Lumbre.",
               "sourceId": "BH_QUANTUM_SHARD"
             }
           ]
@@ -488,7 +488,7 @@
             },
             {
               "id": "TH_QUANTUM_SHARD_R2",
-              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de los Gemelos Reloj de Arena.",
+              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de Lumbre.",
               "sourceId": "BH_QUANTUM_SHARD"
             }
           ]
