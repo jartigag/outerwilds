@@ -174,7 +174,7 @@
       },
       {
         "id": "CT_SUNLESS_CITY",
-        "name": "Ciudad Sin Sol",
+        "name": "La Ciudad Sin Sol",
         "isCuriousity": false,
         "facts": {
           "explore": [
@@ -246,7 +246,7 @@
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_R2",
-              "text": "",
+              "text": "Los nomai aprendieron cómo evadir al rape (en la teoría, al menos), ya que estudiaron el fósil que encontraron en Gemelo Brasa.",
               "sourceId": "BH_HANGING_CITY"
             },
             {
@@ -258,6 +258,31 @@
               "id": "CT_ANGLERFISH_FOSSIL_R4",
               "text": "La entrada desde la Cueva de los Peldaños es difícil de ver, a menos que el rape se trague una linterna.",
               "sourceId": "CT_SUNLESS_CITY"
+            }
+          ]
+        }
+      },
+      {
+        "id": "CT_QUANTUM_CAVES",
+        "name": "Señal cuántica",
+        "isCuriousity": false,
+        "curiousity": "QUANTUM_MOON",
+        "facts": {
+          "explore": [
+            {
+              "id": "CT_QUANTUM_CAVES_X1",
+              "text": ""
+            },
+            {
+              "id": "CT_QUANTUM_CAVES_X2",
+              "text": ""
+            }
+          ],
+          "rumor": [
+            {
+              "id": "CT_QUANTUM_CAVES_R1",
+              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de los Gemelos Reloj de Arena.",
+              "sourceId": "BH_QUANTUM_SHARD"
             }
           ]
         }
@@ -440,7 +465,7 @@
             },
             {
               "id": "TH_QUANTUM_SHARD_R2",
-              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de Lumbre.",
+              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de los Gemelos Reloj de Arena.",
               "sourceId": "BH_QUANTUM_SHARD"
             }
           ]
@@ -1047,6 +1072,39 @@
             }
           ]
         }
+      },
+      {
+        "id": "GD_QUANTUM_TOWER",
+        "name": "Tower of Quantum Trials",
+        "isCuriousity": false,
+        "curiousity": "QUANTUM_MOON",
+        "facts": {
+          "explore": [
+            {
+              "id": "GD_QUANTUM_TOWER_X1",
+              "text": ""
+            },
+            {
+              "id": "GD_QUANTUM_TOWER_X2",
+              "text": ""
+            },
+            {
+              "id": "GD_QUANTUM_TOWER_X3",
+              "text": ""
+            },
+            {
+              "id": "GD_QUANTUM_TOWER_X4",
+              "text": ""
+            }
+          ],
+          "rumor": [
+            {
+              "id": "GD_QUANTUM_TOWER_R1",
+              "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de Abismo del Gigante.",
+              "sourceId": "BH_QUANTUM_SHARD"
+            }
+          ]
+        }
       }
     ]
   },
@@ -1436,7 +1494,7 @@
           "explore": [
             {
               "id": "QUANTUM_MOON_X1",
-              "text": ""
+              "text": "Logré aterrizar en la superficie de la Luna Cuántica."
             },
             {
               "id": "QUANTUM_MOON_X2",
