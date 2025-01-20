@@ -13,7 +13,6 @@ import BoundingBox from '../../util/bounding-box';
 import { MapLayer } from '../../util/map-layer';
 import theme from '../../util/theme';
 import Log from '../Log';
-import MapControls from './MapControls';
 import { zoomToScaleOnViewerCenter } from './util/zoom';
 
 // idk why, but the types don't allow for arguments
