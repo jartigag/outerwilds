@@ -887,7 +887,7 @@
     "entries": [
       {
         "id": "GD_OCEAN",
-        "name": "",
+        "name": "Profundidades del océano",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "facts": {
@@ -1358,7 +1358,7 @@
     "entries": [
       {
         "id": "COMET_SHUTTLE",
-        "name": "",
+        "name": "Transbordador nomai congelado",
         "isCuriousity": false,
         "curiousity": "COMET_CORE",
         "altPhotoCondition": "COMET_SHUTTLE_X1",
