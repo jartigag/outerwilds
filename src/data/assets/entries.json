@@ -1047,43 +1047,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "OPC_BROKEN_MODULE",
-        "name": "Módulo de Lanzamiento",
-        "isCuriousity": false,
-        "curiousity": "SUNKEN_MODULE",
-        "parentId": "ORBITAL_PROBE_CANNON",
-        "facts": {
-          "explore": [
-            {
-              "id": "OPC_BROKEN_MODULE_X1",
-              "text": ""
-            },
-            {
-              "id": "OPC_BROKEN_MODULE_X2",
-              "text": ""
-            },
-            {
-              "id": "OPC_BROKEN_MODULE_X3",
-              "text": ""
-            }
-          ],
-          "rumor": [
-            {
-              "id": "OPC_BROKEN_MODULE_R1",
-              "text": ""
-            },
-            {
-              "id": "OPC_BROKEN_MODULE_R2",
-              "text": "El Módulo de Lanzamiento sufrió daños muy importantes. Hay una rajadura enorme en la portilla."
-            },
-            {
-              "id": "OPC_BROKEN_MODULE_R3",
-              "text": "Con la portilla fracturada, el Módulo de Lanzamiento queda expuesto al vacío del espacio."
-            }
-          ]
-        }
       }
     ]
   },
