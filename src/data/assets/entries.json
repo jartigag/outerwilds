@@ -93,7 +93,7 @@
             },
             {
               "id": "CT_GRAVITY_CANNON_X2",
-              "text": ""
+              "text": "Evoqué un transbordador nomai del Intruso."
             }
           ],
           "rumor": [
@@ -163,7 +163,7 @@
             },
             {
               "id": "CT_HIGH_ENERGY_LAB_R2",
-              "text": ""
+              "text": "El Laboratorio Ultraenergético, una estructura con enormes paneles solares en el ecuador de Gemelo Brasa, fue el lugar donde se concibió el Proyecto \"Gemelo Ceniza\"."
             },
             {
               "id": "CT_HIGH_ENERGY_LAB_R3",
@@ -1305,7 +1305,7 @@
     "entries": [
       {
         "id": "WHITE_HOLE_STATION",
-        "name": "Estación Agujero Blanco",
+        "name": "Estación del Agujero Blanco",
         "isCuriousity": false,
         "curiousity": "TIME_LOOP",
         "facts": {
@@ -1370,7 +1370,7 @@
             },
             {
               "id": "COMET_SHUTTLE_X2",
-              "text": ""
+              "text": "Los nomai aterrizaron en el Intruso poco después de haber llegado al sistema solar. El equipo del transbordador captó extrañas señales de energía que provenían de debajo de la superficie."
             },
             {
               "id": "COMET_SHUTTLE_X3",
@@ -1378,10 +1378,48 @@
             },
             {
               "id": "COMET_SHUTTLE_X4",
-              "text": ""
+              "text": "Clary, la nomai que se quedó, perdió contacto con las otras dos después de que descendieran de la superficie del Intruso."
             }
           ],
           "rumor": []
+        }
+      },
+      {
+        "id": "COMET_INTERIOR",
+        "name": "Señalas de energía bajo la superficie",
+        "isCuriousity": {},
+        "curiousity": "COMET_CORE",
+        "facts": {
+          "explore": [
+            {
+              "id": "COMET_INTERIOR_X1",
+              "text": ""
+            },
+            {
+              "id": "COMET_INTERIOR_X2",
+              "text": ""
+            },
+            {
+              "id": "COMET_INTERIOR_X3",
+              "text": ""
+            },
+            {
+              "id": "COMET_INTERIOR_X4",
+              "text": ""
+            }
+          ],
+          "rumor": [
+            {
+              "id": "COMET_INTERIOR_R1",
+              "text": "El equipo del transbordador captó extrañas señales de energía que provenían de debajo de la superficie.",
+              "sourceId": "COMET_SHUTTLE"
+            },
+            {
+              "id": "COMET_INTERIOR_R2",
+              "text": "Dos de las nomai detectaron una fisura en el hielo, en el lado del Intruso que miraba al sol. Y descendieron a investigar.",
+              "sourceId": "COMET_SHUTTLE"
+            }
+          ]
         }
       }
     ]
