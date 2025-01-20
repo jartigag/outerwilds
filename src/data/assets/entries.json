@@ -81,6 +81,29 @@
         }
       },
       {
+        "id": "CT_QUANTUM_MOON_LOCATOR",
+        "name": "Localizador de la Luna Cuántica",
+        "isCuriousity": false,
+        "curiousity": "QUANTUM_MOON",
+        "facts": {
+          "explore": [
+            {
+              "id": "CT_QUANTUM_MOON_LOCATOR_X1",
+              "text": ""
+            },
+            {
+              "id": "CT_QUANTUM_MOON_LOCATOR_X2",
+              "text": "Según la hipótesis de los nomai, la Luna Cuántica podría ser una forma de mecánica cuántica macroscópica."
+            },
+            {
+              "id": "CT_QUANTUM_MOON_LOCATOR_X3",
+              "text": ""
+            }
+          ],
+          "rumor": []
+        }
+      },
+      {
         "id": "CT_GRAVITY_CANNON",
         "name": "Cañón Gravitatorio",
         "isCuriousity": false,
@@ -1509,7 +1532,7 @@
             },
             {
               "id": "QUANTUM_MOON_R2",
-              "text": "",
+              "text": "En Gemelo Brasa, los nomai observaban una luna que desaparecía cuando nadie la miraba.",
               "sourceId": "CT_QUANTUM_MOON_LOCATOR"
             },
             {
