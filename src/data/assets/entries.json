@@ -147,7 +147,7 @@
           "rumor": [
             {
               "id": "CT_ESCAPE_POD_R1",
-              "text": "",
+              "text": "Una de las tres cápsulas de escape nomai aterrizó en algún lugar de los Gemelos Reloj de Arena.",
               "sourceId": "BH_MURAL_3"
             },
             {
@@ -728,7 +728,7 @@
           "rumor": [
             {
               "id": "BH_ESCAPE_POD_R1",
-              "text": "",
+              "text": "Una de las tres cápsulas de escape nomai aterrizó en algún lugar de Hondonada Frágil.",
               "sourceId": "BH_MURAL_3"
             }
           ]
@@ -765,6 +765,54 @@
               "sourceId": "BH_ESCAPE_POD"
             }
           ]
+        }
+      },
+      {
+        "id": "BH_MURAL_3",
+        "name": "Mural (Panel 3)",
+        "isCuriousity": false,
+        "curiousity": "VESSEL",
+        "parentId": "BH_OLD_SETTLEMENT",
+        "facts": {
+          "explore": [
+            {
+              "id": "BH_MURAL_3_X1",
+              "text": "Un murai de tres cápsulas de escape cuando evacúan la nave nomai."
+            }
+          ],
+          "rumor": []
+        }
+      },
+      {
+        "id": "BH_MURAL_2",
+        "name": "Mural (Panel 2)",
+        "isCuriousity": false,
+        "curiousity": "VESSEL",
+        "parentId": "BH_OLD_SETTLEMENT",
+        "facts": {
+          "explore": [
+            {
+              "id": "BH_MURAL_2_X1",
+              "text": "Un mural de Espinoscuro cuando atrapa la nave nomai."
+            }
+          ],
+          "rumor": []
+        }
+      },
+      {
+        "id": "BH_MURAL_1",
+        "name": "Mural (Panel 1)",
+        "isCuriousity": false,
+        "curiousity": "VESSEL",
+        "parentId": "BH_OLD_SETTLEMENT",
+        "facts": {
+          "explore": [
+            {
+              "id": "BH_MURAL_1_X1",
+              "text": "Un mural de una nave nomai cuando encuentra una señal."
+            }
+          ],
+          "rumor": []
         }
       },
       {
@@ -1318,7 +1366,7 @@
           "rumor": [
             {
               "id": "DB_ESCAPE_POD_R1",
-              "text": "",
+              "text": "Una de las tres cápsulas de escape nomai nunca salió de Espinoscuro.",
               "sourceId": "BH_MURAL_3"
             }
           ]
@@ -1359,11 +1407,11 @@
           "rumor": [
             {
               "id": "DB_VESSEL_R1",
-              "text": ""
+              "text": "Los nomai usaron la distorsión para llegar a este sistema solar en un vehículo llamado la Nave. Intentaban seguir una señal del Ojo del universo."
             },
             {
               "id": "DB_VESSEL_R2",
-              "text": "",
+              "text": "La Nave se estrelló en algún lugar de Espinoscuro.",
               "sourceId": "BH_MURAL_3"
             },
             {
