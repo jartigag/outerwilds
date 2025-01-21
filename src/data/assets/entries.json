@@ -942,11 +942,11 @@
           "explore": [
             {
               "id": "GD_OCEAN_X1",
-              "text": ""
+              "text": "El océano es sorprendentemente tranquilo debajo de la corriente. El núcleo del planeta está rodeado de una especie de campo eléctrico."
             },
             {
               "id": "GD_OCEAN_X2",
-              "text": ""
+              "text": "Atravesé la barrera eléctrica y llegué al bosque de coral que hay en el núcleo del planeta"
             }
           ],
           "rumor": [
@@ -1189,19 +1189,19 @@
           "explore": [
             {
               "id": "OPC_SUNKEN_MODULE_X1",
-              "text": ""
+              "text": "El Cañón de Sondas Orbital lanzó millones de sondas."
             },
             {
               "id": "OPC_SUNKEN_MODULE_X2",
-              "text": ""
+              "text": "La sonda número 9 318 054 encontró una anomalía en el espacio profundo que coincide con todos los criterios conocidos del Ojo del universo."
             },
             {
               "id": "OPC_SUNKEN_MODULE_X3",
-              "text": ""
+              "text": "La estatua del Módulo de Rastreo de Sondas registra de forma automática la trayectoria de cada sonda y transmite la información al Proyecto \"Gemelo Ceniza\"."
             },
             {
               "id": "OPC_EYE_COORDINATES_X1",
-              "text": ""
+              "text": "Encontré coordenadas nomai que marcan la ubicación del Ojo del universo."
             }
           ],
           "rumor": [
