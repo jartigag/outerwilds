@@ -623,7 +623,7 @@
             },
             {
               "id": "BH_GRAVITY_CANNON_X2",
-              "text": ""
+              "text": "Evoqué un transbordador nomai de la Luna Cuántica."
             }
           ],
           "rumor": []
@@ -1592,6 +1592,27 @@
               "text": "En las notas de investigación de Chert, se menciona una Luna Cuántica en la que los lumbreanos jamás han podido aterrizar."
             }
           ]
+        }
+      },
+      {
+        "id": "QM_SHUTTLE",
+        "name": "Solanum's Shuttle",
+        "isCuriousity": false,
+        "curiousity": "QUANTUM_MOON",
+        "altPhotoCondition": "QUANTUM_MOON_X1",
+        "parentId": "QUANTUM_MOON",
+        "facts": {
+          "explore": [
+            {
+              "id": "QM_SHUTTLE_X1",
+              "text": "Una nomai llamada Solanum aterrizó con su transbordador en el polo sur de la Luna Cuántica y se preparó para completar su viaje a pie."
+            },
+            {
+              "id": "QM_SHUTTLE_X2",
+              "text": "Quienes visitan la Luna Cuántica siempre llegan al polo sur (por motivos que los nomai desconocían)."
+            }
+          ],
+          "rumor": []
         }
       },
       {
