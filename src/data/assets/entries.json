@@ -39,7 +39,7 @@
             },
             {
               "id": "S_SUNSTATION_R3",
-              "text": "",
+              "text": "Los nomai construyeron algo llamado \"Estación Solar\", pero no todos apoyaban la idea.",
               "sourceId": "TT_WARP_TOWERS"
             }
           ]
@@ -89,7 +89,7 @@
           "explore": [
             {
               "id": "CT_QUANTUM_MOON_LOCATOR_X1",
-              "text": ""
+              "text": "Un dispositivo nomai creado para rastrear la localización de la Luna Cuántica."
             },
             {
               "id": "CT_QUANTUM_MOON_LOCATOR_X2",
@@ -97,7 +97,7 @@
             },
             {
               "id": "CT_QUANTUM_MOON_LOCATOR_X3",
-              "text": ""
+              "text": "La Luna Cuántica viaja a un total de cinco ubicaciones."
             }
           ],
           "rumor": []
@@ -1664,7 +1664,7 @@
           "rumor": [
             {
               "id": "QM_SIXTH_LOCATION_R1",
-              "text": "",
+              "text": "A veces, la Luna Cuántica desaparece. Es posible que vaya a una sexta ubicación que se desconoce.",
               "sourceId": "CT_QUANTUM_MOON_LOCATOR"
             },
             {
