@@ -287,14 +287,14 @@
       },
       {
         "id": "CT_QUANTUM_CAVES",
-        "name": "Señal cuántica",
+        "name": "Cuevas cuánticas",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
           "explore": [
             {
               "id": "CT_QUANTUM_CAVES_X1",
-              "text": ""
+              "text": "Los nomai notaron que había una extraña roca errante que había aparecido en varias cuevas, en el hemisferio norte de Gemelo Brasa."
             },
             {
               "id": "CT_QUANTUM_CAVES_X2",
@@ -306,6 +306,40 @@
               "id": "CT_QUANTUM_CAVES_R1",
               "text": "Los nomai detectaron una señal cuántica que provenía de alguna parte de los Gemelos Reloj de Arena.",
               "sourceId": "BH_QUANTUM_SHARD"
+            }
+          ]
+        }
+      }
+      {
+        "id": "CT_LAKEBED_CAVERN",
+        "name": "Lakebed Cave",
+        "isCuriousity": false,
+        "curiousity": "QUANTUM_MOON",
+        "facts": {
+          "explore": [
+            {
+              "id": "CT_LAKEBED_CAVERN_X1",
+              "text": "Un nomai llamado Coleus desapareció misteriosamente de una cueva en el fondo del lecho del lago seco, en el polo norte de Gemelo Brasa."
+            },
+            {
+              "id": "CT_LAKEBED_CAVERN_X2",
+              "text": ""
+            },
+            {
+              "id": "CT_LAKEBED_CAVERN_X3",
+              "text": ""
+            }
+          ],
+          "rumor": [
+            {
+              "id": "CT_LAKEBED_CAVERN_R1",
+              "text": "",
+              "sourceId": "CT_QUANTUM_CAVES"
+            },
+            {
+              "id": "CT_LAKEBED_CAVERN_R2",
+              "text": "",
+              "sourceId": "CT_QUANTUM_CAVES"
             }
           ]
         }
@@ -1625,19 +1659,19 @@
           "explore": [
             {
               "id": "QM_SHRINE_X1",
-              "text": ""
+              "text": "Un santuario nomai que deambula por la Luna Cuántica."
             },
             {
               "id": "QM_SHRINE_X2",
-              "text": ""
+              "text": "Junto a un mural de una torre en una isla, se lee la siguiente inscripción: \"Has evocado la regla de las imágenes cuánticas\"."
             },
             {
               "id": "QM_SHRINE_X3",
-              "text": ""
+              "text": "Junto a un mural de un fragmento cuántico en una cueva, se lee la siguiente inscripción: \"Evoca la regla del entrelazamiento cuántico\"."
             },
             {
               "id": "QM_SHRINE_X4",
-              "text": ""
+              "text": "Junto a un mural de una torre que cuelga sobre un agujero negro, se lee la siguiente inscripción: \"Evoca la regla de la sexta ubicación\"."
             }
           ],
           "rumor": [
