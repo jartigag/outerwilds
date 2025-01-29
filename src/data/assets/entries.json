@@ -309,10 +309,10 @@
             }
           ]
         }
-      }
+      },
       {
         "id": "CT_LAKEBED_CAVERN",
-        "name": "Lakebed Cave",
+        "name": "Cueva lacustre",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
@@ -1630,7 +1630,7 @@
       },
       {
         "id": "QM_SHUTTLE",
-        "name": "Solanum's Shuttle",
+        "name": "Transbordador de Solanum",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "altPhotoCondition": "QUANTUM_MOON_X1",
