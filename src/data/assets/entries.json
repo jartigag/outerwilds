@@ -1214,26 +1214,26 @@
       },
       {
         "id": "GD_QUANTUM_TOWER",
-        "name": "Torre de pruebas cuánticas",
+        "name": "Torre de Pruebas Cuánticas",
         "isCuriousity": false,
         "curiousity": "QUANTUM_MOON",
         "facts": {
           "explore": [
             {
               "id": "GD_QUANTUM_TOWER_X1",
-              "text": ""
+              "text": "Esta torre contenía el conocimiento que un nomai necesitaba para realizar su primer viaje cuántico."
             },
             {
               "id": "GD_QUANTUM_TOWER_X2",
-              "text": ""
+              "text": "\"Observar un objeto cuántico; observar una imagen de un objeto cuántico. Ambos son lo mismo\"."
             },
             {
               "id": "GD_QUANTUM_TOWER_X3",
-              "text": ""
+              "text": "Los nomai denominaban a este fenómeno \"regla de las imágenes cuánticas\"."
             },
             {
               "id": "GD_QUANTUM_TOWER_X4",
-              "text": ""
+              "text": "\"Recuerda: los demás fragmentos cuánticos tienen otras lecciones que enseñar\"."
             }
           ],
           "rumor": [
