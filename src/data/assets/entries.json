@@ -332,7 +332,7 @@
             },
             {
               "id": "CT_QUANTUM_CAVES_X2",
-              "text": ""
+              "text": "Encontré un extraño fragmento de roca, que se mueve cuando no lo observo. Emite una señal en la frecuencia de fluctuaciones cuánticas."
             }
           ],
           "rumor": [
@@ -357,22 +357,22 @@
             },
             {
               "id": "CT_LAKEBED_CAVERN_X2",
-              "text": ""
+              "text": "Para viajar con un objeto cuántico, debo pararme sobre él y dejar de observar mi entorno. Es decir, que preciso de una oscuridad absoluta. Coleus usó esta regla cuántica para escapar de la cueva en la que se encontraba atrapado."
             },
             {
               "id": "CT_LAKEBED_CAVERN_X3",
-              "text": ""
+              "text": "Coleus y Melorae regresaron para examinar la roca. Llegaron a la teoría de que cuando un ser consciente está en contacto con un objeto cuántico y deja de observar su entorno, puede quedar intrincado con ese objeto cuántico, y ambos se mueven como una unidad."
             }
           ],
           "rumor": [
             {
               "id": "CT_LAKEBED_CAVERN_R1",
-              "text": "",
+              "text": "La roca errante se detectó por primera vez en una cueva en el fondo del lecho del lago seco, en el polo norte de Gemelo Brasa.",
               "sourceId": "CT_QUANTUM_CAVES"
             },
             {
               "id": "CT_LAKEBED_CAVERN_R2",
-              "text": "",
+              "text": "Un nomai llamado Coleus desapareció misteriosamente de una cueva en el fondo del lecho del lago seco, en el polo norte de Gemelo Brasa.",
               "sourceId": "CT_QUANTUM_CAVES"
             }
           ]
