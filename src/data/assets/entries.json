@@ -556,7 +556,7 @@
           "rumor": [
             {
               "id": "TH_NOMAI_MINE_R1",
-              "text": "",
+              "text": "Los nomai extraían minerales de alguna parte de Lumbre.",
               "sourceId": "VM_VOLCANO"
             }
           ]
@@ -1099,6 +1099,33 @@
               "sourceId": "GD_CONSTRUCTION_YARD"
             }
           ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "VOLCANIC_MOON",
+    "entries": [
+      {
+        "id": "VM_VOLCANO",
+        "name": "Sitio de pruebas volcánico",
+        "isCuriousity": false,
+        "curiousity": "TIME_LOOP",
+        "facts": {
+          "explore": [
+            {
+              "id": "VM_VOLCANO_X1",
+              "text": "Los nomai enviaban las muestras de minerales que obtenían en las minas de Lumbre a este volcán para realizar pruebas de durabilidad."
+            {
+              "id": "VM_VOLCANO_X2",
+              "text": "Los nomai intentaban fabricar una carcasa que fuera (brevemente) resistente a una supernova para recubrir el Proyecto \"Gemelo Ceniza\"."
+            },
+            {
+              "id": "VM_VOLCANO_X3",
+              "text": "Cualquier grieta o apertura en la carcasa protectora, por pequeña que fuera, destruiría todo."
+            }
+          ],
+          "rumor": []
         }
       }
     ]
