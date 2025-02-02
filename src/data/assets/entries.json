@@ -288,7 +288,7 @@
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_X2",
-              "text": "La regla de los ojos vendados se agregó porque los rapes son ciegos"
+              "text": "La regla de los ojos vendados se agregó porque los rapes son ciegos."
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_X3",
@@ -448,7 +448,7 @@
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_R4",
-              "text": "",
+              "text": "Se aprobó la instalación de un núcleo de distorsión avanzado en la cámara de control de Gemelo Ceniza.",
               "sourceId": "BH_BLACK_HOLE_FORGE"
             }
           ]
@@ -928,23 +928,23 @@
           "explore": [
             {
               "id": "BH_BLACK_HOLE_FORGE_X4",
-              "text": ""
+              "text": "El punto de alineación de una torre de distorsión no es su receptor de distorsión. En realidad, una torre de distorsión siempre está alineada con el centro de su cuerpo astral correspondiente."
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_X5",
-              "text": ""
+              "text": "El receptor de distorsión debe estar ubicado en el cuerpo astral correspondiente o, al menos, en su órbita."
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_X6",
-              "text": ""
+              "text": "Los Gemelos Reloj de Arena están tan cerca uno del otro que funcionan como un solo cuerpo astral con un mismo punto de alineación en medio."
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_X1",
-              "text": ""
+              "text": "Todas las torres de distorsión se estaban construyendo en Gemelo Ceniza, mientras que los seis receptores de distorsión se estaban construyendo en distintas ubicaciones."
             },
             {
               "id": "BH_BLACK_HOLE_FORGE_X3",
-              "text": ""
+              "text": "Una nomai llamada Poke forjó con éxito un núcleo de distorsión avanzado para el Proyecto \"Gemelo Ceniza\"."
             }
           ],
           "rumor": [
@@ -969,6 +969,34 @@
               "sourceId": "TT_WARP_TOWERS"
             }
           ]
+        }
+      },
+      {
+        "id": "BH_WARP_ALIGNMENT_MAP",
+        "name": "Diagrama del ángulo de alineación",
+        "isCuriousity": false,
+        "curiousity": "TIME_LOOP",
+        "parentId": "BH_BLACK_HOLE_FORGE",
+        "facts": {
+          "explore": [
+            {
+              "id": "BH_WARP_ALIGNMENT_MAP_X1",
+              "text": "Un plano que muestra el ángulo de alineación entre una torre de distorsión y su cuerpo astral correspondiente."
+            },
+            {
+              "id": "BH_WARP_ALIGNMENT_MAP_X2",
+              "text": "Los ángulos de alineación de las torres de distorsión no son exactos. Deben estar dentro de los cinco grados del centro del cuerpo astral."
+            },
+            {
+              "id": "BH_WARP_ALIGNMENT_MAP_X3",
+              "text": "Esto nos da ventanas de distorsión un poco más largas, que deberían durar unos cuantos segundos."
+            },
+            {
+              "id": "BH_WARP_ALIGNMENT_MAP_X4",
+              "text": "Quien pise la plataforma de distorsión mientras la ventana de distorsión esté activa será transportado de inmediato."
+            }
+          ],
+          "rumor": []
         }
       },
       {
@@ -1583,7 +1611,7 @@
       },
       {
         "id": "COMET_INTERIOR",
-        "name": "Señalas de energía bajo la superficie",
+        "name": "Señales de energía bajo la superficie",
         "isCuriousity": {},
         "curiousity": "COMET_CORE",
         "facts": {
