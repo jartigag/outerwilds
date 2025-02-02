@@ -223,7 +223,7 @@
           "rumor": [
             {
               "id": "CT_WARP_TOWER_MAP_R1",
-              "text": "There are tower designs in the High Energy Lab that reveal each warp receiver's location.",
+              "text": "Hay planos de las torres en el Laboratorio Ultraenergético que muestran la ubicación de cada receptor de distorsión.",
               "sourceId": "BH_BLACK_HOLE_FORGE"
             }
           ]
@@ -433,7 +433,7 @@
           "rumor": [
             {
               "id": "TT_TIME_LOOP_DEVICE_R1",
-              "text": "",
+              "text": "La cámara central en el interior de Gemelo Ceniza quedó sellada físicamente por una carcasa protectora de un grosor inmenso.",
               "sourceId": "TH_NOMAI_MINE"
             },
             {
@@ -529,6 +529,35 @@
               "id": "TH_IMPACT_CRATER_R1",
               "text": "El registro del señaloscopio de Esker indica una música de armónica que proviene de alguna parte de Lumbre. Dice que suena como la armónica de Feldespato, pero Feldespato desapareció en el espacio hace muchísimo.",
               "sourceId": "TM_NORTH_POLE"
+            }
+          ]
+        }
+      },
+      {
+        "id": "TH_NOMAI_MINE",
+        "name": "Minas nomai",
+        "isCuriousity": false,
+        "curiousity": "TIME_LOOP",
+        "facts": {
+          "explore": [
+            {
+              "id": "TH_NOMAI_MINE_X1",
+              "text": "Los nomai extraían minerales de este sitio para fabricar una carcasa protectora a fines de sellar físicamente la cámara central en el interior de Gemelo Ceniza."
+            },
+            {
+              "id": "TH_NOMAI_MINE_X2",
+              "text": "Una vez que completaron la carcasa, los nomai verificaron que no hubiera grietas ni entradas físicas."
+            },
+            {
+              "id": "TH_NOMAI_MINE_X3",
+              "text": "Los nomai descubrieron una forma de vida semiacuática y de cuatro ojos en los canales cercanos a la mina."
+            }
+          ],
+          "rumor": [
+            {
+              "id": "TH_NOMAI_MINE_R1",
+              "text": "",
+              "sourceId": "VM_VOLCANO"
             }
           ]
         }
