@@ -1077,7 +1077,7 @@
       },
       {
         "id": "BH_TORNADO_SIMULATION",
-        "name": "",
+        "name": "Simulación de tornados",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "parentId": "BH_OBSERVATORY",
