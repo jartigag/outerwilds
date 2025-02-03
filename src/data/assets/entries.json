@@ -1497,6 +1497,40 @@
     "id": "DARK_BRAMBLE",
     "entries": [
       {
+        "id": "DB_FELDSPAR",
+        "name": "Dentro de la semilla",
+        "isCuriousity": false,
+        "curiousity": "SUNKEN_MODULE",
+        "facts": {
+          "explore": [
+            {
+              "id": "DB_FELDSPAR_X1",
+              "text": ""
+            },
+            {
+              "id": "DB_FELDSPAR_X2",
+              "text": ""
+            },
+            {
+              "id": "DB_FELDSPAR_X3",
+              "text": ""
+            }
+          ],
+          "rumor": [
+            {
+              "id": "DB_FELDSPAR_R1",
+              "text": "",
+              "sourceId": "GD_BRAMBLE_ISLAND"
+            },
+            {
+              "id": "DB_FELDSPAR_R2",
+              "text": "Cuando lanzo mi explorador hacia la semilla que se estrelló en Lumbre, acaba en un espacio mucho más grande repleto de niebla y hiedras espinosas.",
+              "sourceId": "TH_IMPACT_CRATER"
+            }
+          ]
+        }
+      },
+      {
         "id": "DB_ESCAPE_POD",
         "name": "Cápsula de Escape 3",
         "isCuriousity": false,
