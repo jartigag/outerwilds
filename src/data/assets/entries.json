@@ -1037,19 +1037,19 @@
           "explore": [
             {
               "id": "BH_OBSERVATORY_X1",
-              "text": ""
+              "text": "El nuevo localizador más sensible que los nomai construyeron en este observatorio no fue capaz de detectar ningún rastro de la señal del Ojo."
             },
             {
               "id": "BH_OBSERVATORY_X2",
-              "text": ""
+              "text": "Basándonos en el conocimiento que tenían sobre la Luna Cuántica, los nomai creían que el Ojo orbitaba a gran distancia alrededor del Sol."
             },
             {
               "id": "BH_OBSERVATORY_X3",
-              "text": ""
+              "text": "Los nomai decidieron dejar de buscar la señal del Ojo y, en su lugar, enviar una sonda espacial para intentar ubicarlo de manera visual."
             },
             {
               "id": "BH_OBSERVATORY_X4",
-              "text": ""
+              "text": "Les preocupaba que las probabilidades de lanzar una sonda en la dirección correcta fueran absurdamente bajas."
             }
           ],
           "rumor": [
@@ -1085,11 +1085,11 @@
           "explore": [
             {
               "id": "BH_TORNADO_SIMULATION_X1",
-              "text": ""
+              "text": "Casi todos los ciclones de Abismo del Gigante giran en sentido horario. Estos son los ciclones que los nomai usaron para poner componentes en órbita."
             },
             {
               "id": "BH_TORNADO_SIMULATION_X2",
-              "text": ""
+              "text": "Pero también hay otro tipo de ciclones, más raros, que giran en la dirección contraria y arrastran los objetos debajo de las aguas y de la corriente."
             }
           ],
           "rumor": [
@@ -1367,7 +1367,7 @@
             },
             {
               "id": "ORBITAL_PROBE_CANNON_R4",
-              "text": "",
+              "text": "Los nomai decidieron construir un cañón de sondas en la órbita de Abismo del Gigante.",
               "sourceId": "BH_OBSERVATORY"
             },
             {
