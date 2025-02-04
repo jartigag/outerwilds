@@ -1531,6 +1531,35 @@
         }
       },
       {
+        "id": "DB_FROZEN_JELLYFISH",
+        "name": "Medusa congelada",
+        "isCuriousity": false,
+        "curiousity": "SUNKEN_MODULE",
+        "facts": {
+          "explore": [
+            {
+              "id": "DB_FROZEN_JELLYFISH_X1",
+              "text": "Feldespato documentó sus intentos de ocmerse una medusa enorme que quedó atrapada entre el hielo. El exterior era gomoso y duro, sin dudas porque aísla las entrañas de la meduas para que no reciban electricidad."
+            },
+            {
+              "id": "DB_FROZEN_JELLYFISH_X2",
+              "text": "Feldespato decidió aventurarse en la cavidad interior de la medusa para ver si sabía mejor desde dentro."
+            },
+            {
+              "id": "DB_FROZEN_JELLYFISH_X3",
+              "text": "Después de probar el interior de la medusa, Feldespato concluyó que esos bichejos solo sirven como aislantes de electricidad."
+            }
+          ],
+          "rumor": [
+            {
+              "id": "DB_FROZEN_JELLYFISH_R1",
+              "text": "Feldespato insinuó que el secreto para llegar al núcleo del Abismo del Gigante yace al final de la hiedra hueca contra la que se estrelló su astronave. Para encontrar la astronave de Feldespato, debo ir al extremo de la cola del esqueleto de rape y buscar una luz que parpadee entre la niebla.",
+              "sourceId": "DB_FELDSPAR"
+            }
+          ]
+        }
+      },
+      {
         "id": "DB_ESCAPE_POD",
         "name": "Cápsula de Escape 3",
         "isCuriousity": false,
