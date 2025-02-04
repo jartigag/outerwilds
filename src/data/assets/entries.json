@@ -292,7 +292,7 @@
             },
             {
               "id": "CT_ANGLERFISH_FOSSIL_X3",
-              "text": ""
+              "text": "Los nomai adultos estaban felices de ver que los niños habían incorporado este descubrimiento a las reglas del juego."
             }
           ],
           "rumor": [
@@ -527,7 +527,7 @@
           "rumor": [
             {
               "id": "TH_IMPACT_CRATER_R1",
-              "text": "El registro del señaloscopio de Esker indica una música de armónica que proviene de alguna parte de Lumbre. Dice que suena como la armónica de Feldespato, pero Feldespato desapareció en el espacio hace muchísimo.",
+              "text": "El registro del señaloscopio de Esker indica una música de armónica que proviene de alguna parte de Lumbre. Dice que suena como la armónica de Feldespato, pero  spato desapareció en el espacio hace muchísimo.",
               "sourceId": "TM_NORTH_POLE"
             }
           ]
@@ -1498,22 +1498,22 @@
     "entries": [
       {
         "id": "DB_FELDSPAR",
-        "name": "Dentro de la semilla",
+        "name": "Campamento de Feldespato",
         "isCuriousity": false,
         "curiousity": "SUNKEN_MODULE",
         "facts": {
           "explore": [
             {
               "id": "DB_FELDSPAR_X1",
-              "text": ""
+              "text": "¡Feldespato vive! Se estrelló con su astronave y ahora está acampado dentro del esqueleto de un rape enorme."
             },
             {
               "id": "DB_FELDSPAR_X2",
-              "text": ""
+              "text": "Según Feldespato, no es incorrecto que el rastreador indique que mi explorador está en dos lugares a la vez. Tiene la hipótesis de que el espacio no funciona del mismo modo dentro de Espinoscuro."
             },
             {
               "id": "DB_FELDSPAR_X3",
-              "text": ""
+              "text": "Feldespato no parece tener muchas ganas de regresar a la civilización. Está disfrutando de la paz y la tranquilidad (relativas) del lugar."
             }
           ],
           "rumor": [
