@@ -1702,26 +1702,26 @@
       },
       {
         "id": "COMET_INTERIOR",
-        "name": "Señales de energía bajo la superficie",
+        "name": "Núcleo roto",
         "isCuriousity": {},
         "curiousity": "COMET_CORE",
         "facts": {
           "explore": [
             {
               "id": "COMET_INTERIOR_X1",
-              "text": ""
+              "text": "Encontré a las dos miembros perdidas de la tripulación nomai cerca de una gran piedra rota, que parece como si hubiese explotado desde su interior."
             },
             {
               "id": "COMET_INTERIOR_X2",
-              "text": ""
+              "text": "Las nomai rastrearon las extrañas señales de energía y llegaron a una carcasa esférica de piedra que contenía una especie de materia exótica."
             },
             {
               "id": "COMET_INTERIOR_X3",
-              "text": ""
+              "text": "Determinaron que la materia exótica era letal y se encontraba bajo una extrema presión. Si esta piedra se quebrase, la materia exótica que contiene se expandiría rápidamente y cubriría por completo este sistema solar casi al instante."
             },
             {
               "id": "COMET_INTERIOR_X4",
-              "text": ""
+              "text": "Una de las nomai se quedó a examinar la materia extraña mientras que la otra corrió a la superficie para advertir a los demás."
             }
           ],
           "rumor": [
