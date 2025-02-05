@@ -1210,15 +1210,15 @@
           "explore": [
             {
               "id": "GD_CONSTRUCTION_YARD_X1",
-              "text": ""
+              "text": "Esta es la isla donde los nomai construyeron el Cañón de Sondas Orbital."
             },
             {
               "id": "GD_CONSTRUCTION_YARD_X2",
-              "text": ""
+              "text": "Por algún motivo, los nomai pausaron el Cañón de Sonda Orbital de manera indefinida. El cañón no recibió la orden de disparar."
             },
             {
               "id": "GD_CONSTRUCTION_YARD_X3",
-              "text": ""
+              "text": "De acuerdo con una computadora nomai, el Cañón de Sondas Orbital lanzó una sonda de largo alcance recientemente."
             }
           ],
           "rumor": [
