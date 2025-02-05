@@ -1373,7 +1373,7 @@
             },
             {
               "id": "ORBITAL_PROBE_CANNON_R3",
-              "text": "",
+              "text": "Gabro ve una luz brillante en el cielo al comienzo de cada bucle. Algo debe estar pasando en la órbita de Abismo del Gigante.",
               "sourceId": "GD_GABBRO_ISLAND"
             }
           ]
@@ -1439,15 +1439,15 @@
           "explore": [
             {
               "id": "OPC_BROKEN_MODULE_X1",
-              "text": ""
+              "text": "El Módulo de Lanzamiento sufrió daños importantes, pero la alberca de proyección está intacta."
             },
             {
               "id": "OPC_BROKEN_MODULE_X2",
-              "text": ""
+              "text": "Una nomai de nombre Mallow sostenía que no importaba si la integridad estructural del cañón estaba comprometida, ya que la sonda solo debía lanzarse una vez."
             },
             {
               "id": "OPC_BROKEN_MODULE_X3",
-              "text": ""
+              "text": "Una nomai de nombre Privet argumentó que no podrían recibir información de la sonda si se destruía el Módulo de Rastreo de Sondas."
             }
           ],
           "rumor": [
