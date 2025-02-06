@@ -1589,6 +1589,44 @@
         }
       },
       {
+        "id": "DB_NOMAI_GRAVE",
+        "name": "Nomai Grave",
+        "isCuriousity": false,
+        "curiousity": "VESSEL",
+        "facts": {
+          "explore": [
+            {
+              "id": "DB_NOMAI_GRAVE_X1",
+              "text": "Los supervivientes de la cápsula de escape 3 siguieron una de las dos balizas de la Nave hasta una pequeña semilla de Espinoscuro, y ya no pudieron continuar."
+            },
+            {
+              "id": "DB_NOMAI_GRAVE_X2",
+              "text": "Los nomai apenas oían la baliza desde dentro de las semilla, pero la apertura era demasiado pequeña como para que pasara un nomai, y mucho menos una cápsula de escape."
+            },
+            {
+              "id": "DB_NOMAI_GRAVE_X3",
+              "text": "La baliza de la Nave se estaba apagando. Pronto desaparecería por completo."
+            },
+            {
+              "id": "DB_NOMAI_GRAVE_X4",
+              "text": "Si lanzo mi explorador adentro de la semilla, puedo fotografiar una astronave nomai enorme y en ruinas."
+            }
+          ],
+          "rumor": [
+            {
+              "id": "DB_NOMAI_GRAVE_R1",
+              "text": "Los supervivientes de la cápsula de escape 3 abandonaron el sitio de la colisión e intentaron regresar a la Nave.",
+              "sourceId": "DB_ESCAPE_POD"
+            },
+            {
+              "id": "DB_NOMAI_GRAVE_R2",
+              "text": "Los supervivientes decidieron seguir la baliza más cercana de la Nave porque tenían un suministro de aire limitado. El plan era dejar un rastro de luces en caso de que alguien escuchara la señal de auxilio.",
+              "sourceId": "DB_ESCAPE_POD"
+            }
+          ]
+        }
+      },
+      {
         "id": "DB_VESSEL",
         "name": "La Nave",
         "isCuriousity": {},
@@ -1597,15 +1635,15 @@
           "explore": [
             {
               "id": "DB_VESSEL_X1",
-              "text": ""
+              "text": "Encontré la Nave nomai en ruinas en las profundidades de Espinoscuro."
             },
             {
               "id": "DB_VESSEL_X2",
-              "text": ""
+              "text": "Activé un pilar de tres lados en el puente de la Nave, que parece ser algún dispositivo de entrada."
             },
             {
               "id": "DB_VESSEL_X3",
-              "text": ""
+              "text": "Encontré una grabación de la señal del Ojo del universo que los nomai detectaron originalmente. Los nomai temían que la señal desapareciera, así que usaron la distorsión para ir tras ella antes de avisarle a otro clan adónde se dirigían."
             },
             {
               "id": "DB_VESSEL_X4",
@@ -1637,7 +1675,7 @@
             },
             {
               "id": "DB_VESSEL_R4",
-              "text": "",
+              "text": "En la tumba de los nomai, lancé mi explorador adentro de la semilla y fotografié una astronave nomai enorme y en ruinas.",
               "sourceId": "DB_NOMAI_GRAVE"
             }
           ]
