@@ -411,23 +411,23 @@
           "explore": [
             {
               "id": "TT_TIME_LOOP_DEVICE_X1",
-              "text": ""
+              "text": "Una cámara forjada dentro de Gemelo Ceniza. Los cables de energía que vienen desde la superficie están conectados a una carcasa protectora en el centro del planeta."
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_X2",
-              "text": ""
+              "text": "Hay ocho monolitos que cuentan con máscaras nomai. Tres de estas máscaras están recibiendo datos desde el Módulo de Rastreo de Sondas, Abismo del Gigante y Lumbre, respectivamente."
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_X3",
-              "text": ""
+              "text": "El Proyecto \"Gemelo Ceniza\" se diseñó con el fin de utilizar la energía de una supernova (provocada por la Estación Solar) para enviar datos de una sonda desde el Cañón de Sondas Orbital 22 minutos hacia el pasado."
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_X4",
-              "text": ""
+              "text": "La Estación Solar no funcionó. El Proyecto \"Gemelo Ceniza\" era sólido en cuanto a la teoría, pero los nomai no pudieron darle la potencia necesaria."
             },
             {
               "id": "TT_TIME_LOOP_DEVICE_X5",
-              "text": ""
+              "text": "Hay un núcleo de distorsión avanzado dentro de la carcasa protectora que se encuentra en el centro del planeta. Si se quita el núcleo, se desactivará el Proyecto \"Gemelo Ceniza\"."
             }
           ],
           "rumor": [
@@ -1359,7 +1359,7 @@
           "explore": [
             {
               "id": "ORBITAL_PROBE_CANNON_X1",
-              "text": ""
+              "text": "Los restos de una estación espacial nomai en la órbita de Abismo del Gigante. Hay tres vías de acceso que se ramifican desde el eje central."
             },
             {
               "id": "ORBITAL_PROBE_CANNON_X2",
