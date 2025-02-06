@@ -1231,6 +1231,21 @@
         }
       },
       {
+        "id": "GD_BRAMBLE_ISLAND",
+        "name": "Isla Espino",
+        "isCuriousity": false,
+        "curiousity": "SUNKEN_MODULE",
+        "facts": {
+          "explore": [
+            {
+              "id": "GD_BRAMBLE_ISLAND_X1",
+              "text": "Una isla con hiedras espinosas y lo que parece ser una medusa congelada. Parece que Feldespato acampó aquí antes de dirigirse a Espinoscuro."
+            }
+          ],
+          "rumor": []
+        }
+      },
+      {
         "id": "GD_STATUE_ISLAND",
         "name": "Isla de la Estatua",
         "isCuriousity": false,
@@ -1590,7 +1605,7 @@
       },
       {
         "id": "DB_NOMAI_GRAVE",
-        "name": "Nomai Grave",
+        "name": "Tumba nomai",
         "isCuriousity": false,
         "curiousity": "VESSEL",
         "facts": {
@@ -1643,19 +1658,19 @@
             },
             {
               "id": "DB_VESSEL_X3",
-              "text": "Encontré una grabación de la señal del Ojo del universo que los nomai detectaron originalmente. Los nomai temían que la señal desapareciera, así que usaron la distorsión para ir tras ella antes de avisarle a otro clan adónde se dirigían."
+              "text": "El núcleo de distorsión de la Nave murió hae mucho tiempo."
             },
             {
               "id": "DB_VESSEL_X4",
-              "text": ""
+              "text": "Los nomai intentaron pedir ayuda, pero el sistema de mensajes salientes de la Nave se averió en la colisión."
             },
             {
               "id": "DB_VESSEL_X5",
-              "text": ""
+              "text": "La Nave aún puede escuchar mensajes entrantes de otras naves nomai. Ls clanes nomai que quedan se están reagrupando ante la inminente muerte del universo."
             },
             {
               "id": "DB_VESSEL_X6",
-              "text": ""
+              "text": "Encontré una grabación de la señal del Ojo del universo que los nomai detectaron originalmente. Los nomai temían que la señal desapareciera, así que usaron la distorsión para ir tras ella antes de avisarle a otro clan adónde se dirigían."
             }
           ],
           "rumor": [
